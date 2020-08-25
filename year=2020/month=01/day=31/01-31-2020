@@ -1,0 +1,63 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,5806,204.0,141.0
+1,Zhejiang,Mainland China,538,,14.0
+2,Guangdong,Mainland China,436,,11.0
+3,Henan,Mainland China,352,2.0,3.0
+4,Hunan,Mainland China,332,,2.0
+5,Jiangxi,Mainland China,240,,7.0
+6,Anhui,Mainland China,237,,3.0
+7,Chongqing,Mainland China,211,,1.0
+8,Shandong,Mainland China,184,,2.0
+9,Sichuan,Mainland China,177,1.0,1.0
+10,Jiangsu,Mainland China,168,,5.0
+11,Beijing,Mainland China,139,1.0,5.0
+12,Shanghai,Mainland China,135,1.0,9.0
+13,Fujian,Mainland China,120,,
+14,Guangxi,Mainland China,87,,2.0
+15,Shaanxi,Mainland China,87,,
+16,Yunnan,Mainland China,83,,1.0
+17,Hebei,Mainland China,82,1.0,
+18,Heilongjiang,Mainland China,59,2.0,
+19,Hainan,Mainland China,52,1.0,1.0
+20,Liaoning,Mainland China,48,,1.0
+21,Shanxi,Mainland China,39,,1.0
+22,Tianjin,Mainland China,32,,
+23,Guizhou,Mainland China,29,,2.0
+24,Gansu,Mainland China,29,,
+25,Ningxia,Mainland China,21,,
+26,Inner Mongolia,Mainland China,20,,1.0
+27,Xinjiang,Mainland China,17,,
+28,Jilin,Mainland China,14,,1.0
+29,Hong Kong,Hong Kong,12,,
+30,Taiwan,Taiwan,10,,
+31,Qinghai,Mainland China,8,,
+32,Macau,Macau,7,,
+33,Tibet,Mainland China,1,,
+34,,Thailand,19,,5.0
+35,,Japan,15,,1.0
+36,,Singapore,13,,
+37,,South Korea,11,,
+38,,Malaysia,8,,
+39,,France,5,,
+40,Bavaria,Germany,5,,
+41,New South Wales,Australia,4,,2.0
+42,,United Arab Emirates,4,,
+43,Victoria,Australia,3,,
+44,Illinois,US,2,,
+45,California,US,2,,
+46,,Vietnam,2,,
+47,Ontario,Canada,2,,
+48,Queensland,Australia,2,,
+49,,Italy,2,,
+50,,UK,2,,
+51,,Russia,2,,
+52,Washington,US,1,,
+53,Arizona,US,1,,
+54,,Nepal,1,,
+55,British Columbia,Canada,1,,
+56,,Cambodia,1,,
+57,,Sri Lanka,1,,
+58,,Finland,1,,
+59,,Philippines,1,,
+60,,India,1,,
+61,,Sweden,1,,

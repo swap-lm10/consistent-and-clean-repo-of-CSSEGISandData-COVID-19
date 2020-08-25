@@ -1,0 +1,126 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,66907,2761,31536
+1,,South Korea,3736,17,30
+2,,Italy,1694,34,83
+3,Guangdong,Mainland China,1349,7,1016
+4,Henan,Mainland China,1272,22,1198
+5,Zhejiang,Mainland China,1205,1,1046
+6,Hunan,Mainland China,1018,4,866
+7,Anhui,Mainland China,990,6,873
+8,,Iran,978,54,175
+9,Jiangxi,Mainland China,935,1,831
+10,Shandong,Mainland China,758,6,443
+11,Diamond Princess cruise ship,Others,705,6,10
+12,Jiangsu,Mainland China,631,0,536
+13,Chongqing,Mainland China,576,6,450
+14,Sichuan,Mainland China,538,3,365
+15,Heilongjiang,Mainland China,480,13,342
+16,Beijing,Mainland China,413,8,276
+17,Shanghai,Mainland China,337,3,290
+18,Hebei,Mainland China,318,6,294
+19,Fujian,Mainland China,296,1,247
+20,,Japan,256,6,32
+21,Guangxi,Mainland China,252,2,181
+22,Shaanxi,Mainland China,245,1,208
+23,Yunnan,Mainland China,174,2,163
+24,Hainan,Mainland China,168,5,149
+25,Guizhou,Mainland China,146,2,112
+26,Tianjin,Mainland China,136,3,111
+27,Shanxi,Mainland China,133,0,116
+28,,France,130,2,12
+29,,Germany,130,0,16
+30,Liaoning,Mainland China,122,1,103
+31,,Singapore,106,0,72
+32,Hong Kong,Hong Kong,96,2,36
+33,Jilin,Mainland China,93,1,78
+34,Gansu,Mainland China,91,2,84
+35,,Spain,84,0,2
+36,Xinjiang,Mainland China,76,3,64
+37,Inner Mongolia,Mainland China,75,0,52
+38,Ningxia,Mainland China,73,0,69
+39,,Bahrain,47,0,0
+40,,Kuwait,45,0,0
+41,Unassigned Location (From Diamond Princess),US,44,0,0
+42,,Thailand,42,1,28
+43,Taiwan,Taiwan,40,1,9
+44,,UK,36,0,8
+45,,Malaysia,29,0,18
+46,,Switzerland,27,0,0
+47,,United Arab Emirates,21,0,5
+48,,Iraq,19,0,0
+49,,Norway,19,0,0
+50,Qinghai,Mainland China,18,0,18
+51,,Vietnam,16,0,16
+52,,Austria,14,0,0
+53,"Toronto, ON",Canada,14,0,2
+54,,Sweden,14,0,0
+55,,Israel,10,0,1
+56,,Lebanon,10,0,0
+57,Macau,Macau,10,0,8
+58,,Netherlands,10,0,0
+59,Queensland,Australia,9,0,1
+60,"Seattle, WA",US,9,1,1
+61,British Columbia,Canada,8,0,3
+62,Victoria,Australia,7,0,4
+63,,Croatia,7,0,0
+64,,Greece,7,0,0
+65,New South Wales,Australia,6,0,4
+66,,Ecuador,6,0,0
+67,,Finland,6,0,1
+68,,Oman,6,0,1
+69,,Mexico,5,0,0
+70,,Denmark,4,0,0
+71,,Pakistan,4,0,0
+72,South Australia,Australia,3,0,2
+73,,Azerbaijan,3,0,0
+74,,Czech Republic,3,0,0
+75,,Georgia,3,0,0
+76,,Iceland,3,0,0
+77,,India,3,0,3
+78,,Philippines,3,1,1
+79,,Qatar,3,0,0
+80,,Romania,3,0,0
+81,"Chicago, IL",US,3,0,2
+82,"Santa Clara, CA",US,3,0,1
+83,Western Australia,Australia,2,1,0
+84,,Belgium,2,0,1
+85,,Brazil,2,0,0
+86,,Egypt,2,0,1
+87,,Russia,2,0,2
+88,"Sacramento County, CA",US,2,0,0
+89,"San Benito, CA",US,2,0,0
+90,"San Diego County, CA",US,2,0,1
+91,"Snohomish County, WA",US,2,0,0
+92,,Afghanistan,1,0,0
+93,,Algeria,1,0,0
+94,,Armenia,1,0,0
+95,,Belarus,1,0,0
+96,,Cambodia,1,0,1
+97," Montreal, QC",Canada,1,0,0
+98,"London, ON",Canada,1,0,1
+99,,Dominican Republic,1,0,0
+100,,Estonia,1,0,0
+101,,Ireland,1,0,0
+102,,Lithuania,1,0,0
+103,,Luxembourg,1,0,0
+104,Tibet,Mainland China,1,0,1
+105,,Monaco,1,0,0
+106,,Nepal,1,0,1
+107,,New Zealand,1,0,0
+108,,Nigeria,1,0,0
+109,,North Macedonia,1,0,0
+110,,San Marino,1,0,0
+111,,Sri Lanka,1,0,1
+112,"Boston, MA",US,1,0,1
+113,"Humboldt County, CA",US,1,0,0
+114,"Los Angeles, CA",US,1,0,0
+115,"Madison, WI",US,1,0,0
+116,"Orange, CA",US,1,0,0
+117,"Portland, OR",US,1,0,0
+118,"Providence, RI",US,1,0,0
+119,"San Antonio, TX",US,1,0,0
+120,"Tempe, AZ",US,1,0,1
+121,From Diamond Princess,Australia,0,0,0
+122,"Lackland, TX (From Diamond Princess)",US,0,0,0
+123,"Omaha, NE (From Diamond Princess)",US,0,0,0
+124,"Travis, CA (From Diamond Princess)",US,0,0,0

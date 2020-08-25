@@ -1,0 +1,85 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,62662,2144,11881
+1,Guangdong,Mainland China,1333,5,690
+2,Henan,Mainland China,1267,19,736
+3,Zhejiang,Mainland China,1203,1,679
+4,Hunan,Mainland China,1011,4,661
+5,Anhui,Mainland China,988,6,539
+6,Jiangxi,Mainland China,934,1,489
+7,Shandong,Mainland China,749,4,281
+8,Diamond Princess cruise ship,Others,634,2,1
+9,Jiangsu,Mainland China,631,0,373
+10,Chongqing,Mainland China,572,6,316
+11,Sichuan,Mainland China,525,3,231
+12,Heilongjiang,Mainland China,479,12,175
+13,Beijing,Mainland China,396,4,169
+14,Shanghai,Mainland China,334,2,211
+15,Hebei,Mainland China,308,5,184
+16,Fujian,Mainland China,293,1,149
+17,Guangxi,Mainland China,246,2,97
+18,Shaanxi,Mainland China,245,1,134
+19,,South Korea,204,2,16
+20,Yunnan,Mainland China,174,2,96
+21,Hainan,Mainland China,168,4,95
+22,Guizhou,Mainland China,146,2,77
+23,Shanxi,Mainland China,132,0,78
+24,Tianjin,Mainland China,132,3,62
+25,Liaoning,Mainland China,121,1,61
+26,,Japan,105,1,22
+27,Gansu,Mainland China,91,2,76
+28,Jilin,Mainland China,91,1,45
+29,,Singapore,85,0,37
+30,Xinjiang,Mainland China,76,1,24
+31,Inner Mongolia,Mainland China,75,0,17
+32,Ningxia,Mainland China,71,0,48
+33,Hong Kong,Hong Kong,68,2,5
+34,,Thailand,35,0,17
+35,Taiwan,Taiwan,26,1,2
+36,,Malaysia,22,0,15
+37,,Italy,20,1,0
+38,,Iran,18,4,0
+39,Qinghai,Mainland China,18,0,18
+40,,Germany,16,0,14
+41,,Vietnam,16,0,14
+42,,France,12,1,4
+43,"Ashland, NE",US,11,0,0
+44,Macau,Macau,10,0,6
+45,,UK,9,0,8
+46,,United Arab Emirates,9,0,4
+47,British Columbia,Canada,6,0,0
+48,Queensland,Australia,5,0,1
+49,"Travis, CA",US,5,0,0
+50,From Diamond Princess,Australia,4,0,0
+51,New South Wales,Australia,4,0,4
+52,Victoria,Australia,4,0,4
+53,,India,3,0,3
+54,,Philippines,3,1,1
+55,South Australia,Australia,2,0,2
+56,"Toronto, ON",Canada,2,0,2
+57,,Russia,2,0,2
+58,,Spain,2,0,2
+59,"Chicago, IL",US,2,0,2
+60,"Lackland, TX",US,2,0,0
+61,"San Benito, CA",US,2,0,0
+62,"San Diego County, CA",US,2,0,1
+63,"Santa Clara, CA",US,2,0,1
+64,,Belgium,1,0,1
+65,,Cambodia,1,0,1
+66,"London, ON",Canada,1,0,1
+67,,Egypt,1,0,0
+68,,Finland,1,0,1
+69,From Diamond Princess,Israel,1,0,0
+70,None,Lebanon,1,0,0
+71,Tibet,Mainland China,1,0,1
+72,,Nepal,1,0,1
+73,,Sri Lanka,1,0,1
+74,,Sweden,1,0,0
+75,"Boston, MA",US,1,0,0
+76,"Humboldt County, CA",US,1,0,0
+77,"Los Angeles, CA",US,1,0,0
+78,"Madison, WI",US,1,0,0
+79,"Orange, CA",US,1,0,0
+80,"Sacramento County, CA",US,1,0,0
+81,"San Antonio, TX",US,1,0,0
+82,"Seattle, WA",US,1,0,1
+83,"Tempe, AZ",US,1,0,0

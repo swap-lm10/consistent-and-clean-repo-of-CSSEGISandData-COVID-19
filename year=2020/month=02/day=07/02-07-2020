@@ -1,0 +1,73 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,24953,699,1115
+1,Guangdong,Mainland China,1034,1,88
+2,Zhejiang,Mainland China,1006,0,123
+3,Henan,Mainland China,914,3,86
+4,Hunan,Mainland China,772,0,112
+5,Anhui,Mainland China,665,0,47
+6,Jiangxi,Mainland China,661,0,45
+7,Chongqing,Mainland China,426,2,31
+8,Jiangsu,Mainland China,408,0,43
+9,Shandong,Mainland China,386,0,37
+10,Sichuan,Mainland China,344,1,42
+11,Beijing,Mainland China,297,1,33
+12,Heilongjiang,Mainland China,277,3,12
+13,Shanghai,Mainland China,277,1,30
+14,Fujian,Mainland China,224,0,20
+15,Shaanxi,Mainland China,184,0,17
+16,Guangxi,Mainland China,172,0,17
+17,Hebei,Mainland China,172,1,22
+18,Yunnan,Mainland China,138,0,12
+19,Hainan,Mainland China,117,2,10
+20,Shanxi,Mainland China,104,0,15
+21,Liaoning,Mainland China,99,0,7
+22,Guizhou,Mainland China,81,1,6
+23,Tianjin,Mainland China,81,1,2
+24,Gansu,Mainland China,67,0,9
+25,Jilin,Mainland China,65,1,4
+26,Cruise Ship,Others,61,0,0
+27,Inner Mongolia,Mainland China,50,0,5
+28,Ningxia,Mainland China,43,0,5
+29,Xinjiang,Mainland China,39,0,0
+30,,Singapore,30,0,0
+31,Hong Kong,Hong Kong,25,1,0
+32,,Japan,25,0,1
+33,,Thailand,25,0,5
+34,,South Korea,24,0,1
+35,Qinghai,Mainland China,18,0,3
+36,Taiwan,Taiwan,16,0,1
+37,,Germany,13,0,0
+38,,Malaysia,12,0,1
+39,Macau,Macau,10,0,1
+40,,Vietnam,10,0,1
+41,,France,6,0,0
+42,Queensland,Australia,5,0,0
+43,,United Arab Emirates,5,0,0
+44,New South Wales,Australia,4,0,2
+45,Victoria,Australia,4,0,0
+46,British Columbia,Canada,4,0,0
+47,,India,3,0,0
+48,,Italy,3,0,0
+49,,Philippines,3,1,0
+50,,UK,3,0,0
+51,South Australia,Australia,2,0,0
+52,"Toronto, ON",Canada,2,0,0
+53,,Russia,2,0,0
+54,"Chicago, IL",US,2,0,0
+55,"San Benito, CA",US,2,0,0
+56,"Santa Clara, CA",US,2,0,0
+57,,Belgium,1,0,0
+58,,Cambodia,1,0,0
+59,"London, ON",Canada,1,0,0
+60,,Finland,1,0,0
+61,Tibet,Mainland China,1,0,0
+62,,Nepal,1,0,0
+63,,Spain,1,0,0
+64,,Sri Lanka,1,0,0
+65,,Sweden,1,0,0
+66,"Boston, MA",US,1,0,0
+67,"Los Angeles, CA",US,1,0,0
+68,"Madison, WI",US,1,0,0
+69,"Orange, CA",US,1,0,0
+70,"Seattle, WA",US,1,0,0
+71,"Tempe, AZ",US,1,0,0

@@ -1,0 +1,256 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,67707,2986,45235
+1,,Italy,7375,366,622
+2,,South Korea,7314,50,118
+3,,Iran,6566,194,2134
+4,Guangdong,Mainland China,1352,7,1256
+5,Henan,Mainland China,1272,22,1247
+6,Zhejiang,Mainland China,1215,1,1161
+7,,France,1126,19,12
+8,,Germany,1040,0,18
+9,Hunan,Mainland China,1018,4,968
+10,Anhui,Mainland China,990,6,984
+11,Jiangxi,Mainland China,935,1,919
+12,Shandong,Mainland China,758,6,642
+13,Diamond Princess cruise ship,Others,696,6,40
+14,,Spain,673,17,30
+15,Jiangsu,Mainland China,631,0,612
+16,Chongqing,Mainland China,576,6,527
+17,Sichuan,Mainland China,539,3,464
+18,,Japan,502,6,76
+19,Heilongjiang,Mainland China,481,13,412
+20,Beijing,Mainland China,428,8,308
+21,Shanghai,Mainland China,342,3,314
+22,,Switzerland,337,2,3
+23,Hebei,Mainland China,318,6,307
+24,Fujian,Mainland China,296,1,295
+25,,UK,273,3,18
+26,,Netherlands,265,3,0
+27,Guangxi,Mainland China,252,2,223
+28,Shaanxi,Mainland China,245,1,227
+29,,Sweden,203,0,0
+30,,Belgium,200,0,1
+31,,Norway,176,0,0
+32,Yunnan,Mainland China,174,2,170
+33,Hainan,Mainland China,168,6,159
+34,,Singapore,150,0,78
+35,Guizhou,Mainland China,146,2,117
+36,Tianjin,Mainland China,136,3,128
+37,Shanxi,Mainland China,133,0,126
+38,Liaoning,Mainland China,125,1,109
+39,Gansu,Mainland China,124,2,87
+40,Hong Kong,Hong Kong,114,3,58
+41,,Austria,104,0,0
+42,,Malaysia,99,0,24
+43,Jilin,Mainland China,93,1,90
+44,,Bahrain,85,0,4
+45,"King County, WA",US,83,17,1
+46,"Westchester County, NY",US,83,0,0
+47,Xinjiang,Mainland China,76,3,73
+48,Inner Mongolia,Mainland China,75,1,70
+49,Ningxia,Mainland China,75,0,71
+50,,Greece,73,0,0
+51,,Kuwait,64,0,1
+52,,Iraq,60,6,0
+53,,Iceland,50,0,0
+54,,Thailand,50,1,31
+55,,Egypt,49,1,1
+56,Taiwan,Taiwan,45,1,13
+57,Unassigned Location (From Diamond Princess),US,45,0,0
+58,,United Arab Emirates,45,0,7
+59,,India,39,0,3
+60,,Israel,39,0,2
+61,New South Wales,Australia,38,3,4
+62,"Santa Clara County, CA",US,38,0,1
+63,,San Marino,36,1,0
+64,,Denmark,35,0,1
+65,,Lebanon,32,0,1
+66,,Czech Republic,31,0,0
+67,"Snohomish County, WA",US,31,1,0
+68,,Portugal,30,0,0
+69,,Vietnam,30,0,16
+70,"Toronto, ON",Canada,28,0,3
+71,British Columbia,Canada,27,0,4
+72,,Finland,23,0,1
+73,,Palestine,22,0,0
+74,,Republic of Ireland,21,0,0
+75,Grand Princess Cruise Ship,US,21,0,0
+76,,Brazil,20,0,0
+77,,Algeria,19,0,0
+78,,Ireland,19,0,0
+79,Qinghai,Mainland China,18,0,18
+80,,Russia,17,0,3
+81,,Oman,16,0,2
+82,,Slovenia,16,0,0
+83,Queensland,Australia,15,0,8
+84,,Qatar,15,0,0
+85,,Romania,15,0,3
+86,,Ecuador,14,0,0
+87,"Los Angeles, CA",US,14,0,0
+88,,Georgia,13,0,0
+89,,Argentina,12,1,0
+90,,Croatia,12,0,0
+91,"Contra Costa County, CA",US,12,0,0
+92,"New York County, NY",US,12,0,0
+93,Victoria,Australia,11,0,7
+94,,Poland,11,0,0
+95,,Saudi Arabia,11,0,0
+96,,Estonia,10,0,0
+97,Macau,Macau,10,0,10
+98,,Philippines,10,1,1
+99,,Azerbaijan,9,0,0
+100,"San Francisco County, CA",US,9,0,0
+101,,Chile,8,0,0
+102,"Suffolk County, MA",US,8,0,1
+103,"Washington County, OR",US,8,0,0
+104,South Australia,Australia,7,0,2
+105,,Hungary,7,0,0
+106,,Mexico,7,0,1
+107,"Cook County, IL",US,7,0,2
+108,"Middlesex County, MA",US,7,0,0
+109,,Belarus,6,0,0
+110,,Indonesia,6,0,0
+111,,Pakistan,6,0,1
+112,,Peru,6,0,0
+113,"Fort Bend County, TX",US,6,0,0
+114,"Norfolk County, MA",US,6,0,0
+115,,Costa Rica,5,0,0
+116,,Dominican Republic,5,0,0
+117,,French Guiana,5,0,0
+118,,New Zealand,5,0,0
+119,"Harris County, TX",US,5,0,0
+120,"Nassau County, NY",US,5,0,0
+121,"Placer County, CA",US,5,1,0
+122,"Unassigned Location, WA",US,5,0,0
+123,,Afghanistan,4,0,0
+124,,Bulgaria,4,0,0
+125," Montreal, QC",Canada,4,0,0
+126,,Maldives,4,0,0
+127,,Senegal,4,0,1
+128,"Bergen County, NJ",US,4,0,0
+129,"Grafton County, NH",US,4,0,0
+130,"Montgomery County, MD",US,4,0,0
+131,"Montgomery County, PA",US,4,0,0
+132,"Pierce County, WA",US,4,0,0
+133,Western Australia,Australia,3,1,0
+134,,Bangladesh,3,0,0
+135,,Bosnia and Herzegovina,3,0,0
+136,"Edmonton, Alberta",Canada,3,0,0
+137,,Luxembourg,3,0,0
+138,,Malta,3,0,0
+139,,North Macedonia,3,0,0
+140,,Saint Barthelemy,3,0,0
+141,,Slovakia,3,0,0
+142,,South Africa,3,0,0
+143,"Douglas County, CO",US,3,0,0
+144,"Fulton County, GA",US,3,0,0
+145,"Maricopa County, AZ",US,3,0,1
+146,"Orange County, CA",US,3,0,0
+147,"Providence County, RI",US,3,0,0
+148,"San Diego County, CA",US,3,0,1
+149,Tasmania,Australia,2,0,0
+150,,Cambodia,2,0,1
+151,,Cameroon,2,0,0
+152,,Faroe Islands,2,0,0
+153,,Latvia,2,0,0
+154,,Martinique,2,0,0
+155,,Morocco,2,0,0
+156,,Tunisia,2,0,0
+157,"Alameda County, CA",US,2,0,0
+158,"Broward County, FL",US,2,0,0
+159,"Clark County, NV",US,2,0,0
+160,"Denver County, CO",US,2,0,0
+161,"Fairfax County, VA",US,2,0,0
+162,"Hillsborough, FL",US,2,0,0
+163,"Jackson County, OR ",US,2,0,0
+164,"Lee County, FL",US,2,1,0
+165,"Pinal County, AZ",US,2,0,0
+166,"Rockingham County, NH",US,2,0,0
+167,"Rockland County, NY",US,2,0,0
+168,"Sacramento County, CA",US,2,0,0
+169,"San Benito, CA",US,2,0,0
+170,"San Mateo, CA",US,2,0,0
+171,"Saratoga County, NY",US,2,0,0
+172,"Summit County, CO",US,2,0,0
+173,"Washington, D.C.",US,2,0,0
+174,"Washoe County, NV",US,2,0,0
+175,,Andorra,1,0,0
+176,,Armenia,1,0,0
+177,,Bhutan,1,0,0
+178,"Calgary, Alberta",Canada,1,0,0
+179,"London, ON",Canada,1,0,1
+180,,Colombia,1,0,0
+181,,Gibraltar,1,0,0
+182,,Jordan,1,0,0
+183,,Liechtenstein,1,0,0
+184,,Lithuania,1,0,0
+185,Tibet,Mainland China,1,0,1
+186,,Moldova,1,0,0
+187,,Monaco,1,0,0
+188,,Nepal,1,0,1
+189,,Nigeria,1,0,0
+190,,Paraguay,1,0,0
+191,,Serbia,1,0,0
+192,,Sri Lanka,1,0,1
+193,,Togo,1,0,0
+194,"Berkshire County, MA",US,1,0,0
+195,"Charleston County, SC",US,1,0,0
+196,"Chatham County, NC",US,1,0,0
+197,"Clark County, WA",US,1,0,0
+198,"Cobb County, GA",US,1,0,0
+199,"Davidson County, TN",US,1,0,0
+200,"Davis County, UT",US,1,0,0
+201,"Delaware County, PA",US,1,0,0
+202,"Douglas County, NE",US,1,0,0
+203,"Douglas County, OR",US,1,0,0
+204,"El Paso County, CO",US,1,0,0
+205,"Fairfield County, CT",US,1,0,0
+206,"Fayette County, KY",US,1,0,0
+207,"Fresno County, CA",US,1,0,0
+208,"Grant County, WA",US,1,0,0
+209,"Harford County, MD",US,1,0,0
+210,"Hendricks County, IN",US,1,0,0
+211,"Honolulu County, HI",US,1,0,0
+212,"Hudson County, NJ",US,1,0,0
+213,"Humboldt County, CA",US,1,0,0
+214,"Jefferson County, WA",US,1,0,0
+215,"Johnson County, KS",US,1,0,0
+216,"Kershaw County, SC",US,1,0,0
+217,"Kittitas County, WA",US,1,0,0
+218,"Klamath County, OR",US,1,0,0
+219,"Madera County, CA",US,1,0,0
+220,"Madison, WI",US,1,0,1
+221,"Manatee County, FL",US,1,0,0
+222,"Marion County, IN",US,1,0,0
+223,"Marion County, OR",US,1,0,0
+224,"Okaloosa County, FL",US,1,0,0
+225,"Plymouth County, MA",US,1,0,0
+226,"Polk County, GA",US,1,0,0
+227,"Ramsey County, MN",US,1,0,0
+228,"Riverside County, CA",US,1,0,0
+229,"San Antonio, TX",US,1,0,0
+230,"Santa Rosa County, FL",US,1,1,0
+231,"Sarasota, FL",US,1,0,0
+232,"Shelby County, TN",US,1,0,0
+233,"Sonoma County, CA",US,1,0,0
+234,"Spokane County, WA",US,1,0,0
+235,"St. Louis County, MO",US,1,0,0
+236,"Suffolk County, NY",US,1,0,0
+237,"Tulsa County, OK",US,1,0,0
+238,"Ulster County, NY",US,1,0,0
+239,"Umatilla, OR",US,1,0,0
+240,"Unassigned Location, VT",US,1,0,0
+241,"Unknown Location, MA",US,1,0,0
+242,"Volusia County, FL",US,1,0,0
+243,"Wake County, NC",US,1,0,0
+244,"Wayne County, PA",US,1,0,0
+245,"Williamson County, TN",US,1,0,0
+246,"Yolo County, CA",US,1,0,0
+247,,Ukraine,1,0,0
+248,,Vatican City,1,0,0
+249,From Diamond Princess,Australia,0,0,0
+250,Northern Territory,Australia,0,0,0
+251,"Lackland, TX (From Diamond Princess)",US,0,0,0
+252,"Montgomery County, TX",US,0,0,0
+253,"Omaha, NE (From Diamond Princess)",US,0,0,0
+254,"Travis, CA (From Diamond Princess)",US,0,0,0

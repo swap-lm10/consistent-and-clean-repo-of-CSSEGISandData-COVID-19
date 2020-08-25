@@ -1,0 +1,74 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,33366,1068,2686
+1,Guangdong,Mainland China,1219,1,275
+2,Henan,Mainland China,1135,8,246
+3,Zhejiang,Mainland China,1131,0,321
+4,Hunan,Mainland China,946,2,304
+5,Anhui,Mainland China,889,4,127
+6,Jiangxi,Mainland China,844,1,152
+7,Jiangsu,Mainland China,543,0,125
+8,Chongqing,Mainland China,518,3,102
+9,Shandong,Mainland China,497,2,92
+10,Sichuan,Mainland China,436,1,92
+11,Heilongjiang,Mainland China,378,8,31
+12,Beijing,Mainland China,352,3,56
+13,Shanghai,Mainland China,311,1,57
+14,Fujian,Mainland China,272,0,53
+15,Hebei,Mainland China,251,2,54
+16,Shaanxi,Mainland China,225,0,43
+17,Guangxi,Mainland China,222,1,32
+18,Diamond Princess cruise ship,Others,175,0,0
+19,Hainan,Mainland China,157,4,27
+20,Yunnan,Mainland China,154,0,26
+21,Guizhou,Mainland China,133,1,18
+22,Shanxi,Mainland China,126,0,33
+23,Liaoning,Mainland China,116,1,20
+24,Tianjin,Mainland China,112,2,11
+25,Gansu,Mainland China,87,2,31
+26,Jilin,Mainland China,83,1,22
+27,Inner Mongolia,Mainland China,60,0,6
+28,Xinjiang,Mainland China,59,0,3
+29,Ningxia,Mainland China,58,0,24
+30,Hong Kong,Hong Kong,50,1,1
+31,,Singapore,50,0,15
+32,,Thailand,33,0,10
+33,,Japan,28,0,9
+34,,South Korea,28,0,7
+35,Qinghai,Mainland China,18,0,9
+36,,Malaysia,18,0,3
+37,Taiwan,Taiwan,18,0,1
+38,,Germany,16,0,0
+39,,Vietnam,15,0,6
+40,,France,11,0,2
+41,Macau,Macau,10,0,2
+42,,UK,9,0,1
+43,,United Arab Emirates,8,0,1
+44,Queensland,Australia,5,0,0
+45,New South Wales,Australia,4,0,2
+46,Victoria,Australia,4,0,0
+47,British Columbia,Canada,4,0,0
+48,,India,3,0,0
+49,,Italy,3,0,0
+50,,Philippines,3,1,1
+51,South Australia,Australia,2,0,0
+52,"Toronto, ON",Canada,2,0,0
+53,,Russia,2,0,2
+54,,Spain,2,0,0
+55,"Chicago, IL",US,2,0,2
+56,"San Benito, CA",US,2,0,0
+57,"Santa Clara, CA",US,2,0,0
+58,,Belgium,1,0,0
+59,,Cambodia,1,0,1
+60,"London, ON",Canada,1,0,1
+61,,Finland,1,0,1
+62,Tibet,Mainland China,1,0,1
+63,,Nepal,1,0,1
+64,,Sri Lanka,1,0,1
+65,,Sweden,1,0,0
+66,"Boston, MA",US,1,0,0
+67,"Los Angeles, CA",US,1,0,0
+68,"Madison, WI",US,1,0,0
+69,"Orange, CA",US,1,0,0
+70,"San Diego County, CA",US,1,0,0
+71,"Seattle, WA",US,1,0,1
+72,"Tempe, AZ",US,1,0,0

@@ -1,0 +1,3418 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,New York,US,9654,63,0
+1,New York,US,1900,4,0
+2,New York,US,1873,0,0
+3,New York,US,1034,9,0
+4,New York,US,455,1,0
+5,New York,US,247,0,0
+6,New York,US,123,0,0
+7,New York,US,82,0,0
+8,New York,US,68,1,0
+9,New York,US,56,0,0
+10,New York,US,45,0,0
+11,New York,US,35,0,0
+12,New York,US,32,0,0
+13,New York,US,31,0,0
+14,New York,US,23,38,0
+15,New York,US,20,0,0
+16,New York,US,18,0,0
+17,New York,US,17,0,0
+18,New York,US,15,0,0
+19,New York,US,12,0,0
+20,New York,US,9,0,0
+21,New York,US,4,0,0
+22,New York,US,4,0,0
+23,New York,US,4,0,0
+24,New York,US,3,0,0
+25,New York,US,3,1,0
+26,New York,US,3,0,0
+27,New York,US,3,0,0
+28,New York,US,3,0,0
+29,New York,US,2,0,0
+30,New York,US,2,0,0
+31,New York,US,2,0,0
+32,New York,US,2,0,0
+33,New York,US,2,0,0
+34,New York,US,2,0,0
+35,New York,US,2,0,0
+36,New York,US,2,0,0
+37,New York,US,1,0,0
+38,New York,US,1,0,0
+39,New York,US,1,0,0
+40,New York,US,1,0,0
+41,New York,US,1,0,0
+42,New York,US,1,0,0
+43,New York,US,1,0,0
+44,New York,US,1,0,0
+45,Washington,US,1040,75,0
+46,Washington,US,480,10,0
+47,Washington,US,164,0,0
+48,Washington,US,107,1,0
+49,Washington,US,33,0,0
+50,Washington,US,21,1,0
+51,Washington,US,20,0,0
+52,Washington,US,18,1,0
+53,Washington,US,18,0,0
+54,Washington,US,16,0,0
+55,Washington,US,14,2,0
+56,Washington,US,11,0,0
+57,Washington,US,10,3,0
+58,Washington,US,7,2,0
+59,Washington,US,6,0,0
+60,Washington,US,4,0,0
+61,Washington,US,4,0,0
+62,Washington,US,4,0,0
+63,Washington,US,3,0,0
+64,Washington,US,3,0,0
+65,Washington,US,3,0,0
+66,Washington,US,2,0,0
+67,Washington,US,1,0,0
+68,Washington,US,1,0,0
+69,Washington,US,1,0,0
+70,Washington,US,1,0,0
+71,Washington,US,1,0,0
+72,Washington,US,1,0,0
+73,Washington,US,1,0,0
+74,Washington,US,1,0,0
+75,New Jersey,US,457,6,0
+76,New Jersey,US,221,4,0
+77,New Jersey,US,172,4,0
+78,New Jersey,US,158,3,0
+79,New Jersey,US,147,0,0
+80,New Jersey,US,126,1,0
+81,New Jersey,US,124,0,0
+82,New Jersey,US,119,1,0
+83,New Jersey,US,102,1,0
+84,New Jersey,US,95,0,0
+85,New Jersey,US,51,0,0
+86,New Jersey,US,40,0,0
+87,New Jersey,US,26,0,0
+88,New Jersey,US,22,0,0
+89,New Jersey,US,16,0,0
+90,New Jersey,US,12,0,0
+91,New Jersey,US,9,0,0
+92,New Jersey,US,8,0,0
+93,New Jersey,US,5,0,0
+94,New Jersey,US,2,0,0
+95,New Jersey,US,1,0,0
+96,New Jersey,US,1,0,0
+97,California,US,407,5,0
+98,California,US,263,8,0
+99,California,US,155,0,0
+100,California,US,117,1,0
+101,California,US,108,0,0
+102,California,US,95,0,0
+103,California,US,71,0,0
+104,California,US,61,1,0
+105,California,US,53,3,0
+106,California,US,38,0,0
+107,California,US,31,2,0
+108,California,US,29,6,0
+109,California,US,27,0,0
+110,California,US,25,0,0
+111,California,US,22,1,0
+112,California,US,17,0,0
+113,California,US,15,0,0
+114,California,US,13,0,0
+115,California,US,13,0,0
+116,California,US,12,1,0
+117,California,US,12,0,0
+118,California,US,11,1,0
+119,California,US,6,0,0
+120,California,US,6,0,0
+121,California,US,6,0,0
+122,California,US,5,1,0
+123,California,US,5,0,0
+124,California,US,5,0,0
+125,California,US,3,0,0
+126,California,US,2,0,0
+127,California,US,2,0,0
+128,California,US,2,0,0
+129,California,US,2,0,0
+130,California,US,1,0,0
+131,California,US,1,0,0
+132,California,US,1,0,0
+133,California,US,1,0,0
+134,California,US,1,0,0
+135,California,US,1,0,0
+136,California,US,1,0,0
+137,Illinois,US,805,4,0
+138,Illinois,US,79,0,0
+139,Illinois,US,69,0,0
+140,Illinois,US,21,1,0
+141,Illinois,US,13,0,0
+142,Illinois,US,12,0,0
+143,Illinois,US,6,0,0
+144,Illinois,US,4,1,0
+145,Illinois,US,4,0,0
+146,Illinois,US,4,0,0
+147,Illinois,US,3,0,0
+148,Illinois,US,3,0,0
+149,Illinois,US,3,0,0
+150,Illinois,US,2,0,0
+151,Illinois,US,2,0,0
+152,Illinois,US,2,0,0
+153,Illinois,US,2,3,0
+154,Illinois,US,2,0,0
+155,Illinois,US,1,0,0
+156,Illinois,US,1,0,0
+157,Illinois,US,1,0,0
+158,Illinois,US,1,0,0
+159,Illinois,US,1,0,0
+160,Illinois,US,1,0,0
+161,Illinois,US,1,0,0
+162,Illinois,US,1,0,0
+163,Illinois,US,1,0,0
+164,Illinois,US,1,0,0
+165,Illinois,US,1,0,0
+166,Illinois,US,1,0,0
+167,Illinois,US,1,0,0
+168,Michigan,US,477,5,0
+169,Michigan,US,277,2,0
+170,Michigan,US,140,1,0
+171,Michigan,US,35,0,0
+172,Michigan,US,22,1,0
+173,Michigan,US,14,0,0
+174,Michigan,US,11,0,0
+175,Michigan,US,8,0,0
+176,Michigan,US,7,0,0
+177,Michigan,US,6,0,0
+178,Michigan,US,6,0,0
+179,Michigan,US,5,0,0
+180,Michigan,US,3,0,0
+181,Michigan,US,2,0,0
+182,Michigan,US,2,0,0
+183,Michigan,US,2,0,0
+184,Michigan,US,2,0,0
+185,Michigan,US,2,0,0
+186,Michigan,US,1,0,0
+187,Michigan,US,1,0,0
+188,Michigan,US,1,0,0
+189,Michigan,US,1,0,0
+190,Michigan,US,1,0,0
+191,Michigan,US,1,0,0
+192,Michigan,US,1,0,0
+193,Michigan,US,1,0,0
+194,Michigan,US,1,0,0
+195,Michigan,US,1,0,0
+196,Michigan,US,1,0,0
+197,Michigan,US,1,0,0
+198,Michigan,US,1,0,0
+199,Michigan,US,1,0,0
+200,Florida,US,227,0,0
+201,Florida,US,217,3,0
+202,Florida,US,72,0,0
+203,Florida,US,58,0,0
+204,Florida,US,39,1,0
+205,Florida,US,38,0,0
+206,Florida,US,35,0,0
+207,Florida,US,33,0,0
+208,Florida,US,33,2,0
+209,Florida,US,26,2,0
+210,Florida,US,24,0,0
+211,Florida,US,19,0,0
+212,Florida,US,16,0,0
+213,Florida,US,15,0,0
+214,Florida,US,14,0,0
+215,Florida,US,14,0,0
+216,Florida,US,13,1,0
+217,Florida,US,11,1,0
+218,Florida,US,11,0,0
+219,Florida,US,8,0,0
+220,Florida,US,8,0,0
+221,Florida,US,7,1,0
+222,Florida,US,7,0,0
+223,Florida,US,6,0,0
+224,Florida,US,5,1,0
+225,Florida,US,5,0,0
+226,Florida,US,5,0,0
+227,Florida,US,4,1,0
+228,Florida,US,4,0,0
+229,Florida,US,4,0,0
+230,Florida,US,3,0,0
+231,Florida,US,3,0,0
+232,Florida,US,2,0,0
+233,Florida,US,2,0,0
+234,Florida,US,2,0,0
+235,Florida,US,2,0,0
+236,Florida,US,2,0,0
+237,Florida,US,1,0,0
+238,Florida,US,1,0,0
+239,Florida,US,1,0,0
+240,Florida,US,1,0,0
+241,Florida,US,1,0,0
+242,Florida,US,1,0,0
+243,Florida,US,1,0,0
+244,Florida,US,1,0,0
+245,Florida,US,1,0,0
+246,Florida,US,1,0,0
+247,Louisiana,US,451,15,0
+248,Louisiana,US,166,3,0
+249,Louisiana,US,50,0,0
+250,Louisiana,US,22,0,0
+251,Louisiana,US,18,0,0
+252,Louisiana,US,15,0,0
+253,Louisiana,US,12,0,0
+254,Louisiana,US,12,0,0
+255,Louisiana,US,11,0,0
+256,Louisiana,US,11,0,0
+257,Louisiana,US,9,0,0
+258,Louisiana,US,7,0,0
+259,Louisiana,US,6,0,0
+260,Louisiana,US,5,0,0
+261,Louisiana,US,4,0,0
+262,Louisiana,US,4,0,0
+263,Louisiana,US,3,0,0
+264,Louisiana,US,3,0,0
+265,Louisiana,US,3,0,0
+266,Louisiana,US,2,0,0
+267,Louisiana,US,2,0,0
+268,Louisiana,US,2,0,0
+269,Louisiana,US,2,0,0
+270,Louisiana,US,2,0,0
+271,Louisiana,US,2,0,0
+272,Louisiana,US,2,0,0
+273,Louisiana,US,2,0,0
+274,Louisiana,US,1,1,0
+275,Louisiana,US,1,0,0
+276,Louisiana,US,1,0,0
+277,Louisiana,US,1,1,0
+278,Louisiana,US,1,0,0
+279,Louisiana,US,1,0,0
+280,Louisiana,US,1,0,0
+281,Louisiana,US,1,0,0
+282,Louisiana,US,1,0,0
+283,Louisiana,US,0,0,0
+284,Massachusetts,US,199,1,0
+285,Massachusetts,US,126,1,0
+286,Massachusetts,US,75,0,0
+287,Massachusetts,US,60,0,0
+288,Massachusetts,US,37,0,0
+289,Massachusetts,US,25,0,0
+290,Massachusetts,US,24,0,0
+291,Massachusetts,US,24,0,0
+292,Massachusetts,US,24,3,0
+293,Massachusetts,US,23,0,0
+294,Massachusetts,US,12,0,0
+295,Massachusetts,US,6,0,0
+296,Massachusetts,US,6,0,0
+297,Massachusetts,US,4,0,0
+298,Massachusetts,US,1,0,0
+299,Texas,US,131,2,0
+300,Texas,US,74,1,0
+301,Texas,US,62,0,0
+302,Texas,US,47,1,0
+303,Texas,US,46,1,0
+304,Texas,US,38,1,0
+305,Texas,US,30,0,0
+306,Texas,US,29,0,0
+307,Texas,US,16,0,0
+308,Texas,US,14,0,0
+309,Texas,US,13,0,0
+310,Texas,US,12,0,0
+311,Texas,US,11,0,0
+312,Texas,US,10,0,0
+313,Texas,US,10,0,0
+314,Texas,US,9,0,0
+315,Texas,US,9,0,0
+316,Texas,US,7,0,0
+317,Texas,US,7,0,0
+318,Texas,US,6,0,0
+319,Texas,US,4,0,0
+320,Texas,US,4,0,0
+321,Texas,US,3,1,0
+322,Texas,US,3,0,0
+323,Texas,US,3,0,0
+324,Texas,US,3,0,0
+325,Texas,US,2,0,0
+326,Texas,US,2,0,0
+327,Texas,US,2,0,0
+328,Texas,US,2,0,0
+329,Texas,US,2,0,0
+330,Texas,US,2,0,0
+331,Texas,US,2,0,0
+332,Texas,US,2,0,0
+333,Texas,US,2,0,0
+334,Texas,US,1,0,0
+335,Texas,US,1,0,0
+336,Texas,US,1,0,0
+337,Texas,US,1,0,0
+338,Texas,US,1,0,0
+339,Texas,US,1,0,0
+340,Texas,US,1,0,0
+341,Texas,US,1,0,0
+342,Texas,US,1,0,0
+343,Texas,US,1,0,0
+344,Texas,US,1,0,0
+345,Texas,US,1,0,0
+346,Texas,US,1,0,0
+347,Texas,US,1,0,0
+348,Texas,US,1,0,0
+349,Texas,US,1,0,0
+350,Texas,US,1,0,0
+351,Texas,US,1,0,0
+352,Texas,US,1,0,0
+353,Texas,US,1,0,0
+354,Texas,US,1,0,0
+355,Texas,US,1,0,0
+356,Texas,US,1,0,0
+357,Texas,US,1,0,0
+358,Georgia,US,111,2,0
+359,Georgia,US,67,2,0
+360,Georgia,US,56,1,0
+361,Georgia,US,53,0,0
+362,Georgia,US,52,6,0
+363,Georgia,US,36,10,0
+364,Georgia,US,27,1,0
+365,Georgia,US,18,0,0
+366,Georgia,US,16,0,0
+367,Georgia,US,16,0,0
+368,Georgia,US,13,0,0
+369,Georgia,US,10,0,0
+370,Georgia,US,9,1,0
+371,Georgia,US,9,1,0
+372,Georgia,US,9,0,0
+373,Georgia,US,9,0,0
+374,Georgia,US,8,0,0
+375,Georgia,US,8,0,0
+376,Georgia,US,7,0,0
+377,Georgia,US,4,0,0
+378,Georgia,US,4,0,0
+379,Georgia,US,4,0,0
+380,Georgia,US,4,0,0
+381,Georgia,US,4,0,0
+382,Georgia,US,4,0,0
+383,Georgia,US,4,0,0
+384,Georgia,US,4,0,0
+385,Georgia,US,3,0,0
+386,Georgia,US,3,0,0
+387,Georgia,US,3,0,0
+388,Georgia,US,3,0,0
+389,Georgia,US,2,0,0
+390,Georgia,US,2,0,0
+391,Georgia,US,2,1,0
+392,Georgia,US,2,0,0
+393,Georgia,US,2,0,0
+394,Georgia,US,2,0,0
+395,Georgia,US,2,0,0
+396,Georgia,US,2,0,0
+397,Georgia,US,2,0,0
+398,Georgia,US,2,0,0
+399,Georgia,US,2,0,0
+400,Georgia,US,2,0,0
+401,Georgia,US,2,0,0
+402,Georgia,US,1,0,0
+403,Georgia,US,1,0,0
+404,Georgia,US,1,0,0
+405,Georgia,US,1,0,0
+406,Georgia,US,1,0,0
+407,Georgia,US,1,0,0
+408,Georgia,US,1,0,0
+409,Georgia,US,1,0,0
+410,Georgia,US,1,0,0
+411,Georgia,US,1,0,0
+412,Georgia,US,1,0,0
+413,Georgia,US,1,0,0
+414,Georgia,US,1,0,0
+415,Georgia,US,1,0,0
+416,Georgia,US,1,0,0
+417,Georgia,US,1,0,0
+418,Georgia,US,1,0,0
+419,Colorado,US,125,0,0
+420,Colorado,US,80,1,0
+421,Colorado,US,51,3,0
+422,Colorado,US,51,0,0
+423,Colorado,US,45,0,0
+424,Colorado,US,37,1,0
+425,Colorado,US,37,0,0
+426,Colorado,US,33,0,0
+427,Colorado,US,32,0,0
+428,Colorado,US,22,0,0
+429,Colorado,US,18,0,0
+430,Colorado,US,16,0,0
+431,Colorado,US,8,0,0
+432,Colorado,US,7,0,0
+433,Colorado,US,3,0,0
+434,Colorado,US,3,0,0
+435,Colorado,US,3,0,0
+436,Colorado,US,3,0,0
+437,Colorado,US,3,0,0
+438,Colorado,US,2,0,0
+439,Colorado,US,2,0,0
+440,Colorado,US,2,0,0
+441,Colorado,US,1,1,0
+442,Colorado,US,1,0,0
+443,Colorado,US,1,0,0
+444,Colorado,US,1,0,0
+445,Colorado,US,1,0,0
+446,Colorado,US,1,0,0
+447,Colorado,US,1,0,0
+448,Colorado,US,1,0,0
+449,Pennsylvania,US,110,1,0
+450,Pennsylvania,US,96,0,0
+451,Pennsylvania,US,43,0,0
+452,Pennsylvania,US,40,1,0
+453,Pennsylvania,US,34,0,0
+454,Pennsylvania,US,31,0,0
+455,Pennsylvania,US,23,0,0
+456,Pennsylvania,US,21,1,0
+457,Pennsylvania,US,19,1,0
+458,Pennsylvania,US,13,0,0
+459,Pennsylvania,US,11,0,0
+460,Pennsylvania,US,10,0,0
+461,Pennsylvania,US,7,0,0
+462,Pennsylvania,US,7,0,0
+463,Pennsylvania,US,6,0,0
+464,Pennsylvania,US,6,0,0
+465,Pennsylvania,US,5,0,0
+466,Pennsylvania,US,4,0,0
+467,Pennsylvania,US,3,0,0
+468,Pennsylvania,US,3,0,0
+469,Pennsylvania,US,3,0,0
+470,Pennsylvania,US,2,0,0
+471,Pennsylvania,US,2,0,0
+472,Pennsylvania,US,1,0,0
+473,Pennsylvania,US,1,0,0
+474,Pennsylvania,US,1,0,0
+475,Pennsylvania,US,1,0,0
+476,Pennsylvania,US,1,0,0
+477,Pennsylvania,US,1,0,0
+478,Pennsylvania,US,1,0,0
+479,Pennsylvania,US,1,0,0
+480,Pennsylvania,US,1,0,0
+481,Pennsylvania,US,1,0,0
+482,Tennessee,US,167,2,0
+483,Tennessee,US,82,0,0
+484,Tennessee,US,66,0,0
+485,Tennessee,US,48,0,0
+486,Tennessee,US,30,0,0
+487,Tennessee,US,22,0,0
+488,Tennessee,US,8,0,0
+489,Tennessee,US,8,0,0
+490,Tennessee,US,6,0,0
+491,Tennessee,US,5,0,0
+492,Tennessee,US,5,0,0
+493,Tennessee,US,4,0,0
+494,Tennessee,US,4,0,0
+495,Tennessee,US,3,0,0
+496,Tennessee,US,3,0,0
+497,Tennessee,US,3,0,0
+498,Tennessee,US,3,0,0
+499,Tennessee,US,2,0,0
+500,Tennessee,US,2,0,0
+501,Tennessee,US,2,0,0
+502,Tennessee,US,2,0,0
+503,Tennessee,US,2,0,0
+504,Tennessee,US,2,0,0
+505,Tennessee,US,2,0,0
+506,Tennessee,US,2,0,0
+507,Tennessee,US,2,0,0
+508,Tennessee,US,2,0,0
+509,Tennessee,US,2,0,0
+510,Tennessee,US,2,0,0
+511,Tennessee,US,1,0,0
+512,Tennessee,US,1,0,0
+513,Tennessee,US,1,0,0
+514,Tennessee,US,1,0,0
+515,Tennessee,US,1,0,0
+516,Tennessee,US,1,0,0
+517,Tennessee,US,1,0,0
+518,Tennessee,US,1,0,0
+519,Tennessee,US,1,0,0
+520,Tennessee,US,1,0,0
+521,Tennessee,US,1,0,0
+522,Tennessee,US,1,0,0
+523,Tennessee,US,1,0,0
+524,Tennessee,US,1,0,0
+525,Wisconsin,US,182,2,0
+526,Wisconsin,US,61,0,0
+527,Wisconsin,US,30,0,0
+528,Wisconsin,US,16,1,0
+529,Wisconsin,US,14,0,0
+530,Wisconsin,US,13,1,0
+531,Wisconsin,US,10,0,0
+532,Wisconsin,US,6,0,0
+533,Wisconsin,US,5,0,0
+534,Wisconsin,US,5,0,0
+535,Wisconsin,US,5,0,0
+536,Wisconsin,US,4,0,0
+537,Wisconsin,US,4,0,0
+538,Wisconsin,US,3,0,0
+539,Wisconsin,US,3,0,0
+540,Wisconsin,US,3,0,0
+541,Wisconsin,US,2,0,0
+542,Wisconsin,US,2,0,0
+543,Wisconsin,US,2,0,0
+544,Wisconsin,US,2,0,0
+545,Wisconsin,US,1,0,0
+546,Wisconsin,US,1,0,0
+547,Wisconsin,US,1,0,0
+548,Wisconsin,US,1,0,0
+549,Wisconsin,US,1,0,0
+550,Wisconsin,US,1,0,0
+551,Wisconsin,US,1,0,0
+552,Wisconsin,US,1,0,0
+553,Wisconsin,US,1,0,0
+554,Ohio,US,125,1,0
+555,Ohio,US,34,0,0
+556,Ohio,US,23,0,0
+557,Ohio,US,19,0,0
+558,Ohio,US,19,0,0
+559,Ohio,US,18,0,0
+560,Ohio,US,17,0,0
+561,Ohio,US,13,0,0
+562,Ohio,US,10,0,0
+563,Ohio,US,10,0,0
+564,Ohio,US,7,1,0
+565,Ohio,US,6,0,0
+566,Ohio,US,6,0,0
+567,Ohio,US,5,0,0
+568,Ohio,US,5,0,0
+569,Ohio,US,3,0,0
+570,Ohio,US,3,0,0
+571,Ohio,US,2,0,0
+572,Ohio,US,2,0,0
+573,Ohio,US,2,0,0
+574,Ohio,US,2,0,0
+575,Ohio,US,2,0,0
+576,Ohio,US,2,0,0
+577,Ohio,US,2,0,0
+578,Ohio,US,1,0,0
+579,Ohio,US,1,0,0
+580,Ohio,US,1,0,0
+581,Ohio,US,1,0,0
+582,Ohio,US,1,0,0
+583,Ohio,US,1,0,0
+584,Ohio,US,1,0,0
+585,Ohio,US,1,0,0
+586,Ohio,US,1,1,0
+587,Ohio,US,1,0,0
+588,Ohio,US,1,0,0
+589,Ohio,US,1,0,0
+590,Ohio,US,1,0,0
+591,Ohio,US,1,0,0
+592,Ohio,US,1,0,0
+593,Ohio,US,1,0,0
+594,Ohio,US,1,0,0
+595,Ohio,US,1,0,0
+596,Ohio,US,1,0,0
+597,Connecticut,US,208,5,0
+598,Connecticut,US,54,1,0
+599,Connecticut,US,29,0,0
+600,Connecticut,US,14,2,0
+601,Connecticut,US,12,0,0
+602,Connecticut,US,6,0,0
+603,Connecticut,US,3,0,0
+604,Connecticut,US,1,0,0
+605,North Carolina,US,77,0,0
+606,North Carolina,US,52,0,0
+607,North Carolina,US,41,0,0
+608,North Carolina,US,12,0,0
+609,North Carolina,US,12,0,0
+610,North Carolina,US,11,0,0
+611,North Carolina,US,7,0,0
+612,North Carolina,US,6,0,0
+613,North Carolina,US,6,0,0
+614,North Carolina,US,6,0,0
+615,North Carolina,US,6,0,0
+616,North Carolina,US,5,0,0
+617,North Carolina,US,4,0,0
+618,North Carolina,US,4,0,0
+619,North Carolina,US,4,0,0
+620,North Carolina,US,4,0,0
+621,North Carolina,US,3,0,0
+622,North Carolina,US,3,0,0
+623,North Carolina,US,3,0,0
+624,North Carolina,US,3,0,0
+625,North Carolina,US,3,0,0
+626,North Carolina,US,3,0,0
+627,North Carolina,US,3,0,0
+628,North Carolina,US,2,0,0
+629,North Carolina,US,2,0,0
+630,North Carolina,US,2,0,0
+631,North Carolina,US,2,0,0
+632,North Carolina,US,2,0,0
+633,North Carolina,US,1,0,0
+634,North Carolina,US,1,0,0
+635,North Carolina,US,1,0,0
+636,North Carolina,US,1,0,0
+637,North Carolina,US,1,0,0
+638,North Carolina,US,1,0,0
+639,North Carolina,US,1,0,0
+640,North Carolina,US,1,0,0
+641,North Carolina,US,1,0,0
+642,North Carolina,US,1,0,0
+643,North Carolina,US,1,0,0
+644,North Carolina,US,1,0,0
+645,North Carolina,US,1,0,0
+646,North Carolina,US,1,0,0
+647,North Carolina,US,1,0,0
+648,North Carolina,US,1,0,0
+649,North Carolina,US,1,0,0
+650,Maryland,US,83,1,0
+651,Maryland,US,40,1,0
+652,Maryland,US,28,1,0
+653,Maryland,US,24,0,0
+654,Maryland,US,24,0,0
+655,Maryland,US,18,0,0
+656,Maryland,US,5,0,0
+657,Maryland,US,5,0,0
+658,Maryland,US,4,0,0
+659,Maryland,US,2,0,0
+660,Maryland,US,2,0,0
+661,Maryland,US,2,0,0
+662,Maryland,US,1,0,0
+663,Maryland,US,1,0,0
+664,Maryland,US,1,0,0
+665,Maryland,US,1,0,0
+666,Maryland,US,1,0,0
+667,Maryland,US,1,0,0
+668,Maryland,US,1,0,0
+669,Virginia,US,32,2,0
+670,Virginia,US,31,1,0
+671,Virginia,US,26,0,0
+672,Virginia,US,18,0,0
+673,Virginia,US,17,0,0
+674,Virginia,US,15,0,0
+675,Virginia,US,8,0,0
+676,Virginia,US,8,0,0
+677,Virginia,US,6,0,0
+678,Virginia,US,5,0,0
+679,Virginia,US,5,0,0
+680,Virginia,US,5,1,0
+681,Virginia,US,5,1,0
+682,Virginia,US,4,0,0
+683,Virginia,US,3,0,0
+684,Virginia,US,2,0,0
+685,Virginia,US,2,0,0
+686,Virginia,US,2,0,0
+687,Virginia,US,2,0,0
+688,Virginia,US,2,1,0
+689,Virginia,US,2,0,0
+690,Virginia,US,2,0,0
+691,Virginia,US,2,0,0
+692,Virginia,US,1,0,0
+693,Virginia,US,1,0,0
+694,Virginia,US,1,0,0
+695,Virginia,US,1,0,0
+696,Virginia,US,1,0,0
+697,Virginia,US,1,0,0
+698,Virginia,US,1,0,0
+699,Virginia,US,1,0,0
+700,Virginia,US,1,0,0
+701,Virginia,US,1,0,0
+702,Virginia,US,1,0,0
+703,Virginia,US,1,0,0
+704,Virginia,US,1,0,0
+705,Virginia,US,1,0,0
+706,Virginia,US,1,0,0
+707,Virginia,US,1,0,0
+708,Mississippi,US,20,0,0
+709,Mississippi,US,18,0,0
+710,Mississippi,US,15,0,0
+711,Mississippi,US,11,0,0
+712,Mississippi,US,10,0,0
+713,Mississippi,US,9,0,0
+714,Mississippi,US,8,0,0
+715,Mississippi,US,7,0,0
+716,Mississippi,US,7,0,0
+717,Mississippi,US,7,0,0
+718,Mississippi,US,6,0,0
+719,Mississippi,US,6,0,0
+720,Mississippi,US,5,0,0
+721,Mississippi,US,5,0,0
+722,Mississippi,US,4,0,0
+723,Mississippi,US,4,1,0
+724,Mississippi,US,4,0,0
+725,Mississippi,US,4,0,0
+726,Mississippi,US,3,0,0
+727,Mississippi,US,3,0,0
+728,Mississippi,US,3,0,0
+729,Mississippi,US,3,0,0
+730,Mississippi,US,3,0,0
+731,Mississippi,US,3,0,0
+732,Mississippi,US,3,0,0
+733,Mississippi,US,2,0,0
+734,Mississippi,US,2,0,0
+735,Mississippi,US,2,0,0
+736,Mississippi,US,2,0,0
+737,Mississippi,US,2,0,0
+738,Mississippi,US,2,0,0
+739,Mississippi,US,2,0,0
+740,Mississippi,US,2,0,0
+741,Mississippi,US,2,0,0
+742,Mississippi,US,1,0,0
+743,Mississippi,US,1,0,0
+744,Mississippi,US,1,0,0
+745,Mississippi,US,1,0,0
+746,Mississippi,US,1,0,0
+747,Mississippi,US,1,0,0
+748,Mississippi,US,1,0,0
+749,Mississippi,US,1,0,0
+750,Mississippi,US,1,0,0
+751,Mississippi,US,1,0,0
+752,Mississippi,US,1,0,0
+753,Mississippi,US,1,0,0
+754,Mississippi,US,1,0,0
+755,Mississippi,US,1,0,0
+756,Mississippi,US,1,0,0
+757,Mississippi,US,1,0,0
+758,Mississippi,US,1,0,0
+759,Mississippi,US,1,0,0
+760,Indiana,US,82,3,0
+761,Indiana,US,18,0,0
+762,Indiana,US,12,1,0
+763,Indiana,US,10,0,0
+764,Indiana,US,8,0,0
+765,Indiana,US,8,0,0
+766,Indiana,US,6,0,0
+767,Indiana,US,5,0,0
+768,Indiana,US,4,0,0
+769,Indiana,US,4,0,0
+770,Indiana,US,4,0,0
+771,Indiana,US,4,0,0
+772,Indiana,US,3,0,0
+773,Indiana,US,3,0,0
+774,Indiana,US,2,0,0
+775,Indiana,US,2,0,0
+776,Indiana,US,2,0,0
+777,Indiana,US,2,0,0
+778,Indiana,US,2,0,0
+779,Indiana,US,2,1,0
+780,Indiana,US,2,0,0
+781,Indiana,US,1,0,0
+782,Indiana,US,1,0,0
+783,Indiana,US,1,0,0
+784,Indiana,US,1,0,0
+785,Indiana,US,1,0,0
+786,Indiana,US,1,0,0
+787,Indiana,US,1,0,0
+788,Indiana,US,1,0,0
+789,Indiana,US,1,0,0
+790,Indiana,US,1,1,0
+791,Indiana,US,1,0,0
+792,Indiana,US,1,0,0
+793,Indiana,US,1,0,0
+794,Indiana,US,1,0,0
+795,Indiana,US,1,0,0
+796,Indiana,US,1,0,0
+797,Indiana,US,1,0,0
+798,Indiana,US,1,0,0
+799,Indiana,US,1,0,0
+800,South Carolina,US,44,0,0
+801,South Carolina,US,29,0,0
+802,South Carolina,US,19,0,0
+803,South Carolina,US,14,0,0
+804,South Carolina,US,13,0,0
+805,South Carolina,US,12,1,0
+806,South Carolina,US,11,0,0
+807,South Carolina,US,10,0,0
+808,South Carolina,US,5,0,0
+809,South Carolina,US,5,0,0
+810,South Carolina,US,4,0,0
+811,South Carolina,US,3,0,0
+812,South Carolina,US,3,0,0
+813,South Carolina,US,3,0,0
+814,South Carolina,US,2,0,0
+815,South Carolina,US,2,0,0
+816,South Carolina,US,1,0,0
+817,South Carolina,US,1,0,0
+818,South Carolina,US,1,0,0
+819,South Carolina,US,1,0,0
+820,South Carolina,US,1,0,0
+821,South Carolina,US,1,0,0
+822,South Carolina,US,1,0,0
+823,South Carolina,US,1,1,0
+824,South Carolina,US,1,1,0
+825,South Carolina,US,1,0,0
+826,South Carolina,US,1,0,0
+827,South Carolina,US,1,0,0
+828,South Carolina,US,1,0,0
+829,South Carolina,US,1,0,0
+830,South Carolina,US,1,0,0
+831,South Carolina,US,1,0,0
+832,South Carolina,US,1,0,0
+833,Nevada,US,126,2,0
+834,Nevada,US,36,0,0
+835,Nevada,US,25,0,0
+836,Nevada,US,2,0,0
+837,Nevada,US,1,0,0
+838,Utah,US,80,0,0
+839,Utah,US,43,0,0
+840,Utah,US,19,1,0
+841,Utah,US,8,0,0
+842,Utah,US,6,0,0
+843,Utah,US,3,0,0
+844,Utah,US,2,0,0
+845,Utah,US,1,0,0
+846,Minnesota,US,57,0,0
+847,Minnesota,US,18,1,0
+848,Minnesota,US,14,0,0
+849,Minnesota,US,11,0,0
+850,Minnesota,US,8,0,0
+851,Minnesota,US,7,0,0
+852,Minnesota,US,7,0,0
+853,Minnesota,US,6,0,0
+854,Minnesota,US,5,0,0
+855,Minnesota,US,4,0,0
+856,Minnesota,US,4,0,0
+857,Minnesota,US,3,0,0
+858,Minnesota,US,3,0,0
+859,Minnesota,US,3,0,0
+860,Minnesota,US,3,0,0
+861,Minnesota,US,2,0,0
+862,Minnesota,US,2,0,0
+863,Minnesota,US,1,0,0
+864,Minnesota,US,1,0,0
+865,Minnesota,US,1,0,0
+866,Minnesota,US,1,0,0
+867,Minnesota,US,1,0,0
+868,Minnesota,US,1,0,0
+869,Minnesota,US,1,0,0
+870,Minnesota,US,1,0,0
+871,Minnesota,US,1,0,0
+872,Minnesota,US,1,0,0
+873,Arkansas,US,121,0,0
+874,Arkansas,US,9,0,0
+875,Arkansas,US,4,0,0
+876,Arkansas,US,3,0,0
+877,Arkansas,US,3,0,0
+878,Arkansas,US,2,0,0
+879,Arkansas,US,2,0,0
+880,Arkansas,US,1,0,0
+881,Arkansas,US,1,0,0
+882,Arkansas,US,1,0,0
+883,Arkansas,US,1,0,0
+884,Arkansas,US,1,0,0
+885,Arkansas,US,1,0,0
+886,Arkansas,US,1,0,0
+887,Arkansas,US,1,0,0
+888,Arkansas,US,1,0,0
+889,Arkansas,US,1,0,0
+890,Arkansas,US,1,0,0
+891,Arkansas,US,1,0,0
+892,Arkansas,US,1,0,0
+893,Arkansas,US,1,0,0
+894,Arkansas,US,1,0,0
+895,Arkansas,US,1,0,0
+896,Arkansas,US,1,0,0
+897,Arkansas,US,1,0,0
+898,Arkansas,US,1,0,0
+899,Arkansas,US,1,0,0
+900,Arkansas,US,1,0,0
+901,Oregon,US,55,1,0
+902,Oregon,US,22,1,0
+903,Oregon,US,19,1,0
+904,Oregon,US,19,1,0
+905,Oregon,US,12,0,0
+906,Oregon,US,10,0,0
+907,Oregon,US,6,0,0
+908,Oregon,US,4,0,0
+909,Oregon,US,4,1,0
+910,Oregon,US,2,0,0
+911,Oregon,US,2,0,0
+912,Oregon,US,1,0,0
+913,Oregon,US,1,0,0
+914,Oregon,US,1,0,0
+915,Oregon,US,1,0,0
+916,Oregon,US,1,0,0
+917,Oregon,US,1,0,0
+918,Alabama,US,71,0,0
+919,Alabama,US,17,0,0
+920,Alabama,US,16,0,0
+921,Alabama,US,16,0,0
+922,Alabama,US,7,0,0
+923,Alabama,US,6,0,0
+924,Alabama,US,3,0,0
+925,Alabama,US,3,0,0
+926,Alabama,US,2,0,0
+927,Alabama,US,2,0,0
+928,Alabama,US,2,0,0
+929,Alabama,US,2,0,0
+930,Alabama,US,2,0,0
+931,Alabama,US,1,0,0
+932,Alabama,US,1,0,0
+933,Alabama,US,1,0,0
+934,Alabama,US,1,0,0
+935,Alabama,US,1,0,0
+936,Alabama,US,1,0,0
+937,Alabama,US,1,0,0
+938,Alabama,US,1,0,0
+939,Arizona,US,81,2,0
+940,Arizona,US,17,0,0
+941,Arizona,US,16,0,0
+942,Arizona,US,14,0,0
+943,Arizona,US,13,0,0
+944,Arizona,US,3,0,0
+945,Arizona,US,3,0,0
+946,Arizona,US,2,0,0
+947,Arizona,US,1,0,0
+948,Arizona,US,1,0,0
+949,Arizona,US,1,0,0
+950,Kentucky,US,39,0,0
+951,Kentucky,US,25,1,0
+952,Kentucky,US,10,0,0
+953,Kentucky,US,7,0,0
+954,Kentucky,US,2,0,0
+955,Kentucky,US,2,0,0
+956,Kentucky,US,2,1,0
+957,Kentucky,US,2,0,0
+958,Kentucky,US,2,0,0
+959,Kentucky,US,2,0,0
+960,Kentucky,US,1,0,0
+961,Kentucky,US,1,0,0
+962,Kentucky,US,1,0,0
+963,Kentucky,US,1,0,0
+964,Kentucky,US,1,1,0
+965,Kentucky,US,1,0,0
+966,Kentucky,US,1,0,0
+967,Kentucky,US,1,0,0
+968,Kentucky,US,1,0,0
+969,Kentucky,US,1,0,0
+970,Missouri,US,22,1,0
+971,Missouri,US,15,1,0
+972,Missouri,US,10,0,0
+973,Missouri,US,10,0,0
+974,Missouri,US,8,1,0
+975,Missouri,US,6,0,0
+976,Missouri,US,3,0,0
+977,Missouri,US,3,0,0
+978,Missouri,US,2,0,0
+979,Missouri,US,1,0,0
+980,Missouri,US,1,0,0
+981,Missouri,US,1,0,0
+982,Missouri,US,1,0,0
+983,Missouri,US,1,0,0
+984,Missouri,US,1,0,0
+985,Missouri,US,1,0,0
+986,Missouri,US,1,0,0
+987,Iowa,US,32,0,0
+988,Iowa,US,10,0,0
+989,Iowa,US,6,0,0
+990,Iowa,US,5,0,0
+991,Iowa,US,4,0,0
+992,Iowa,US,4,0,0
+993,Iowa,US,3,0,0
+994,Iowa,US,3,0,0
+995,Iowa,US,3,0,0
+996,Iowa,US,3,0,0
+997,Iowa,US,2,0,0
+998,Iowa,US,2,0,0
+999,Iowa,US,2,0,0
+1000,Iowa,US,1,0,0
+1001,Iowa,US,1,0,0
+1002,Iowa,US,1,0,0
+1003,Iowa,US,1,0,0
+1004,Iowa,US,1,0,0
+1005,Iowa,US,1,0,0
+1006,Iowa,US,1,0,0
+1007,Iowa,US,1,0,0
+1008,Iowa,US,1,0,0
+1009,Iowa,US,1,0,0
+1010,Iowa,US,1,0,0
+1011,Maine,US,53,0,0
+1012,Maine,US,8,0,0
+1013,Maine,US,8,0,0
+1014,Maine,US,4,0,0
+1015,Maine,US,4,0,0
+1016,Maine,US,4,0,0
+1017,Maine,US,3,0,0
+1018,Maine,US,3,0,0
+1019,Maine,US,2,0,0
+1020,Rhode Island,US,37,0,0
+1021,Rhode Island,US,14,0,0
+1022,Rhode Island,US,9,0,0
+1023,Rhode Island,US,8,0,0
+1024,Rhode Island,US,8,0,0
+1025,Rhode Island,US,7,0,0
+1026,New Hampshire,US,28,0,0
+1027,New Hampshire,US,15,0,0
+1028,New Hampshire,US,15,0,0
+1029,New Hampshire,US,6,0,0
+1030,New Hampshire,US,4,0,0
+1031,New Hampshire,US,3,0,0
+1032,New Hampshire,US,1,0,0
+1033,New Hampshire,US,1,0,0
+1034,New Hampshire,US,1,0,0
+1035,Oklahoma,US,26,0,0
+1036,Oklahoma,US,13,0,0
+1037,Oklahoma,US,6,1,0
+1038,Oklahoma,US,4,0,0
+1039,Oklahoma,US,3,1,0
+1040,Oklahoma,US,2,0,0
+1041,Oklahoma,US,2,0,0
+1042,Oklahoma,US,2,0,0
+1043,Oklahoma,US,2,0,0
+1044,Oklahoma,US,1,0,0
+1045,Oklahoma,US,1,0,0
+1046,Oklahoma,US,1,0,0
+1047,Oklahoma,US,1,0,0
+1048,Oklahoma,US,1,0,0
+1049,Oklahoma,US,1,0,0
+1050,Oklahoma,US,1,0,0
+1051,Kansas,US,28,1,0
+1052,Kansas,US,14,1,0
+1053,Kansas,US,4,0,0
+1054,Kansas,US,4,0,0
+1055,Kansas,US,3,0,0
+1056,Kansas,US,2,0,0
+1057,Kansas,US,2,0,0
+1058,Kansas,US,2,0,0
+1059,Kansas,US,1,0,0
+1060,Kansas,US,1,0,0
+1061,Kansas,US,1,0,0
+1062,Kansas,US,1,0,0
+1063,Kansas,US,1,0,0
+1064,Kansas,US,1,0,0
+1065,Kansas,US,0,0,0
+1066,New Mexico,US,32,0,0
+1067,New Mexico,US,8,0,0
+1068,New Mexico,US,7,0,0
+1069,New Mexico,US,3,0,0
+1070,New Mexico,US,2,0,0
+1071,New Mexico,US,2,0,0
+1072,New Mexico,US,1,0,0
+1073,New Mexico,US,1,0,0
+1074,New Mexico,US,1,0,0
+1075,Hawaii,US,41,0,0
+1076,Hawaii,US,9,0,0
+1077,Hawaii,US,3,0,0
+1078,Delaware,US,39,0,0
+1079,Delaware,US,12,0,0
+1080,Delaware,US,5,0,0
+1081,Vermont,US,22,1,0
+1082,Vermont,US,8,1,0
+1083,Vermont,US,5,0,0
+1084,Vermont,US,4,0,0
+1085,Vermont,US,3,0,0
+1086,Vermont,US,3,0,0
+1087,Vermont,US,3,0,0
+1088,Vermont,US,2,0,0
+1089,Vermont,US,2,0,0
+1090,Nebraska,US,34,0,0
+1091,Nebraska,US,5,0,0
+1092,Nebraska,US,3,0,0
+1093,Nebraska,US,2,0,0
+1094,Nebraska,US,2,0,0
+1095,Nebraska,US,2,0,0
+1096,Nebraska,US,1,0,0
+1097,Nebraska,US,1,0,0
+1098,Nebraska,US,1,0,0
+1099,Diamond Princess,US,49,0,0
+1100,Idaho,US,21,0,0
+1101,Idaho,US,11,0,0
+1102,Idaho,US,3,0,0
+1103,Idaho,US,2,0,0
+1104,Idaho,US,2,0,0
+1105,Idaho,US,1,0,0
+1106,Idaho,US,1,0,0
+1107,Idaho,US,1,0,0
+1108,Montana,US,10,0,0
+1109,Montana,US,6,0,0
+1110,Montana,US,3,0,0
+1111,Montana,US,3,0,0
+1112,Montana,US,3,0,0
+1113,Montana,US,2,0,0
+1114,Montana,US,2,0,0
+1115,Montana,US,1,0,0
+1116,Montana,US,1,0,0
+1117,Montana,US,1,0,0
+1118,Montana,US,1,0,0
+1119,Montana,US,1,0,0
+1120,Grand Princess,US,30,1,0
+1121,North Dakota,US,15,0,0
+1122,North Dakota,US,7,0,0
+1123,North Dakota,US,3,0,0
+1124,North Dakota,US,1,0,0
+1125,North Dakota,US,1,0,0
+1126,North Dakota,US,1,0,0
+1127,Guam,US,27,1,0
+1128,Wyoming,US,10,0,0
+1129,Wyoming,US,6,0,0
+1130,Wyoming,US,4,0,0
+1131,Wyoming,US,2,0,0
+1132,Wyoming,US,1,0,0
+1133,Wyoming,US,1,0,0
+1134,Wyoming,US,1,0,0
+1135,Wyoming,US,1,0,0
+1136,Puerto Rico,US,23,1,0
+1137,South Dakota,US,10,0,0
+1138,South Dakota,US,5,0,0
+1139,South Dakota,US,1,1,0
+1140,South Dakota,US,1,0,0
+1141,South Dakota,US,1,0,0
+1142,South Dakota,US,1,0,0
+1143,South Dakota,US,1,0,0
+1144,South Dakota,US,1,0,0
+1145,Alaska,US,7,0,0
+1146,Alaska,US,6,0,0
+1147,Alaska,US,5,0,0
+1148,Alaska,US,1,0,0
+1149,Alaska,US,1,0,0
+1150,West Virginia,US,3,0,0
+1151,West Virginia,US,3,0,0
+1152,West Virginia,US,2,0,0
+1153,West Virginia,US,2,0,0
+1154,West Virginia,US,2,0,0
+1155,West Virginia,US,2,0,0
+1156,West Virginia,US,1,0,0
+1157,West Virginia,US,1,0,0
+1158,Virgin Islands,US,6,0,0
+1159,Wuhan Evacuee,US,4,0,0
+1160,Alabama,US,0,0,0
+1161,Alabama,US,0,0,0
+1162,Alabama,US,0,0,0
+1163,Alabama,US,0,0,0
+1164,Alabama,US,0,0,0
+1165,Alabama,US,0,0,0
+1166,Alabama,US,0,0,0
+1167,Alabama,US,0,0,0
+1168,Alabama,US,0,0,0
+1169,Alabama,US,0,0,0
+1170,Alabama,US,0,0,0
+1171,Alabama,US,0,0,0
+1172,Alabama,US,0,0,0
+1173,Alabama,US,0,0,0
+1174,Alabama,US,0,0,0
+1175,Alabama,US,0,0,0
+1176,Alabama,US,0,0,0
+1177,Alabama,US,0,0,0
+1178,Alabama,US,0,0,0
+1179,Alabama,US,0,0,0
+1180,Alabama,US,0,0,0
+1181,Alabama,US,0,0,0
+1182,Alabama,US,0,0,0
+1183,Alabama,US,0,0,0
+1184,Alabama,US,0,0,0
+1185,Alabama,US,0,0,0
+1186,Alabama,US,0,0,0
+1187,Alabama,US,0,0,0
+1188,Alabama,US,0,0,0
+1189,Alabama,US,0,0,0
+1190,Alabama,US,0,0,0
+1191,Alabama,US,0,0,0
+1192,Alabama,US,0,0,0
+1193,Alabama,US,0,0,0
+1194,Alabama,US,0,0,0
+1195,Alabama,US,0,0,0
+1196,Alabama,US,0,0,0
+1197,Alabama,US,0,0,0
+1198,Alabama,US,0,0,0
+1199,Alabama,US,0,0,0
+1200,Alabama,US,0,0,0
+1201,Alabama,US,0,0,0
+1202,Alabama,US,0,0,0
+1203,Alabama,US,0,0,0
+1204,Alabama,US,0,0,0
+1205,Alabama,US,0,0,0
+1206,Alaska,US,0,0,0
+1207,Alaska,US,0,0,0
+1208,Alaska,US,0,0,0
+1209,Alaska,US,0,0,0
+1210,Alaska,US,0,0,0
+1211,Alaska,US,0,0,0
+1212,Alaska,US,0,0,0
+1213,Alaska,US,0,0,0
+1214,Alaska,US,0,0,0
+1215,Alaska,US,0,0,0
+1216,Alaska,US,0,0,0
+1217,Alaska,US,0,0,0
+1218,Alaska,US,0,0,0
+1219,Alaska,US,0,0,0
+1220,Alaska,US,0,0,0
+1221,Alaska,US,0,0,0
+1222,Alaska,US,0,0,0
+1223,Alaska,US,0,0,0
+1224,Alaska,US,0,0,0
+1225,Alaska,US,0,0,0
+1226,Alaska,US,0,0,0
+1227,Alaska,US,0,0,0
+1228,Alaska,US,0,0,0
+1229,Alaska,US,0,0,0
+1230,Alaska,US,0,0,0
+1231,Alaska,US,0,0,0
+1232,Arizona,US,0,0,0
+1233,Arizona,US,0,0,0
+1234,Arizona,US,0,0,0
+1235,Arizona,US,0,0,0
+1236,Arkansas,US,0,0,0
+1237,Arkansas,US,0,0,0
+1238,Arkansas,US,0,0,0
+1239,Arkansas,US,0,0,0
+1240,Arkansas,US,0,0,0
+1241,Arkansas,US,0,0,0
+1242,Arkansas,US,0,0,0
+1243,Arkansas,US,0,0,0
+1244,Arkansas,US,0,0,0
+1245,Arkansas,US,0,0,0
+1246,Arkansas,US,0,0,0
+1247,Arkansas,US,0,0,0
+1248,Arkansas,US,0,0,0
+1249,Arkansas,US,0,0,0
+1250,Arkansas,US,0,0,0
+1251,Arkansas,US,0,0,0
+1252,Arkansas,US,0,0,0
+1253,Arkansas,US,0,0,0
+1254,Arkansas,US,0,0,0
+1255,Arkansas,US,0,0,0
+1256,Arkansas,US,0,0,0
+1257,Arkansas,US,0,0,0
+1258,Arkansas,US,0,0,0
+1259,Arkansas,US,0,0,0
+1260,Arkansas,US,0,0,0
+1261,Arkansas,US,0,0,0
+1262,Arkansas,US,0,0,0
+1263,Arkansas,US,0,0,0
+1264,Arkansas,US,0,0,0
+1265,Arkansas,US,0,0,0
+1266,Arkansas,US,0,0,0
+1267,Arkansas,US,0,0,0
+1268,Arkansas,US,0,0,0
+1269,Arkansas,US,0,0,0
+1270,Arkansas,US,0,0,0
+1271,Arkansas,US,0,0,0
+1272,Arkansas,US,0,0,0
+1273,Arkansas,US,0,0,0
+1274,Arkansas,US,0,0,0
+1275,Arkansas,US,0,0,0
+1276,Arkansas,US,0,0,0
+1277,Arkansas,US,0,0,0
+1278,Arkansas,US,0,0,0
+1279,Arkansas,US,0,0,0
+1280,Arkansas,US,0,0,0
+1281,Arkansas,US,0,0,0
+1282,Arkansas,US,0,0,0
+1283,Arkansas,US,0,0,0
+1284,California,US,0,0,0
+1285,California,US,0,0,0
+1286,California,US,0,0,0
+1287,California,US,0,0,0
+1288,California,US,0,0,0
+1289,California,US,0,0,0
+1290,California,US,0,0,0
+1291,California,US,0,0,0
+1292,California,US,0,0,0
+1293,California,US,0,0,0
+1294,California,US,0,0,0
+1295,California,US,0,0,0
+1296,California,US,0,0,0
+1297,California,US,0,0,0
+1298,California,US,0,0,0
+1299,California,US,0,0,0
+1300,California,US,0,0,0
+1301,California,US,0,0,0
+1302,Colorado,US,0,0,0
+1303,Colorado,US,0,0,0
+1304,Colorado,US,0,0,0
+1305,Colorado,US,0,0,0
+1306,Colorado,US,0,0,0
+1307,Colorado,US,0,0,0
+1308,Colorado,US,0,0,0
+1309,Colorado,US,0,0,0
+1310,Colorado,US,0,0,0
+1311,Colorado,US,0,0,0
+1312,Colorado,US,0,0,0
+1313,Colorado,US,0,0,0
+1314,Colorado,US,0,0,0
+1315,Colorado,US,0,0,0
+1316,Colorado,US,0,0,0
+1317,Colorado,US,0,0,0
+1318,Colorado,US,0,0,0
+1319,Colorado,US,0,0,0
+1320,Colorado,US,0,0,0
+1321,Colorado,US,0,0,0
+1322,Colorado,US,0,0,0
+1323,Colorado,US,0,0,0
+1324,Colorado,US,0,0,0
+1325,Colorado,US,0,0,0
+1326,Colorado,US,0,0,0
+1327,Colorado,US,0,0,0
+1328,Colorado,US,0,0,0
+1329,Colorado,US,0,0,0
+1330,Colorado,US,0,0,0
+1331,Colorado,US,0,0,0
+1332,Colorado,US,0,0,0
+1333,Colorado,US,0,0,0
+1334,Colorado,US,0,0,0
+1335,Colorado,US,0,0,0
+1336,Colorado,US,0,0,0
+1337,District of Columbia,US,102,0,0
+1338,Florida,US,0,0,0
+1339,Florida,US,0,0,0
+1340,Florida,US,0,0,0
+1341,Florida,US,0,0,0
+1342,Florida,US,0,0,0
+1343,Florida,US,0,0,0
+1344,Florida,US,0,0,0
+1345,Florida,US,0,0,0
+1346,Florida,US,0,0,0
+1347,Florida,US,0,0,0
+1348,Florida,US,0,0,0
+1349,Florida,US,0,0,0
+1350,Florida,US,0,0,0
+1351,Florida,US,0,0,0
+1352,Florida,US,0,0,0
+1353,Florida,US,0,0,0
+1354,Florida,US,0,0,0
+1355,Florida,US,0,0,0
+1356,Florida,US,0,0,0
+1357,Florida,US,0,0,0
+1358,Florida,US,0,0,0
+1359,Florida,US,0,0,0
+1360,Georgia,US,0,0,0
+1361,Georgia,US,0,0,0
+1362,Georgia,US,0,0,0
+1363,Georgia,US,0,0,0
+1364,Georgia,US,0,0,0
+1365,Georgia,US,0,0,0
+1366,Georgia,US,0,0,0
+1367,Georgia,US,0,0,0
+1368,Georgia,US,0,0,0
+1369,Georgia,US,0,0,0
+1370,Georgia,US,0,0,0
+1371,Georgia,US,0,0,0
+1372,Georgia,US,0,0,0
+1373,Georgia,US,0,0,0
+1374,Georgia,US,0,0,0
+1375,Georgia,US,0,0,0
+1376,Georgia,US,0,0,0
+1377,Georgia,US,0,0,0
+1378,Georgia,US,0,0,0
+1379,Georgia,US,0,0,0
+1380,Georgia,US,0,0,0
+1381,Georgia,US,0,0,0
+1382,Georgia,US,0,0,0
+1383,Georgia,US,0,0,0
+1384,Georgia,US,0,0,0
+1385,Georgia,US,0,0,0
+1386,Georgia,US,0,0,0
+1387,Georgia,US,0,0,0
+1388,Georgia,US,0,0,0
+1389,Georgia,US,0,0,0
+1390,Georgia,US,0,0,0
+1391,Georgia,US,0,0,0
+1392,Georgia,US,0,0,0
+1393,Georgia,US,0,0,0
+1394,Georgia,US,0,0,0
+1395,Georgia,US,0,0,0
+1396,Georgia,US,0,0,0
+1397,Georgia,US,0,0,0
+1398,Georgia,US,0,0,0
+1399,Georgia,US,0,0,0
+1400,Georgia,US,0,0,0
+1401,Georgia,US,0,0,0
+1402,Georgia,US,0,0,0
+1403,Georgia,US,0,0,0
+1404,Georgia,US,0,0,0
+1405,Georgia,US,0,0,0
+1406,Georgia,US,0,0,0
+1407,Georgia,US,0,0,0
+1408,Georgia,US,0,0,0
+1409,Georgia,US,0,0,0
+1410,Georgia,US,0,0,0
+1411,Georgia,US,0,0,0
+1412,Georgia,US,0,0,0
+1413,Georgia,US,0,0,0
+1414,Georgia,US,0,0,0
+1415,Georgia,US,0,0,0
+1416,Georgia,US,0,0,0
+1417,Georgia,US,0,0,0
+1418,Georgia,US,0,0,0
+1419,Georgia,US,0,0,0
+1420,Georgia,US,0,0,0
+1421,Georgia,US,0,0,0
+1422,Georgia,US,0,0,0
+1423,Georgia,US,0,0,0
+1424,Georgia,US,0,0,0
+1425,Georgia,US,0,0,0
+1426,Georgia,US,0,0,0
+1427,Georgia,US,0,0,0
+1428,Georgia,US,0,0,0
+1429,Georgia,US,0,0,0
+1430,Georgia,US,0,0,0
+1431,Georgia,US,0,0,0
+1432,Georgia,US,0,0,0
+1433,Georgia,US,0,0,0
+1434,Georgia,US,0,0,0
+1435,Georgia,US,0,0,0
+1436,Georgia,US,0,0,0
+1437,Georgia,US,0,0,0
+1438,Georgia,US,0,0,0
+1439,Georgia,US,0,0,0
+1440,Georgia,US,0,0,0
+1441,Georgia,US,0,0,0
+1442,Georgia,US,0,0,0
+1443,Georgia,US,0,0,0
+1444,Georgia,US,0,0,0
+1445,Georgia,US,0,0,0
+1446,Georgia,US,0,0,0
+1447,Georgia,US,0,0,0
+1448,Georgia,US,0,0,0
+1449,Georgia,US,0,0,0
+1450,Georgia,US,0,0,0
+1451,Georgia,US,0,0,0
+1452,Georgia,US,0,0,0
+1453,Georgia,US,0,0,0
+1454,Georgia,US,0,0,0
+1455,Georgia,US,0,0,0
+1456,Georgia,US,0,0,0
+1457,Georgia,US,0,0,0
+1458,Georgia,US,0,0,0
+1459,Hawaii,US,0,0,0
+1460,Hawaii,US,0,0,0
+1461,Idaho,US,0,0,0
+1462,Idaho,US,0,0,0
+1463,Idaho,US,0,0,0
+1464,Idaho,US,0,0,0
+1465,Idaho,US,0,0,0
+1466,Idaho,US,0,0,0
+1467,Idaho,US,0,0,0
+1468,Idaho,US,0,0,0
+1469,Idaho,US,0,0,0
+1470,Idaho,US,0,0,0
+1471,Idaho,US,0,0,0
+1472,Idaho,US,0,0,0
+1473,Idaho,US,0,0,0
+1474,Idaho,US,0,0,0
+1475,Idaho,US,0,0,0
+1476,Idaho,US,0,0,0
+1477,Idaho,US,0,0,0
+1478,Idaho,US,0,0,0
+1479,Idaho,US,0,0,0
+1480,Idaho,US,0,0,0
+1481,Idaho,US,0,0,0
+1482,Idaho,US,0,0,0
+1483,Idaho,US,0,0,0
+1484,Idaho,US,0,0,0
+1485,Idaho,US,0,0,0
+1486,Idaho,US,0,0,0
+1487,Idaho,US,0,0,0
+1488,Idaho,US,0,0,0
+1489,Idaho,US,0,0,0
+1490,Idaho,US,0,0,0
+1491,Idaho,US,0,0,0
+1492,Idaho,US,0,0,0
+1493,Idaho,US,0,0,0
+1494,Idaho,US,0,0,0
+1495,Idaho,US,0,0,0
+1496,Idaho,US,0,0,0
+1497,Illinois,US,0,0,0
+1498,Illinois,US,0,0,0
+1499,Illinois,US,0,0,0
+1500,Illinois,US,0,0,0
+1501,Illinois,US,0,0,0
+1502,Illinois,US,0,0,0
+1503,Illinois,US,0,0,0
+1504,Illinois,US,0,0,0
+1505,Illinois,US,0,0,0
+1506,Illinois,US,0,0,0
+1507,Illinois,US,0,0,0
+1508,Illinois,US,0,0,0
+1509,Illinois,US,0,0,0
+1510,Illinois,US,0,0,0
+1511,Illinois,US,0,0,0
+1512,Illinois,US,0,0,0
+1513,Illinois,US,0,0,0
+1514,Illinois,US,0,0,0
+1515,Illinois,US,0,0,0
+1516,Illinois,US,0,0,0
+1517,Illinois,US,0,0,0
+1518,Illinois,US,0,0,0
+1519,Illinois,US,0,0,0
+1520,Illinois,US,0,0,0
+1521,Illinois,US,0,0,0
+1522,Illinois,US,0,0,0
+1523,Illinois,US,0,0,0
+1524,Illinois,US,0,0,0
+1525,Illinois,US,0,0,0
+1526,Illinois,US,0,0,0
+1527,Illinois,US,0,0,0
+1528,Illinois,US,0,0,0
+1529,Illinois,US,0,0,0
+1530,Illinois,US,0,0,0
+1531,Illinois,US,0,0,0
+1532,Illinois,US,0,0,0
+1533,Illinois,US,0,0,0
+1534,Illinois,US,0,0,0
+1535,Illinois,US,0,0,0
+1536,Illinois,US,0,0,0
+1537,Illinois,US,0,0,0
+1538,Illinois,US,0,0,0
+1539,Illinois,US,0,0,0
+1540,Illinois,US,0,0,0
+1541,Illinois,US,0,0,0
+1542,Illinois,US,0,0,0
+1543,Illinois,US,0,0,0
+1544,Illinois,US,0,0,0
+1545,Illinois,US,0,0,0
+1546,Illinois,US,0,0,0
+1547,Illinois,US,0,0,0
+1548,Illinois,US,0,0,0
+1549,Illinois,US,0,0,0
+1550,Illinois,US,0,0,0
+1551,Illinois,US,0,0,0
+1552,Illinois,US,0,0,0
+1553,Illinois,US,0,0,0
+1554,Illinois,US,0,0,0
+1555,Illinois,US,0,0,0
+1556,Illinois,US,0,0,0
+1557,Illinois,US,0,0,0
+1558,Illinois,US,0,0,0
+1559,Illinois,US,0,0,0
+1560,Illinois,US,0,0,0
+1561,Illinois,US,0,0,0
+1562,Illinois,US,0,0,0
+1563,Illinois,US,0,0,0
+1564,Illinois,US,0,0,0
+1565,Illinois,US,0,0,0
+1566,Illinois,US,0,0,0
+1567,Illinois,US,0,0,0
+1568,Illinois,US,0,0,0
+1569,Indiana,US,0,0,0
+1570,Indiana,US,0,0,0
+1571,Indiana,US,0,0,0
+1572,Indiana,US,0,0,0
+1573,Indiana,US,0,0,0
+1574,Indiana,US,0,0,0
+1575,Indiana,US,0,0,0
+1576,Indiana,US,0,0,0
+1577,Indiana,US,0,0,0
+1578,Indiana,US,0,0,0
+1579,Indiana,US,0,0,0
+1580,Indiana,US,0,0,0
+1581,Indiana,US,0,0,0
+1582,Indiana,US,0,0,0
+1583,Indiana,US,0,0,0
+1584,Indiana,US,0,0,0
+1585,Indiana,US,0,0,0
+1586,Indiana,US,0,0,0
+1587,Indiana,US,0,0,0
+1588,Indiana,US,0,0,0
+1589,Indiana,US,0,0,0
+1590,Indiana,US,0,0,0
+1591,Indiana,US,0,0,0
+1592,Indiana,US,0,0,0
+1593,Indiana,US,0,0,0
+1594,Indiana,US,0,0,0
+1595,Indiana,US,0,0,0
+1596,Indiana,US,0,0,0
+1597,Indiana,US,0,0,0
+1598,Indiana,US,0,0,0
+1599,Indiana,US,0,0,0
+1600,Indiana,US,0,0,0
+1601,Indiana,US,0,0,0
+1602,Indiana,US,0,0,0
+1603,Indiana,US,0,0,0
+1604,Indiana,US,0,0,0
+1605,Indiana,US,0,0,0
+1606,Indiana,US,0,0,0
+1607,Indiana,US,0,0,0
+1608,Indiana,US,0,0,0
+1609,Indiana,US,0,0,0
+1610,Indiana,US,0,0,0
+1611,Indiana,US,0,0,0
+1612,Indiana,US,0,0,0
+1613,Indiana,US,0,0,0
+1614,Indiana,US,0,0,0
+1615,Indiana,US,0,0,0
+1616,Indiana,US,0,0,0
+1617,Indiana,US,0,0,0
+1618,Indiana,US,0,0,0
+1619,Indiana,US,0,0,0
+1620,Indiana,US,0,0,0
+1621,Iowa,US,0,0,0
+1622,Iowa,US,0,0,0
+1623,Iowa,US,0,0,0
+1624,Iowa,US,0,0,0
+1625,Iowa,US,0,0,0
+1626,Iowa,US,0,0,0
+1627,Iowa,US,0,0,0
+1628,Iowa,US,0,0,0
+1629,Iowa,US,0,0,0
+1630,Iowa,US,0,0,0
+1631,Iowa,US,0,0,0
+1632,Iowa,US,0,0,0
+1633,Iowa,US,0,0,0
+1634,Iowa,US,0,0,0
+1635,Iowa,US,0,0,0
+1636,Iowa,US,0,0,0
+1637,Iowa,US,0,0,0
+1638,Iowa,US,0,0,0
+1639,Iowa,US,0,0,0
+1640,Iowa,US,0,0,0
+1641,Iowa,US,0,0,0
+1642,Iowa,US,0,0,0
+1643,Iowa,US,0,0,0
+1644,Iowa,US,0,0,0
+1645,Iowa,US,0,0,0
+1646,Iowa,US,0,0,0
+1647,Iowa,US,0,0,0
+1648,Iowa,US,0,0,0
+1649,Iowa,US,0,0,0
+1650,Iowa,US,0,0,0
+1651,Iowa,US,0,0,0
+1652,Iowa,US,0,0,0
+1653,Iowa,US,0,0,0
+1654,Iowa,US,0,0,0
+1655,Iowa,US,0,0,0
+1656,Iowa,US,0,0,0
+1657,Iowa,US,0,0,0
+1658,Iowa,US,0,0,0
+1659,Iowa,US,0,0,0
+1660,Iowa,US,0,0,0
+1661,Iowa,US,0,0,0
+1662,Iowa,US,0,0,0
+1663,Iowa,US,0,0,0
+1664,Iowa,US,0,0,0
+1665,Iowa,US,0,0,0
+1666,Iowa,US,0,0,0
+1667,Iowa,US,0,0,0
+1668,Iowa,US,0,0,0
+1669,Iowa,US,0,0,0
+1670,Iowa,US,0,0,0
+1671,Iowa,US,0,0,0
+1672,Iowa,US,0,0,0
+1673,Iowa,US,0,0,0
+1674,Iowa,US,0,0,0
+1675,Iowa,US,0,0,0
+1676,Iowa,US,0,0,0
+1677,Iowa,US,0,0,0
+1678,Iowa,US,0,0,0
+1679,Iowa,US,0,0,0
+1680,Iowa,US,0,0,0
+1681,Iowa,US,0,0,0
+1682,Iowa,US,0,0,0
+1683,Iowa,US,0,0,0
+1684,Iowa,US,0,0,0
+1685,Iowa,US,0,0,0
+1686,Iowa,US,0,0,0
+1687,Iowa,US,0,0,0
+1688,Iowa,US,0,0,0
+1689,Iowa,US,0,0,0
+1690,Iowa,US,0,0,0
+1691,Iowa,US,0,0,0
+1692,Iowa,US,0,0,0
+1693,Iowa,US,0,0,0
+1694,Iowa,US,0,0,0
+1695,Iowa,US,0,0,0
+1696,Kansas,US,0,0,0
+1697,Kansas,US,0,0,0
+1698,Kansas,US,0,0,0
+1699,Kansas,US,0,0,0
+1700,Kansas,US,0,0,0
+1701,Kansas,US,0,0,0
+1702,Kansas,US,0,0,0
+1703,Kansas,US,0,0,0
+1704,Kansas,US,0,0,0
+1705,Kansas,US,0,0,0
+1706,Kansas,US,0,0,0
+1707,Kansas,US,0,0,0
+1708,Kansas,US,0,0,0
+1709,Kansas,US,0,0,0
+1710,Kansas,US,0,0,0
+1711,Kansas,US,0,0,0
+1712,Kansas,US,0,0,0
+1713,Kansas,US,0,0,0
+1714,Kansas,US,0,0,0
+1715,Kansas,US,0,0,0
+1716,Kansas,US,0,0,0
+1717,Kansas,US,0,0,0
+1718,Kansas,US,0,0,0
+1719,Kansas,US,0,0,0
+1720,Kansas,US,0,0,0
+1721,Kansas,US,0,0,0
+1722,Kansas,US,0,0,0
+1723,Kansas,US,0,0,0
+1724,Kansas,US,0,0,0
+1725,Kansas,US,0,0,0
+1726,Kansas,US,0,0,0
+1727,Kansas,US,0,0,0
+1728,Kansas,US,0,0,0
+1729,Kansas,US,0,0,0
+1730,Kansas,US,0,0,0
+1731,Kansas,US,0,0,0
+1732,Kansas,US,0,0,0
+1733,Kansas,US,0,0,0
+1734,Kansas,US,0,0,0
+1735,Kansas,US,0,0,0
+1736,Kansas,US,0,0,0
+1737,Kansas,US,0,0,0
+1738,Kansas,US,0,0,0
+1739,Kansas,US,0,0,0
+1740,Kansas,US,0,0,0
+1741,Kansas,US,0,0,0
+1742,Kansas,US,0,0,0
+1743,Kansas,US,0,0,0
+1744,Kansas,US,0,0,0
+1745,Kansas,US,0,0,0
+1746,Kansas,US,0,0,0
+1747,Kansas,US,0,0,0
+1748,Kansas,US,0,0,0
+1749,Kansas,US,0,0,0
+1750,Kansas,US,0,0,0
+1751,Kansas,US,0,0,0
+1752,Kansas,US,0,0,0
+1753,Kansas,US,0,0,0
+1754,Kansas,US,0,0,0
+1755,Kansas,US,0,0,0
+1756,Kansas,US,0,0,0
+1757,Kansas,US,0,0,0
+1758,Kansas,US,0,0,0
+1759,Kansas,US,0,0,0
+1760,Kansas,US,0,0,0
+1761,Kansas,US,0,0,0
+1762,Kansas,US,0,0,0
+1763,Kansas,US,0,0,0
+1764,Kansas,US,0,0,0
+1765,Kansas,US,0,0,0
+1766,Kansas,US,0,0,0
+1767,Kansas,US,0,0,0
+1768,Kansas,US,0,0,0
+1769,Kansas,US,0,0,0
+1770,Kansas,US,0,0,0
+1771,Kansas,US,0,0,0
+1772,Kansas,US,0,0,0
+1773,Kansas,US,0,0,0
+1774,Kansas,US,0,0,0
+1775,Kansas,US,0,0,0
+1776,Kansas,US,0,0,0
+1777,Kansas,US,0,0,0
+1778,Kansas,US,0,0,0
+1779,Kansas,US,0,0,0
+1780,Kansas,US,0,0,0
+1781,Kansas,US,0,0,0
+1782,Kansas,US,0,0,0
+1783,Kansas,US,0,0,0
+1784,Kansas,US,0,0,0
+1785,Kansas,US,0,0,0
+1786,Kentucky,US,0,0,0
+1787,Kentucky,US,0,0,0
+1788,Kentucky,US,0,0,0
+1789,Kentucky,US,0,0,0
+1790,Kentucky,US,0,0,0
+1791,Kentucky,US,0,0,0
+1792,Kentucky,US,0,0,0
+1793,Kentucky,US,0,0,0
+1794,Kentucky,US,0,0,0
+1795,Kentucky,US,0,0,0
+1796,Kentucky,US,0,0,0
+1797,Kentucky,US,0,0,0
+1798,Kentucky,US,0,0,0
+1799,Kentucky,US,0,0,0
+1800,Kentucky,US,0,0,0
+1801,Kentucky,US,0,0,0
+1802,Kentucky,US,0,0,0
+1803,Kentucky,US,0,0,0
+1804,Kentucky,US,0,0,0
+1805,Kentucky,US,0,0,0
+1806,Kentucky,US,0,0,0
+1807,Kentucky,US,0,0,0
+1808,Kentucky,US,0,0,0
+1809,Kentucky,US,0,0,0
+1810,Kentucky,US,0,0,0
+1811,Kentucky,US,0,0,0
+1812,Kentucky,US,0,0,0
+1813,Kentucky,US,0,0,0
+1814,Kentucky,US,0,0,0
+1815,Kentucky,US,0,0,0
+1816,Kentucky,US,0,0,0
+1817,Kentucky,US,0,0,0
+1818,Kentucky,US,0,0,0
+1819,Kentucky,US,0,0,0
+1820,Kentucky,US,0,0,0
+1821,Kentucky,US,0,0,0
+1822,Kentucky,US,0,0,0
+1823,Kentucky,US,0,0,0
+1824,Kentucky,US,0,0,0
+1825,Kentucky,US,0,0,0
+1826,Kentucky,US,0,0,0
+1827,Kentucky,US,0,0,0
+1828,Kentucky,US,0,0,0
+1829,Kentucky,US,0,0,0
+1830,Kentucky,US,0,0,0
+1831,Kentucky,US,0,0,0
+1832,Kentucky,US,0,0,0
+1833,Kentucky,US,0,0,0
+1834,Kentucky,US,0,0,0
+1835,Kentucky,US,0,0,0
+1836,Kentucky,US,0,0,0
+1837,Kentucky,US,0,0,0
+1838,Kentucky,US,0,0,0
+1839,Kentucky,US,0,0,0
+1840,Kentucky,US,0,0,0
+1841,Kentucky,US,0,0,0
+1842,Kentucky,US,0,0,0
+1843,Kentucky,US,0,0,0
+1844,Kentucky,US,0,0,0
+1845,Kentucky,US,0,0,0
+1846,Kentucky,US,0,0,0
+1847,Kentucky,US,0,0,0
+1848,Kentucky,US,0,0,0
+1849,Kentucky,US,0,0,0
+1850,Kentucky,US,0,0,0
+1851,Kentucky,US,0,0,0
+1852,Kentucky,US,0,0,0
+1853,Kentucky,US,0,0,0
+1854,Kentucky,US,0,0,0
+1855,Kentucky,US,0,0,0
+1856,Kentucky,US,0,0,0
+1857,Kentucky,US,0,0,0
+1858,Kentucky,US,0,0,0
+1859,Kentucky,US,0,0,0
+1860,Kentucky,US,0,0,0
+1861,Kentucky,US,0,0,0
+1862,Kentucky,US,0,0,0
+1863,Kentucky,US,0,0,0
+1864,Kentucky,US,0,0,0
+1865,Kentucky,US,0,0,0
+1866,Kentucky,US,0,0,0
+1867,Kentucky,US,0,0,0
+1868,Kentucky,US,0,0,0
+1869,Kentucky,US,0,0,0
+1870,Kentucky,US,0,0,0
+1871,Kentucky,US,0,0,0
+1872,Kentucky,US,0,0,0
+1873,Kentucky,US,0,0,0
+1874,Kentucky,US,0,0,0
+1875,Kentucky,US,0,0,0
+1876,Kentucky,US,0,0,0
+1877,Kentucky,US,0,0,0
+1878,Kentucky,US,0,0,0
+1879,Kentucky,US,0,0,0
+1880,Kentucky,US,0,0,0
+1881,Kentucky,US,0,0,0
+1882,Kentucky,US,0,0,0
+1883,Kentucky,US,0,0,0
+1884,Kentucky,US,0,0,0
+1885,Kentucky,US,0,0,0
+1886,Kentucky,US,0,0,0
+1887,Louisiana,US,0,0,0
+1888,Louisiana,US,0,0,0
+1889,Louisiana,US,0,0,0
+1890,Louisiana,US,0,0,0
+1891,Louisiana,US,0,0,0
+1892,Louisiana,US,0,0,0
+1893,Louisiana,US,0,0,0
+1894,Louisiana,US,0,0,0
+1895,Louisiana,US,0,0,0
+1896,Louisiana,US,0,0,0
+1897,Louisiana,US,0,0,0
+1898,Louisiana,US,0,0,0
+1899,Louisiana,US,0,0,0
+1900,Louisiana,US,0,0,0
+1901,Louisiana,US,0,0,0
+1902,Louisiana,US,0,0,0
+1903,Louisiana,US,0,0,0
+1904,Louisiana,US,0,0,0
+1905,Louisiana,US,0,0,0
+1906,Louisiana,US,0,0,0
+1907,Louisiana,US,0,0,0
+1908,Louisiana,US,0,0,0
+1909,Louisiana,US,0,0,0
+1910,Louisiana,US,0,0,0
+1911,Louisiana,US,0,0,0
+1912,Louisiana,US,0,0,0
+1913,Louisiana,US,0,0,0
+1914,Louisiana,US,0,0,0
+1915,Maine,US,0,0,0
+1916,Maine,US,0,0,0
+1917,Maine,US,0,0,0
+1918,Maine,US,0,0,0
+1919,Maine,US,0,0,0
+1920,Maine,US,0,0,0
+1921,Maine,US,0,0,0
+1922,Maine,US,0,0,0
+1923,Maryland,US,0,0,0
+1924,Maryland,US,0,0,0
+1925,Maryland,US,0,0,0
+1926,Maryland,US,0,0,0
+1927,Maryland,US,0,0,0
+1928,Massachusetts,US,0,0,0
+1929,Massachusetts,US,0,0,0
+1930,Michigan,US,0,0,0
+1931,Michigan,US,0,0,0
+1932,Michigan,US,0,0,0
+1933,Michigan,US,0,0,0
+1934,Michigan,US,0,0,0
+1935,Michigan,US,0,0,0
+1936,Michigan,US,0,0,0
+1937,Michigan,US,0,0,0
+1938,Michigan,US,0,0,0
+1939,Michigan,US,0,0,0
+1940,Michigan,US,0,0,0
+1941,Michigan,US,0,0,0
+1942,Michigan,US,0,0,0
+1943,Michigan,US,0,0,0
+1944,Michigan,US,0,0,0
+1945,Michigan,US,0,0,0
+1946,Michigan,US,0,0,0
+1947,Michigan,US,0,0,0
+1948,Michigan,US,0,0,0
+1949,Michigan,US,0,0,0
+1950,Michigan,US,0,0,0
+1951,Michigan,US,0,0,0
+1952,Michigan,US,0,0,0
+1953,Michigan,US,0,0,0
+1954,Michigan,US,0,0,0
+1955,Michigan,US,0,0,0
+1956,Michigan,US,0,0,0
+1957,Michigan,US,0,0,0
+1958,Michigan,US,0,0,0
+1959,Michigan,US,0,0,0
+1960,Michigan,US,0,0,0
+1961,Michigan,US,0,0,0
+1962,Michigan,US,0,0,0
+1963,Michigan,US,0,0,0
+1964,Michigan,US,0,0,0
+1965,Michigan,US,0,0,0
+1966,Michigan,US,0,0,0
+1967,Michigan,US,0,0,0
+1968,Michigan,US,0,0,0
+1969,Michigan,US,0,0,0
+1970,Michigan,US,0,0,0
+1971,Michigan,US,0,0,0
+1972,Michigan,US,0,0,0
+1973,Michigan,US,0,0,0
+1974,Michigan,US,0,0,0
+1975,Michigan,US,0,0,0
+1976,Michigan,US,0,0,0
+1977,Michigan,US,0,0,0
+1978,Michigan,US,0,0,0
+1979,Michigan,US,0,0,0
+1980,Michigan,US,0,0,0
+1981,Minnesota,US,0,0,0
+1982,Minnesota,US,0,0,0
+1983,Minnesota,US,0,0,0
+1984,Minnesota,US,0,0,0
+1985,Minnesota,US,0,0,0
+1986,Minnesota,US,0,0,0
+1987,Minnesota,US,0,0,0
+1988,Minnesota,US,0,0,0
+1989,Minnesota,US,0,0,0
+1990,Minnesota,US,0,0,0
+1991,Minnesota,US,0,0,0
+1992,Minnesota,US,0,0,0
+1993,Minnesota,US,0,0,0
+1994,Minnesota,US,0,0,0
+1995,Minnesota,US,0,0,0
+1996,Minnesota,US,0,0,0
+1997,Minnesota,US,0,0,0
+1998,Minnesota,US,0,0,0
+1999,Minnesota,US,0,0,0
+2000,Minnesota,US,0,0,0
+2001,Minnesota,US,0,0,0
+2002,Minnesota,US,0,0,0
+2003,Minnesota,US,0,0,0
+2004,Minnesota,US,0,0,0
+2005,Minnesota,US,0,0,0
+2006,Minnesota,US,0,0,0
+2007,Minnesota,US,0,0,0
+2008,Minnesota,US,0,0,0
+2009,Minnesota,US,0,0,0
+2010,Minnesota,US,0,0,0
+2011,Minnesota,US,0,0,0
+2012,Minnesota,US,0,0,0
+2013,Minnesota,US,0,0,0
+2014,Minnesota,US,0,0,0
+2015,Minnesota,US,0,0,0
+2016,Minnesota,US,0,0,0
+2017,Minnesota,US,0,0,0
+2018,Minnesota,US,0,0,0
+2019,Minnesota,US,0,0,0
+2020,Minnesota,US,0,0,0
+2021,Minnesota,US,0,0,0
+2022,Minnesota,US,0,0,0
+2023,Minnesota,US,0,0,0
+2024,Minnesota,US,0,0,0
+2025,Minnesota,US,0,0,0
+2026,Minnesota,US,0,0,0
+2027,Minnesota,US,0,0,0
+2028,Minnesota,US,0,0,0
+2029,Minnesota,US,0,0,0
+2030,Minnesota,US,0,0,0
+2031,Minnesota,US,0,0,0
+2032,Minnesota,US,0,0,0
+2033,Minnesota,US,0,0,0
+2034,Minnesota,US,0,0,0
+2035,Minnesota,US,0,0,0
+2036,Minnesota,US,0,0,0
+2037,Minnesota,US,0,0,0
+2038,Minnesota,US,0,0,0
+2039,Minnesota,US,0,0,0
+2040,Minnesota,US,0,0,0
+2041,Minnesota,US,0,0,0
+2042,Mississippi,US,0,0,0
+2043,Mississippi,US,0,0,0
+2044,Mississippi,US,0,0,0
+2045,Mississippi,US,0,0,0
+2046,Mississippi,US,0,0,0
+2047,Mississippi,US,0,0,0
+2048,Mississippi,US,0,0,0
+2049,Mississippi,US,0,0,0
+2050,Mississippi,US,0,0,0
+2051,Mississippi,US,0,0,0
+2052,Mississippi,US,0,0,0
+2053,Mississippi,US,0,0,0
+2054,Mississippi,US,0,0,0
+2055,Mississippi,US,0,0,0
+2056,Mississippi,US,0,0,0
+2057,Mississippi,US,0,0,0
+2058,Mississippi,US,0,0,0
+2059,Mississippi,US,0,0,0
+2060,Mississippi,US,0,0,0
+2061,Mississippi,US,0,0,0
+2062,Mississippi,US,0,0,0
+2063,Mississippi,US,0,0,0
+2064,Mississippi,US,0,0,0
+2065,Mississippi,US,0,0,0
+2066,Mississippi,US,0,0,0
+2067,Mississippi,US,0,0,0
+2068,Mississippi,US,0,0,0
+2069,Mississippi,US,0,0,0
+2070,Mississippi,US,0,0,0
+2071,Mississippi,US,0,0,0
+2072,Missouri,US,0,0,0
+2073,Missouri,US,0,0,0
+2074,Missouri,US,0,0,0
+2075,Missouri,US,0,0,0
+2076,Missouri,US,0,0,0
+2077,Missouri,US,0,0,0
+2078,Missouri,US,0,0,0
+2079,Missouri,US,0,0,0
+2080,Missouri,US,0,0,0
+2081,Missouri,US,0,0,0
+2082,Missouri,US,0,0,0
+2083,Missouri,US,0,0,0
+2084,Missouri,US,0,0,0
+2085,Missouri,US,0,0,0
+2086,Missouri,US,0,0,0
+2087,Missouri,US,0,0,0
+2088,Missouri,US,0,0,0
+2089,Missouri,US,0,0,0
+2090,Missouri,US,0,0,0
+2091,Missouri,US,0,0,0
+2092,Missouri,US,0,0,0
+2093,Missouri,US,0,0,0
+2094,Missouri,US,0,0,0
+2095,Missouri,US,0,0,0
+2096,Missouri,US,0,0,0
+2097,Missouri,US,0,0,0
+2098,Missouri,US,0,0,0
+2099,Missouri,US,0,0,0
+2100,Missouri,US,0,0,0
+2101,Missouri,US,0,0,0
+2102,Missouri,US,0,0,0
+2103,Missouri,US,0,0,0
+2104,Missouri,US,0,0,0
+2105,Missouri,US,0,0,0
+2106,Missouri,US,0,0,0
+2107,Missouri,US,0,0,0
+2108,Missouri,US,0,0,0
+2109,Missouri,US,0,0,0
+2110,Missouri,US,0,0,0
+2111,Missouri,US,0,0,0
+2112,Missouri,US,0,0,0
+2113,Missouri,US,0,0,0
+2114,Missouri,US,0,0,0
+2115,Missouri,US,0,0,0
+2116,Missouri,US,0,0,0
+2117,Missouri,US,0,0,0
+2118,Missouri,US,0,0,0
+2119,Missouri,US,0,0,0
+2120,Missouri,US,0,0,0
+2121,Missouri,US,0,0,0
+2122,Missouri,US,0,0,0
+2123,Missouri,US,0,0,0
+2124,Missouri,US,0,0,0
+2125,Missouri,US,0,0,0
+2126,Missouri,US,0,0,0
+2127,Missouri,US,0,0,0
+2128,Missouri,US,0,0,0
+2129,Missouri,US,0,0,0
+2130,Missouri,US,0,0,0
+2131,Missouri,US,0,0,0
+2132,Missouri,US,0,0,0
+2133,Missouri,US,0,0,0
+2134,Missouri,US,0,0,0
+2135,Missouri,US,0,0,0
+2136,Missouri,US,0,0,0
+2137,Missouri,US,0,0,0
+2138,Missouri,US,0,0,0
+2139,Missouri,US,0,0,0
+2140,Missouri,US,0,0,0
+2141,Missouri,US,0,0,0
+2142,Missouri,US,0,0,0
+2143,Missouri,US,0,0,0
+2144,Missouri,US,0,0,0
+2145,Missouri,US,0,0,0
+2146,Missouri,US,0,0,0
+2147,Missouri,US,0,0,0
+2148,Missouri,US,0,0,0
+2149,Missouri,US,0,0,0
+2150,Missouri,US,0,0,0
+2151,Missouri,US,0,0,0
+2152,Missouri,US,0,0,0
+2153,Missouri,US,0,0,0
+2154,Missouri,US,0,0,0
+2155,Missouri,US,0,0,0
+2156,Missouri,US,0,0,0
+2157,Missouri,US,0,0,0
+2158,Missouri,US,0,0,0
+2159,Missouri,US,0,0,0
+2160,Missouri,US,0,0,0
+2161,Missouri,US,0,0,0
+2162,Missouri,US,0,0,0
+2163,Missouri,US,0,0,0
+2164,Missouri,US,0,0,0
+2165,Missouri,US,0,0,0
+2166,Missouri,US,0,0,0
+2167,Missouri,US,0,0,0
+2168,Missouri,US,0,0,0
+2169,Missouri,US,0,0,0
+2170,Montana,US,0,0,0
+2171,Montana,US,0,0,0
+2172,Montana,US,0,0,0
+2173,Montana,US,0,0,0
+2174,Montana,US,0,0,0
+2175,Montana,US,0,0,0
+2176,Montana,US,0,0,0
+2177,Montana,US,0,0,0
+2178,Montana,US,0,0,0
+2179,Montana,US,0,0,0
+2180,Montana,US,0,0,0
+2181,Montana,US,0,0,0
+2182,Montana,US,0,0,0
+2183,Montana,US,0,0,0
+2184,Montana,US,0,0,0
+2185,Montana,US,0,0,0
+2186,Montana,US,0,0,0
+2187,Montana,US,0,0,0
+2188,Montana,US,0,0,0
+2189,Montana,US,0,0,0
+2190,Montana,US,0,0,0
+2191,Montana,US,0,0,0
+2192,Montana,US,0,0,0
+2193,Montana,US,0,0,0
+2194,Montana,US,0,0,0
+2195,Montana,US,0,0,0
+2196,Montana,US,0,0,0
+2197,Montana,US,0,0,0
+2198,Montana,US,0,0,0
+2199,Montana,US,0,0,0
+2200,Montana,US,0,0,0
+2201,Montana,US,0,0,0
+2202,Montana,US,0,0,0
+2203,Montana,US,0,0,0
+2204,Montana,US,0,0,0
+2205,Montana,US,0,0,0
+2206,Montana,US,0,0,0
+2207,Montana,US,0,0,0
+2208,Montana,US,0,0,0
+2209,Montana,US,0,0,0
+2210,Montana,US,0,0,0
+2211,Montana,US,0,0,0
+2212,Montana,US,0,0,0
+2213,Montana,US,0,0,0
+2214,Montana,US,0,0,0
+2215,Nebraska,US,0,0,0
+2216,Nebraska,US,0,0,0
+2217,Nebraska,US,0,0,0
+2218,Nebraska,US,0,0,0
+2219,Nebraska,US,0,0,0
+2220,Nebraska,US,0,0,0
+2221,Nebraska,US,0,0,0
+2222,Nebraska,US,0,0,0
+2223,Nebraska,US,0,0,0
+2224,Nebraska,US,0,0,0
+2225,Nebraska,US,0,0,0
+2226,Nebraska,US,0,0,0
+2227,Nebraska,US,0,0,0
+2228,Nebraska,US,0,0,0
+2229,Nebraska,US,0,0,0
+2230,Nebraska,US,0,0,0
+2231,Nebraska,US,0,0,0
+2232,Nebraska,US,0,0,0
+2233,Nebraska,US,0,0,0
+2234,Nebraska,US,0,0,0
+2235,Nebraska,US,0,0,0
+2236,Nebraska,US,0,0,0
+2237,Nebraska,US,0,0,0
+2238,Nebraska,US,0,0,0
+2239,Nebraska,US,0,0,0
+2240,Nebraska,US,0,0,0
+2241,Nebraska,US,0,0,0
+2242,Nebraska,US,0,0,0
+2243,Nebraska,US,0,0,0
+2244,Nebraska,US,0,0,0
+2245,Nebraska,US,0,0,0
+2246,Nebraska,US,0,0,0
+2247,Nebraska,US,0,0,0
+2248,Nebraska,US,0,0,0
+2249,Nebraska,US,0,0,0
+2250,Nebraska,US,0,0,0
+2251,Nebraska,US,0,0,0
+2252,Nebraska,US,0,0,0
+2253,Nebraska,US,0,0,0
+2254,Nebraska,US,0,0,0
+2255,Nebraska,US,0,0,0
+2256,Nebraska,US,0,0,0
+2257,Nebraska,US,0,0,0
+2258,Nebraska,US,0,0,0
+2259,Nebraska,US,0,0,0
+2260,Nebraska,US,0,0,0
+2261,Nebraska,US,0,0,0
+2262,Nebraska,US,0,0,0
+2263,Nebraska,US,0,0,0
+2264,Nebraska,US,0,0,0
+2265,Nebraska,US,0,0,0
+2266,Nebraska,US,0,0,0
+2267,Nebraska,US,0,0,0
+2268,Nebraska,US,0,0,0
+2269,Nebraska,US,0,0,0
+2270,Nebraska,US,0,0,0
+2271,Nebraska,US,0,0,0
+2272,Nebraska,US,0,0,0
+2273,Nebraska,US,0,0,0
+2274,Nebraska,US,0,0,0
+2275,Nebraska,US,0,0,0
+2276,Nebraska,US,0,0,0
+2277,Nebraska,US,0,0,0
+2278,Nebraska,US,0,0,0
+2279,Nebraska,US,0,0,0
+2280,Nebraska,US,0,0,0
+2281,Nebraska,US,0,0,0
+2282,Nebraska,US,0,0,0
+2283,Nebraska,US,0,0,0
+2284,Nebraska,US,0,0,0
+2285,Nebraska,US,0,0,0
+2286,Nebraska,US,0,0,0
+2287,Nebraska,US,0,0,0
+2288,Nebraska,US,0,0,0
+2289,Nebraska,US,0,0,0
+2290,Nebraska,US,0,0,0
+2291,Nebraska,US,0,0,0
+2292,Nebraska,US,0,0,0
+2293,Nebraska,US,0,0,0
+2294,Nebraska,US,0,0,0
+2295,Nebraska,US,0,0,0
+2296,Nebraska,US,0,0,0
+2297,Nebraska,US,0,0,0
+2298,Nebraska,US,0,0,0
+2299,Nevada,US,0,0,0
+2300,Nevada,US,0,0,0
+2301,Nevada,US,0,0,0
+2302,Nevada,US,0,0,0
+2303,Nevada,US,0,0,0
+2304,Nevada,US,0,0,0
+2305,Nevada,US,0,0,0
+2306,Nevada,US,0,0,0
+2307,Nevada,US,0,0,0
+2308,Nevada,US,0,0,0
+2309,Nevada,US,0,0,0
+2310,Nevada,US,0,0,0
+2311,Nevada,US,0,0,0
+2312,Nevada,US,0,0,0
+2313,New Hampshire,US,0,0,0
+2314,New Hampshire,US,0,0,0
+2315,New Mexico,US,0,0,0
+2316,New Mexico,US,0,0,0
+2317,New Mexico,US,0,0,0
+2318,New Mexico,US,0,0,0
+2319,New Mexico,US,0,0,0
+2320,New Mexico,US,0,0,0
+2321,New Mexico,US,0,0,0
+2322,New Mexico,US,0,0,0
+2323,New Mexico,US,0,0,0
+2324,New Mexico,US,0,0,0
+2325,New Mexico,US,0,0,0
+2326,New Mexico,US,0,0,0
+2327,New Mexico,US,0,0,0
+2328,New Mexico,US,0,0,0
+2329,New Mexico,US,0,0,0
+2330,New Mexico,US,0,0,0
+2331,New Mexico,US,0,0,0
+2332,New Mexico,US,0,0,0
+2333,New Mexico,US,0,0,0
+2334,New Mexico,US,0,0,0
+2335,New Mexico,US,0,0,0
+2336,New Mexico,US,0,0,0
+2337,New Mexico,US,0,0,0
+2338,New Mexico,US,0,0,0
+2339,New Mexico,US,0,0,0
+2340,New York,US,0,0,0
+2341,New York,US,0,0,0
+2342,New York,US,0,0,0
+2343,New York,US,0,0,0
+2344,New York,US,0,0,0
+2345,New York,US,0,0,0
+2346,New York,US,0,0,0
+2347,New York,US,0,0,0
+2348,New York,US,0,0,0
+2349,New York,US,0,0,0
+2350,New York,US,0,0,0
+2351,New York,US,0,0,0
+2352,New York,US,0,0,0
+2353,New York,US,0,0,0
+2354,New York,US,0,0,0
+2355,New York,US,0,0,0
+2356,New York,US,0,0,0
+2357,New York,US,0,0,0
+2358,North Carolina,US,0,0,0
+2359,North Carolina,US,0,0,0
+2360,North Carolina,US,0,0,0
+2361,North Carolina,US,0,0,0
+2362,North Carolina,US,0,0,0
+2363,North Carolina,US,0,0,0
+2364,North Carolina,US,0,0,0
+2365,North Carolina,US,0,0,0
+2366,North Carolina,US,0,0,0
+2367,North Carolina,US,0,0,0
+2368,North Carolina,US,0,0,0
+2369,North Carolina,US,0,0,0
+2370,North Carolina,US,0,0,0
+2371,North Carolina,US,0,0,0
+2372,North Carolina,US,0,0,0
+2373,North Carolina,US,0,0,0
+2374,North Carolina,US,0,0,0
+2375,North Carolina,US,0,0,0
+2376,North Carolina,US,0,0,0
+2377,North Carolina,US,0,0,0
+2378,North Carolina,US,0,0,0
+2379,North Carolina,US,0,0,0
+2380,North Carolina,US,0,0,0
+2381,North Carolina,US,0,0,0
+2382,North Carolina,US,0,0,0
+2383,North Carolina,US,0,0,0
+2384,North Carolina,US,0,0,0
+2385,North Carolina,US,0,0,0
+2386,North Carolina,US,0,0,0
+2387,North Carolina,US,0,0,0
+2388,North Carolina,US,0,0,0
+2389,North Carolina,US,0,0,0
+2390,North Carolina,US,0,0,0
+2391,North Carolina,US,0,0,0
+2392,North Carolina,US,0,0,0
+2393,North Carolina,US,0,0,0
+2394,North Carolina,US,0,0,0
+2395,North Carolina,US,0,0,0
+2396,North Carolina,US,0,0,0
+2397,North Carolina,US,0,0,0
+2398,North Carolina,US,0,0,0
+2399,North Carolina,US,0,0,0
+2400,North Carolina,US,0,0,0
+2401,North Carolina,US,0,0,0
+2402,North Carolina,US,0,0,0
+2403,North Carolina,US,0,0,0
+2404,North Carolina,US,0,0,0
+2405,North Carolina,US,0,0,0
+2406,North Carolina,US,0,0,0
+2407,North Carolina,US,0,0,0
+2408,North Carolina,US,0,0,0
+2409,North Carolina,US,0,0,0
+2410,North Carolina,US,0,0,0
+2411,North Carolina,US,0,0,0
+2412,North Carolina,US,0,0,0
+2413,North Dakota,US,0,0,0
+2414,North Dakota,US,0,0,0
+2415,North Dakota,US,0,0,0
+2416,North Dakota,US,0,0,0
+2417,North Dakota,US,0,0,0
+2418,North Dakota,US,0,0,0
+2419,North Dakota,US,0,0,0
+2420,North Dakota,US,0,0,0
+2421,North Dakota,US,0,0,0
+2422,North Dakota,US,0,0,0
+2423,North Dakota,US,0,0,0
+2424,North Dakota,US,0,0,0
+2425,North Dakota,US,0,0,0
+2426,North Dakota,US,0,0,0
+2427,North Dakota,US,0,0,0
+2428,North Dakota,US,0,0,0
+2429,North Dakota,US,0,0,0
+2430,North Dakota,US,0,0,0
+2431,North Dakota,US,0,0,0
+2432,North Dakota,US,0,0,0
+2433,North Dakota,US,0,0,0
+2434,North Dakota,US,0,0,0
+2435,North Dakota,US,0,0,0
+2436,North Dakota,US,0,0,0
+2437,North Dakota,US,0,0,0
+2438,North Dakota,US,0,0,0
+2439,North Dakota,US,0,0,0
+2440,North Dakota,US,0,0,0
+2441,North Dakota,US,0,0,0
+2442,North Dakota,US,0,0,0
+2443,North Dakota,US,0,0,0
+2444,North Dakota,US,0,0,0
+2445,North Dakota,US,0,0,0
+2446,North Dakota,US,0,0,0
+2447,North Dakota,US,0,0,0
+2448,North Dakota,US,0,0,0
+2449,North Dakota,US,0,0,0
+2450,North Dakota,US,0,0,0
+2451,North Dakota,US,0,0,0
+2452,North Dakota,US,0,0,0
+2453,North Dakota,US,0,0,0
+2454,North Dakota,US,0,0,0
+2455,North Dakota,US,0,0,0
+2456,North Dakota,US,0,0,0
+2457,North Dakota,US,0,0,0
+2458,North Dakota,US,0,0,0
+2459,North Dakota,US,0,0,0
+2460,Ohio,US,0,0,0
+2461,Ohio,US,0,0,0
+2462,Ohio,US,0,0,0
+2463,Ohio,US,0,0,0
+2464,Ohio,US,0,0,0
+2465,Ohio,US,0,0,0
+2466,Ohio,US,0,0,0
+2467,Ohio,US,0,0,0
+2468,Ohio,US,0,0,0
+2469,Ohio,US,0,0,0
+2470,Ohio,US,0,0,0
+2471,Ohio,US,0,0,0
+2472,Ohio,US,0,0,0
+2473,Ohio,US,0,0,0
+2474,Ohio,US,0,0,0
+2475,Ohio,US,0,0,0
+2476,Ohio,US,0,0,0
+2477,Ohio,US,0,0,0
+2478,Ohio,US,0,0,0
+2479,Ohio,US,0,0,0
+2480,Ohio,US,0,0,0
+2481,Ohio,US,0,0,0
+2482,Ohio,US,0,0,0
+2483,Ohio,US,0,0,0
+2484,Ohio,US,0,0,0
+2485,Ohio,US,0,0,0
+2486,Ohio,US,0,0,0
+2487,Ohio,US,0,0,0
+2488,Ohio,US,0,0,0
+2489,Ohio,US,0,0,0
+2490,Ohio,US,0,0,0
+2491,Ohio,US,0,0,0
+2492,Ohio,US,0,0,0
+2493,Ohio,US,0,0,0
+2494,Ohio,US,0,0,0
+2495,Ohio,US,0,0,0
+2496,Ohio,US,0,0,0
+2497,Ohio,US,0,0,0
+2498,Ohio,US,0,0,0
+2499,Ohio,US,0,0,0
+2500,Ohio,US,0,0,0
+2501,Ohio,US,0,0,0
+2502,Ohio,US,0,0,0
+2503,Ohio,US,0,0,0
+2504,Ohio,US,0,0,0
+2505,Oklahoma,US,0,0,0
+2506,Oklahoma,US,0,0,0
+2507,Oklahoma,US,0,0,0
+2508,Oklahoma,US,0,0,0
+2509,Oklahoma,US,0,0,0
+2510,Oklahoma,US,0,0,0
+2511,Oklahoma,US,0,0,0
+2512,Oklahoma,US,0,0,0
+2513,Oklahoma,US,0,0,0
+2514,Oklahoma,US,0,0,0
+2515,Oklahoma,US,0,0,0
+2516,Oklahoma,US,0,0,0
+2517,Oklahoma,US,0,0,0
+2518,Oklahoma,US,0,0,0
+2519,Oklahoma,US,0,0,0
+2520,Oklahoma,US,0,0,0
+2521,Oklahoma,US,0,0,0
+2522,Oklahoma,US,0,0,0
+2523,Oklahoma,US,0,0,0
+2524,Oklahoma,US,0,0,0
+2525,Oklahoma,US,0,0,0
+2526,Oklahoma,US,0,0,0
+2527,Oklahoma,US,0,0,0
+2528,Oklahoma,US,0,0,0
+2529,Oklahoma,US,0,0,0
+2530,Oklahoma,US,0,0,0
+2531,Oklahoma,US,0,0,0
+2532,Oklahoma,US,0,0,0
+2533,Oklahoma,US,0,0,0
+2534,Oklahoma,US,0,0,0
+2535,Oklahoma,US,0,0,0
+2536,Oklahoma,US,0,0,0
+2537,Oklahoma,US,0,0,0
+2538,Oklahoma,US,0,0,0
+2539,Oklahoma,US,0,0,0
+2540,Oklahoma,US,0,0,0
+2541,Oklahoma,US,0,0,0
+2542,Oklahoma,US,0,0,0
+2543,Oklahoma,US,0,0,0
+2544,Oklahoma,US,0,0,0
+2545,Oklahoma,US,0,0,0
+2546,Oklahoma,US,0,0,0
+2547,Oklahoma,US,0,0,0
+2548,Oklahoma,US,0,0,0
+2549,Oklahoma,US,0,0,0
+2550,Oklahoma,US,0,0,0
+2551,Oklahoma,US,0,0,0
+2552,Oklahoma,US,0,0,0
+2553,Oklahoma,US,0,0,0
+2554,Oklahoma,US,0,0,0
+2555,Oklahoma,US,0,0,0
+2556,Oklahoma,US,0,0,0
+2557,Oklahoma,US,0,0,0
+2558,Oklahoma,US,0,0,0
+2559,Oklahoma,US,0,0,0
+2560,Oklahoma,US,0,0,0
+2561,Oklahoma,US,0,0,0
+2562,Oklahoma,US,0,0,0
+2563,Oklahoma,US,0,0,0
+2564,Oklahoma,US,0,0,0
+2565,Oklahoma,US,0,0,0
+2566,Oregon,US,0,0,0
+2567,Oregon,US,0,0,0
+2568,Oregon,US,0,0,0
+2569,Oregon,US,0,0,0
+2570,Oregon,US,0,0,0
+2571,Oregon,US,0,0,0
+2572,Oregon,US,0,0,0
+2573,Oregon,US,0,0,0
+2574,Oregon,US,0,0,0
+2575,Oregon,US,0,0,0
+2576,Oregon,US,0,0,0
+2577,Oregon,US,0,0,0
+2578,Oregon,US,0,0,0
+2579,Oregon,US,0,0,0
+2580,Oregon,US,0,0,0
+2581,Oregon,US,0,0,0
+2582,Oregon,US,0,0,0
+2583,Oregon,US,0,0,0
+2584,Oregon,US,0,0,0
+2585,Pennsylvania,US,0,0,0
+2586,Pennsylvania,US,0,0,0
+2587,Pennsylvania,US,0,0,0
+2588,Pennsylvania,US,0,0,0
+2589,Pennsylvania,US,0,0,0
+2590,Pennsylvania,US,0,0,0
+2591,Pennsylvania,US,0,0,0
+2592,Pennsylvania,US,0,0,0
+2593,Pennsylvania,US,0,0,0
+2594,Pennsylvania,US,0,0,0
+2595,Pennsylvania,US,0,0,0
+2596,Pennsylvania,US,0,0,0
+2597,Pennsylvania,US,0,0,0
+2598,Pennsylvania,US,0,0,0
+2599,Pennsylvania,US,0,0,0
+2600,Pennsylvania,US,0,0,0
+2601,Pennsylvania,US,0,0,0
+2602,Pennsylvania,US,0,0,0
+2603,Pennsylvania,US,0,0,0
+2604,Pennsylvania,US,0,0,0
+2605,Pennsylvania,US,0,0,0
+2606,Pennsylvania,US,0,0,0
+2607,Pennsylvania,US,0,0,0
+2608,Pennsylvania,US,0,0,0
+2609,Pennsylvania,US,0,0,0
+2610,Pennsylvania,US,0,0,0
+2611,Pennsylvania,US,0,0,0
+2612,Pennsylvania,US,0,0,0
+2613,Pennsylvania,US,0,0,0
+2614,Pennsylvania,US,0,0,0
+2615,Pennsylvania,US,0,0,0
+2616,Pennsylvania,US,0,0,0
+2617,Pennsylvania,US,0,0,0
+2618,Pennsylvania,US,0,0,0
+2619,South Carolina,US,0,0,0
+2620,South Carolina,US,0,0,0
+2621,South Carolina,US,0,0,0
+2622,South Carolina,US,0,0,0
+2623,South Carolina,US,0,0,0
+2624,South Carolina,US,0,0,0
+2625,South Carolina,US,0,0,0
+2626,South Carolina,US,0,0,0
+2627,South Carolina,US,0,0,0
+2628,South Carolina,US,0,0,0
+2629,South Carolina,US,0,0,0
+2630,South Carolina,US,0,0,0
+2631,South Carolina,US,0,0,0
+2632,South Dakota,US,0,0,0
+2633,South Dakota,US,0,0,0
+2634,South Dakota,US,0,0,0
+2635,South Dakota,US,0,0,0
+2636,South Dakota,US,0,0,0
+2637,South Dakota,US,0,0,0
+2638,South Dakota,US,0,0,0
+2639,South Dakota,US,0,0,0
+2640,South Dakota,US,0,0,0
+2641,South Dakota,US,0,0,0
+2642,South Dakota,US,0,0,0
+2643,South Dakota,US,0,0,0
+2644,South Dakota,US,0,0,0
+2645,South Dakota,US,0,0,0
+2646,South Dakota,US,0,0,0
+2647,South Dakota,US,0,0,0
+2648,South Dakota,US,0,0,0
+2649,South Dakota,US,0,0,0
+2650,South Dakota,US,0,0,0
+2651,South Dakota,US,0,0,0
+2652,South Dakota,US,0,0,0
+2653,South Dakota,US,0,0,0
+2654,South Dakota,US,0,0,0
+2655,South Dakota,US,0,0,0
+2656,South Dakota,US,0,0,0
+2657,South Dakota,US,0,0,0
+2658,South Dakota,US,0,0,0
+2659,South Dakota,US,0,0,0
+2660,South Dakota,US,0,0,0
+2661,South Dakota,US,0,0,0
+2662,South Dakota,US,0,0,0
+2663,South Dakota,US,0,0,0
+2664,South Dakota,US,0,0,0
+2665,South Dakota,US,0,0,0
+2666,South Dakota,US,0,0,0
+2667,South Dakota,US,0,0,0
+2668,South Dakota,US,0,0,0
+2669,South Dakota,US,0,0,0
+2670,South Dakota,US,0,0,0
+2671,South Dakota,US,0,0,0
+2672,South Dakota,US,0,0,0
+2673,South Dakota,US,0,0,0
+2674,South Dakota,US,0,0,0
+2675,South Dakota,US,0,0,0
+2676,South Dakota,US,0,0,0
+2677,South Dakota,US,0,0,0
+2678,South Dakota,US,0,0,0
+2679,South Dakota,US,0,0,0
+2680,South Dakota,US,0,0,0
+2681,South Dakota,US,0,0,0
+2682,South Dakota,US,0,0,0
+2683,South Dakota,US,0,0,0
+2684,South Dakota,US,0,0,0
+2685,South Dakota,US,0,0,0
+2686,South Dakota,US,0,0,0
+2687,South Dakota,US,0,0,0
+2688,South Dakota,US,0,0,0
+2689,South Dakota,US,0,0,0
+2690,Tennessee,US,0,0,0
+2691,Tennessee,US,0,0,0
+2692,Tennessee,US,0,0,0
+2693,Tennessee,US,0,0,0
+2694,Tennessee,US,0,0,0
+2695,Tennessee,US,0,0,0
+2696,Tennessee,US,0,0,0
+2697,Tennessee,US,0,0,0
+2698,Tennessee,US,0,0,0
+2699,Tennessee,US,0,0,0
+2700,Tennessee,US,0,0,0
+2701,Tennessee,US,0,0,0
+2702,Tennessee,US,0,0,0
+2703,Tennessee,US,0,0,0
+2704,Tennessee,US,0,0,0
+2705,Tennessee,US,0,0,0
+2706,Tennessee,US,0,0,0
+2707,Tennessee,US,0,0,0
+2708,Tennessee,US,0,0,0
+2709,Tennessee,US,0,0,0
+2710,Tennessee,US,0,0,0
+2711,Tennessee,US,0,0,0
+2712,Tennessee,US,0,0,0
+2713,Tennessee,US,0,0,0
+2714,Tennessee,US,0,0,0
+2715,Tennessee,US,0,0,0
+2716,Tennessee,US,0,0,0
+2717,Tennessee,US,0,0,0
+2718,Tennessee,US,0,0,0
+2719,Tennessee,US,0,0,0
+2720,Tennessee,US,0,0,0
+2721,Tennessee,US,0,0,0
+2722,Tennessee,US,0,0,0
+2723,Tennessee,US,0,0,0
+2724,Tennessee,US,0,0,0
+2725,Tennessee,US,0,0,0
+2726,Tennessee,US,0,0,0
+2727,Tennessee,US,0,0,0
+2728,Tennessee,US,0,0,0
+2729,Tennessee,US,0,0,0
+2730,Tennessee,US,0,0,0
+2731,Tennessee,US,0,0,0
+2732,Tennessee,US,0,0,0
+2733,Tennessee,US,0,0,0
+2734,Tennessee,US,0,0,0
+2735,Tennessee,US,0,0,0
+2736,Tennessee,US,0,0,0
+2737,Tennessee,US,0,0,0
+2738,Tennessee,US,0,0,0
+2739,Tennessee,US,0,0,0
+2740,Tennessee,US,0,0,0
+2741,Tennessee,US,0,0,0
+2742,Tennessee,US,0,0,0
+2743,Tennessee,US,0,0,0
+2744,Texas,US,0,0,0
+2745,Texas,US,0,0,0
+2746,Texas,US,0,0,0
+2747,Texas,US,0,0,0
+2748,Texas,US,0,0,0
+2749,Texas,US,0,0,0
+2750,Texas,US,0,0,0
+2751,Texas,US,0,0,0
+2752,Texas,US,0,0,0
+2753,Texas,US,0,0,0
+2754,Texas,US,0,0,0
+2755,Texas,US,0,0,0
+2756,Texas,US,0,0,0
+2757,Texas,US,0,0,0
+2758,Texas,US,0,0,0
+2759,Texas,US,0,0,0
+2760,Texas,US,0,0,0
+2761,Texas,US,0,0,0
+2762,Texas,US,0,0,0
+2763,Texas,US,0,0,0
+2764,Texas,US,0,0,0
+2765,Texas,US,0,0,0
+2766,Texas,US,0,0,0
+2767,Texas,US,0,0,0
+2768,Texas,US,0,0,0
+2769,Texas,US,0,0,0
+2770,Texas,US,0,0,0
+2771,Texas,US,0,0,0
+2772,Texas,US,0,0,0
+2773,Texas,US,0,0,0
+2774,Texas,US,0,0,0
+2775,Texas,US,0,0,0
+2776,Texas,US,0,0,0
+2777,Texas,US,0,0,0
+2778,Texas,US,0,0,0
+2779,Texas,US,0,0,0
+2780,Texas,US,0,0,0
+2781,Texas,US,0,0,0
+2782,Texas,US,0,0,0
+2783,Texas,US,0,0,0
+2784,Texas,US,0,0,0
+2785,Texas,US,0,0,0
+2786,Texas,US,0,0,0
+2787,Texas,US,0,0,0
+2788,Texas,US,0,0,0
+2789,Texas,US,0,0,0
+2790,Texas,US,0,0,0
+2791,Texas,US,0,0,0
+2792,Texas,US,0,0,0
+2793,Texas,US,0,0,0
+2794,Texas,US,0,0,0
+2795,Texas,US,0,0,0
+2796,Texas,US,0,0,0
+2797,Texas,US,0,0,0
+2798,Texas,US,0,0,0
+2799,Texas,US,0,0,0
+2800,Texas,US,0,0,0
+2801,Texas,US,0,0,0
+2802,Texas,US,0,0,0
+2803,Texas,US,0,0,0
+2804,Texas,US,0,0,0
+2805,Texas,US,0,0,0
+2806,Texas,US,0,0,0
+2807,Texas,US,0,0,0
+2808,Texas,US,0,0,0
+2809,Texas,US,0,0,0
+2810,Texas,US,0,0,0
+2811,Texas,US,0,0,0
+2812,Texas,US,0,0,0
+2813,Texas,US,0,0,0
+2814,Texas,US,0,0,0
+2815,Texas,US,0,0,0
+2816,Texas,US,0,0,0
+2817,Texas,US,0,0,0
+2818,Texas,US,0,0,0
+2819,Texas,US,0,0,0
+2820,Texas,US,0,0,0
+2821,Texas,US,0,0,0
+2822,Texas,US,0,0,0
+2823,Texas,US,0,0,0
+2824,Texas,US,0,0,0
+2825,Texas,US,0,0,0
+2826,Texas,US,0,0,0
+2827,Texas,US,0,0,0
+2828,Texas,US,0,0,0
+2829,Texas,US,0,0,0
+2830,Texas,US,0,0,0
+2831,Texas,US,0,0,0
+2832,Texas,US,0,0,0
+2833,Texas,US,0,0,0
+2834,Texas,US,0,0,0
+2835,Texas,US,0,0,0
+2836,Texas,US,0,0,0
+2837,Texas,US,0,0,0
+2838,Texas,US,0,0,0
+2839,Texas,US,0,0,0
+2840,Texas,US,0,0,0
+2841,Texas,US,0,0,0
+2842,Texas,US,0,0,0
+2843,Texas,US,0,0,0
+2844,Texas,US,0,0,0
+2845,Texas,US,0,0,0
+2846,Texas,US,0,0,0
+2847,Texas,US,0,0,0
+2848,Texas,US,0,0,0
+2849,Texas,US,0,0,0
+2850,Texas,US,0,0,0
+2851,Texas,US,0,0,0
+2852,Texas,US,0,0,0
+2853,Texas,US,0,0,0
+2854,Texas,US,0,0,0
+2855,Texas,US,0,0,0
+2856,Texas,US,0,0,0
+2857,Texas,US,0,0,0
+2858,Texas,US,0,0,0
+2859,Texas,US,0,0,0
+2860,Texas,US,0,0,0
+2861,Texas,US,0,0,0
+2862,Texas,US,0,0,0
+2863,Texas,US,0,0,0
+2864,Texas,US,0,0,0
+2865,Texas,US,0,0,0
+2866,Texas,US,0,0,0
+2867,Texas,US,0,0,0
+2868,Texas,US,0,0,0
+2869,Texas,US,0,0,0
+2870,Texas,US,0,0,0
+2871,Texas,US,0,0,0
+2872,Texas,US,0,0,0
+2873,Texas,US,0,0,0
+2874,Texas,US,0,0,0
+2875,Texas,US,0,0,0
+2876,Texas,US,0,0,0
+2877,Texas,US,0,0,0
+2878,Texas,US,0,0,0
+2879,Texas,US,0,0,0
+2880,Texas,US,0,0,0
+2881,Texas,US,0,0,0
+2882,Texas,US,0,0,0
+2883,Texas,US,0,0,0
+2884,Texas,US,0,0,0
+2885,Texas,US,0,0,0
+2886,Texas,US,0,0,0
+2887,Texas,US,0,0,0
+2888,Texas,US,0,0,0
+2889,Texas,US,0,0,0
+2890,Texas,US,0,0,0
+2891,Texas,US,0,0,0
+2892,Texas,US,0,0,0
+2893,Texas,US,0,0,0
+2894,Texas,US,0,0,0
+2895,Texas,US,0,0,0
+2896,Texas,US,0,0,0
+2897,Texas,US,0,0,0
+2898,Texas,US,0,0,0
+2899,Texas,US,0,0,0
+2900,Texas,US,0,0,0
+2901,Texas,US,0,0,0
+2902,Texas,US,0,0,0
+2903,Texas,US,0,0,0
+2904,Texas,US,0,0,0
+2905,Texas,US,0,0,0
+2906,Texas,US,0,0,0
+2907,Texas,US,0,0,0
+2908,Texas,US,0,0,0
+2909,Texas,US,0,0,0
+2910,Texas,US,0,0,0
+2911,Texas,US,0,0,0
+2912,Texas,US,0,0,0
+2913,Texas,US,0,0,0
+2914,Texas,US,0,0,0
+2915,Texas,US,0,0,0
+2916,Texas,US,0,0,0
+2917,Texas,US,0,0,0
+2918,Texas,US,0,0,0
+2919,Texas,US,0,0,0
+2920,Texas,US,0,0,0
+2921,Texas,US,0,0,0
+2922,Texas,US,0,0,0
+2923,Texas,US,0,0,0
+2924,Texas,US,0,0,0
+2925,Texas,US,0,0,0
+2926,Texas,US,0,0,0
+2927,Texas,US,0,0,0
+2928,Texas,US,0,0,0
+2929,Texas,US,0,0,0
+2930,Texas,US,0,0,0
+2931,Texas,US,0,0,0
+2932,Texas,US,0,0,0
+2933,Texas,US,0,0,0
+2934,Texas,US,0,0,0
+2935,Texas,US,0,0,0
+2936,Texas,US,0,0,0
+2937,Texas,US,0,0,0
+2938,Texas,US,0,0,0
+2939,Utah,US,0,0,0
+2940,Utah,US,0,0,0
+2941,Utah,US,0,0,0
+2942,Utah,US,0,0,0
+2943,Utah,US,0,0,0
+2944,Utah,US,0,0,0
+2945,Utah,US,0,0,0
+2946,Utah,US,0,0,0
+2947,Utah,US,0,0,0
+2948,Utah,US,0,0,0
+2949,Utah,US,0,0,0
+2950,Utah,US,0,0,0
+2951,Utah,US,0,0,0
+2952,Utah,US,0,0,0
+2953,Utah,US,0,0,0
+2954,Utah,US,0,0,0
+2955,Utah,US,0,0,0
+2956,Utah,US,0,0,0
+2957,Utah,US,0,0,0
+2958,Utah,US,0,0,0
+2959,Utah,US,0,0,0
+2960,Vermont,US,0,0,0
+2961,Vermont,US,0,0,0
+2962,Vermont,US,0,0,0
+2963,Vermont,US,0,0,0
+2964,Vermont,US,0,0,0
+2965,Virginia,US,0,0,0
+2966,Virginia,US,0,0,0
+2967,Virginia,US,0,0,0
+2968,Virginia,US,0,0,0
+2969,Virginia,US,0,0,0
+2970,Virginia,US,0,0,0
+2971,Virginia,US,0,0,0
+2972,Virginia,US,0,0,0
+2973,Virginia,US,0,0,0
+2974,Virginia,US,0,0,0
+2975,Virginia,US,0,0,0
+2976,Virginia,US,0,0,0
+2977,Virginia,US,0,0,0
+2978,Virginia,US,0,0,0
+2979,Virginia,US,0,0,0
+2980,Virginia,US,0,0,0
+2981,Virginia,US,0,0,0
+2982,Virginia,US,0,0,0
+2983,Virginia,US,0,0,0
+2984,Virginia,US,0,0,0
+2985,Virginia,US,0,0,0
+2986,Virginia,US,0,0,0
+2987,Virginia,US,0,0,0
+2988,Virginia,US,0,0,0
+2989,Virginia,US,0,0,0
+2990,Virginia,US,0,0,0
+2991,Virginia,US,0,0,0
+2992,Virginia,US,0,0,0
+2993,Virginia,US,0,0,0
+2994,Virginia,US,0,0,0
+2995,Virginia,US,0,0,0
+2996,Virginia,US,0,0,0
+2997,Virginia,US,0,0,0
+2998,Virginia,US,0,0,0
+2999,Virginia,US,0,0,0
+3000,Virginia,US,0,0,0
+3001,Virginia,US,0,0,0
+3002,Virginia,US,0,0,0
+3003,Virginia,US,0,0,0
+3004,Virginia,US,0,0,0
+3005,Virginia,US,0,0,0
+3006,Virginia,US,0,0,0
+3007,Virginia,US,0,0,0
+3008,Virginia,US,0,0,0
+3009,Virginia,US,0,0,0
+3010,Virginia,US,0,0,0
+3011,Virginia,US,0,0,0
+3012,Virginia,US,0,0,0
+3013,Virginia,US,0,0,0
+3014,Virginia,US,0,0,0
+3015,Virginia,US,0,0,0
+3016,Virginia,US,0,0,0
+3017,Virginia,US,0,0,0
+3018,Virginia,US,0,0,0
+3019,Virginia,US,0,0,0
+3020,Virginia,US,0,0,0
+3021,Virginia,US,0,0,0
+3022,Virginia,US,0,0,0
+3023,Virginia,US,0,0,0
+3024,Virginia,US,0,0,0
+3025,Virginia,US,0,0,0
+3026,Virginia,US,0,0,0
+3027,Virginia,US,0,0,0
+3028,Virginia,US,0,0,0
+3029,Virginia,US,0,0,0
+3030,Virginia,US,0,0,0
+3031,Virginia,US,0,0,0
+3032,Virginia,US,0,0,0
+3033,Virginia,US,0,0,0
+3034,Virginia,US,0,0,0
+3035,Virginia,US,0,0,0
+3036,Virginia,US,0,0,0
+3037,Virginia,US,0,0,0
+3038,Virginia,US,0,0,0
+3039,Virginia,US,0,0,0
+3040,Virginia,US,0,0,0
+3041,Virginia,US,0,0,0
+3042,Virginia,US,0,0,0
+3043,Virginia,US,0,0,0
+3044,Virginia,US,0,0,0
+3045,Virginia,US,0,0,0
+3046,Virginia,US,0,0,0
+3047,Virginia,US,0,0,0
+3048,Virginia,US,0,0,0
+3049,Virginia,US,0,0,0
+3050,Virginia,US,0,0,0
+3051,Virginia,US,0,0,0
+3052,Virginia,US,0,0,0
+3053,Virginia,US,0,0,0
+3054,Virginia,US,0,0,0
+3055,Virginia,US,0,0,0
+3056,Virginia,US,0,0,0
+3057,Virginia,US,0,0,0
+3058,Virginia,US,0,0,0
+3059,Washington,US,0,0,0
+3060,Washington,US,0,0,0
+3061,Washington,US,0,0,0
+3062,Washington,US,0,0,0
+3063,Washington,US,0,0,0
+3064,Washington,US,0,0,0
+3065,Washington,US,0,0,0
+3066,Washington,US,0,0,0
+3067,Washington,US,0,0,0
+3068,Washington,US,0,0,0
+3069,West Virginia,US,0,0,0
+3070,West Virginia,US,0,0,0
+3071,West Virginia,US,0,0,0
+3072,West Virginia,US,0,0,0
+3073,West Virginia,US,0,0,0
+3074,West Virginia,US,0,0,0
+3075,West Virginia,US,0,0,0
+3076,West Virginia,US,0,0,0
+3077,West Virginia,US,0,0,0
+3078,West Virginia,US,0,0,0
+3079,West Virginia,US,0,0,0
+3080,West Virginia,US,0,0,0
+3081,West Virginia,US,0,0,0
+3082,West Virginia,US,0,0,0
+3083,West Virginia,US,0,0,0
+3084,West Virginia,US,0,0,0
+3085,West Virginia,US,0,0,0
+3086,West Virginia,US,0,0,0
+3087,West Virginia,US,0,0,0
+3088,West Virginia,US,0,0,0
+3089,West Virginia,US,0,0,0
+3090,West Virginia,US,0,0,0
+3091,West Virginia,US,0,0,0
+3092,West Virginia,US,0,0,0
+3093,West Virginia,US,0,0,0
+3094,West Virginia,US,0,0,0
+3095,West Virginia,US,0,0,0
+3096,West Virginia,US,0,0,0
+3097,West Virginia,US,0,0,0
+3098,West Virginia,US,0,0,0
+3099,West Virginia,US,0,0,0
+3100,West Virginia,US,0,0,0
+3101,West Virginia,US,0,0,0
+3102,West Virginia,US,0,0,0
+3103,West Virginia,US,0,0,0
+3104,West Virginia,US,0,0,0
+3105,West Virginia,US,0,0,0
+3106,West Virginia,US,0,0,0
+3107,West Virginia,US,0,0,0
+3108,West Virginia,US,0,0,0
+3109,West Virginia,US,0,0,0
+3110,West Virginia,US,0,0,0
+3111,West Virginia,US,0,0,0
+3112,West Virginia,US,0,0,0
+3113,West Virginia,US,0,0,0
+3114,West Virginia,US,0,0,0
+3115,West Virginia,US,0,0,0
+3116,Wisconsin,US,0,0,0
+3117,Wisconsin,US,0,0,0
+3118,Wisconsin,US,0,0,0
+3119,Wisconsin,US,0,0,0
+3120,Wisconsin,US,0,0,0
+3121,Wisconsin,US,0,0,0
+3122,Wisconsin,US,0,0,0
+3123,Wisconsin,US,0,0,0
+3124,Wisconsin,US,0,0,0
+3125,Wisconsin,US,0,0,0
+3126,Wisconsin,US,0,0,0
+3127,Wisconsin,US,0,0,0
+3128,Wisconsin,US,0,0,0
+3129,Wisconsin,US,0,0,0
+3130,Wisconsin,US,0,0,0
+3131,Wisconsin,US,0,0,0
+3132,Wisconsin,US,0,0,0
+3133,Wisconsin,US,0,0,0
+3134,Wisconsin,US,0,0,0
+3135,Wisconsin,US,0,0,0
+3136,Wisconsin,US,0,0,0
+3137,Wisconsin,US,0,0,0
+3138,Wisconsin,US,0,0,0
+3139,Wisconsin,US,0,0,0
+3140,Wisconsin,US,0,0,0
+3141,Wisconsin,US,0,0,0
+3142,Wisconsin,US,0,0,0
+3143,Wisconsin,US,0,0,0
+3144,Wisconsin,US,0,0,0
+3145,Wisconsin,US,0,0,0
+3146,Wisconsin,US,0,0,0
+3147,Wisconsin,US,0,0,0
+3148,Wisconsin,US,0,0,0
+3149,Wisconsin,US,0,0,0
+3150,Wisconsin,US,0,0,0
+3151,Wisconsin,US,0,0,0
+3152,Wisconsin,US,0,0,0
+3153,Wisconsin,US,0,0,0
+3154,Wisconsin,US,0,0,0
+3155,Wisconsin,US,0,0,0
+3156,Wisconsin,US,0,0,0
+3157,Wisconsin,US,0,0,0
+3158,Wisconsin,US,0,0,0
+3159,Wyoming,US,0,0,0
+3160,Wyoming,US,0,0,0
+3161,Wyoming,US,0,0,0
+3162,Wyoming,US,0,0,0
+3163,Wyoming,US,0,0,0
+3164,Wyoming,US,0,0,0
+3165,Wyoming,US,0,0,0
+3166,Wyoming,US,0,0,0
+3167,Wyoming,US,0,0,0
+3168,Wyoming,US,0,0,0
+3169,Wyoming,US,0,0,0
+3170,Wyoming,US,0,0,0
+3171,Wyoming,US,0,0,0
+3172,Wyoming,US,0,0,0
+3173,Wyoming,US,0,0,0
+3174,American Samoa,US,0,0,0
+3175,Northern Mariana Islands,US,0,0,0
+3176,Ontario,Canada,425,5,0
+3177,British Columbia,Canada,424,10,0
+3178,Alberta,Canada,259,1,0
+3179,Quebec,Canada,219,4,0
+3180,Saskatchewan,Canada,52,0,0
+3181,Nova Scotia,Canada,28,0,0
+3182,Manitoba,Canada,20,0,0
+3183,New Brunswick,Canada,17,0,0
+3184,Grand Princess,Canada,13,0,0
+3185,Newfoundland and Labrador,Canada,9,0,0
+3186,Prince Edward Island,Canada,3,0,0
+3187,Northwest Territories,Canada,1,0,0
+3188,Diamond Princess,Canada,0,1,0
+3189,New South Wales,Australia,669,6,4
+3190,Victoria,Australia,296,0,70
+3191,Queensland,Australia,259,0,8
+3192,Western Australia,Australia,120,1,1
+3193,South Australia,Australia,100,0,6
+3194,Tasmania,Australia,22,0,3
+3195,Australian Capital Territory,Australia,19,0,0
+3196,Northern Territory,Australia,5,0,0
+3197,External territories,Australia,0,0,0
+3198,Jervis Bay Territory,Australia,0,0,0
+3199,Macau,China,20,0,10
+3200,Gansu,China,136,2,114
+3201,Chongqing,China,577,6,570
+3202,Hubei,China,67800,3144,59433
+3203,Hong Kong,China,317,4,100
+3204,,Taiwan*,169,2,28
+3205,Shandong,China,766,7,750
+3206,Beijing,China,514,8,400
+3207,Shanghai,China,394,4,328
+3208,Jiangxi,China,936,1,934
+3209,Guangdong,China,1407,8,1329
+3210,Sichuan,China,543,3,536
+3211,Fujian,China,307,1,295
+3212,Hebei,China,319,6,310
+3213,Heilongjiang,China,484,13,466
+3214,Liaoning,China,126,2,124
+3215,Jiangsu,China,633,0,631
+3216,Zhejiang,China,1237,1,1219
+3217,Shaanxi,China,248,3,239
+3218,Tianjin,China,137,3,133
+3219,Guangxi,China,254,2,250
+3220,Inner Mongolia,China,75,1,74
+3221,Guizhou,China,146,2,144
+3222,Yunnan,China,176,2,172
+3223,Hainan,China,168,6,161
+3224,Ningxia,China,75,0,75
+3225,Henan,China,1273,22,1250
+3226,Hunan,China,1018,4,1014
+3227,Shanxi,China,133,0,133
+3228,Jilin,China,93,1,92
+3229,Xinjiang,China,76,3,73
+3230,Anhui,China,990,6,984
+3231,Tibet,China,1,0,1
+3232,Qinghai,China,18,0,18
+3233,,Italy,59138,5476,7024
+3234,,Spain,28603,1756,2125
+3235,,Germany,24873,94,266
+3236,,Iran,21638,1685,7635
+3237,,France,16018,674,2200
+3238,,"Korea, South",8897,104,2909
+3239,,Switzerland,7474,98,131
+3240,,United Kingdom,5683,281,93
+3241,,Netherlands,4204,179,2
+3242,,Austria,3580,16,9
+3243,,Belgium,3401,75,263
+3244,,Norway,2263,7,6
+3245,,Sweden,1931,21,16
+3246,,Portugal,1600,14,5
+3247,,Brazil,1546,25,2
+3248,,Denmark,1395,13,1
+3249,,Malaysia,1306,10,139
+3250,,Turkey,1236,30,0
+3251,,Czechia,1120,1,6
+3252,,Japan,1086,36,235
+3253,,Israel,1071,1,37
+3254,,Ireland,906,4,5
+3255,,Luxembourg,798,8,6
+3256,,Ecuador,789,14,3
+3257,,Pakistan,776,4,13
+3258,Diamond Princess,Cruise Ship,712,8,567
+3259,,Poland,634,7,13
+3260,,Chile,632,1,8
+3261,,Finland,626,1,10
+3262,,Greece,624,15,19
+3263,,Thailand,599,1,44
+3264,,Iceland,568,1,5
+3265,,Indonesia,514,48,29
+3266,,Saudi Arabia,511,0,17
+3267,,Qatar,494,0,33
+3268,,Singapore,455,2,144
+3269,,Romania,433,3,64
+3270,,Slovenia,414,2,0
+3271,,India,396,7,24
+3272,,Philippines,380,25,15
+3273,,Russia,367,1,16
+3274,,Peru,363,5,1
+3275,,Bahrain,334,2,149
+3276,,Egypt,327,14,56
+3277,,Estonia,326,0,4
+3278,,Panama,313,3,1
+3279,,South Africa,274,0,2
+3280,,Argentina,266,4,27
+3281,,Croatia,254,1,5
+3282,,Mexico,251,2,4
+3283,,Lebanon,248,4,8
+3284,,Iraq,233,20,57
+3285,,Colombia,231,2,3
+3286,,Serbia,222,2,2
+3287,,Dominican Republic,202,3,0
+3288,,Algeria,201,17,65
+3289,,Armenia,194,0,2
+3290,,Kuwait,188,0,30
+3291,,Bulgaria,187,3,3
+3292,,Slovakia,185,0,7
+3293,,San Marino,175,20,4
+3294,,United Arab Emirates,153,2,38
+3295,,Latvia,139,0,1
+3296,,Uruguay,135,0,0
+3297,,Costa Rica,134,2,2
+3298,,Hungary,131,6,16
+3299,,Lithuania,129,1,1
+3300,,Bosnia and Herzegovina,126,1,2
+3301,,Morocco,115,4,3
+3302,,North Macedonia,115,1,1
+3303,Faroe Islands,Denmark,115,0,3
+3304,,Andorra,113,1,1
+3305,,Vietnam,113,0,17
+3306,,Jordan,112,0,1
+3307,,New Zealand,102,0,0
+3308,,Cyprus,95,1,3
+3309,,Moldova,94,1,1
+3310,,Malta,90,0,2
+3311,,Albania,89,2,2
+3312,,Brunei,88,0,2
+3313,,Cambodia,84,0,2
+3314,,Sri Lanka,82,0,3
+3315,,Belarus,76,0,15
+3316,,Burkina Faso,75,4,5
+3317,,Tunisia,75,3,1
+3318,,Ukraine,73,3,1
+3319,,Venezuela,70,0,15
+3320,,Senegal,67,0,5
+3321,,Azerbaijan,65,1,11
+3322,,Kazakhstan,59,0,0
+3323,Guadeloupe,France,56,1,0
+3324,,Oman,55,0,17
+3325,,Georgia,54,0,1
+3326,,Trinidad and Tobago,50,0,0
+3327,Reunion,France,47,0,1
+3328,,Uzbekistan,43,0,0
+3329,,Afghanistan,40,1,1
+3330,,Cameroon,40,0,2
+3331,Martinique,France,37,1,0
+3332,,Liechtenstein,37,0,0
+3333,,Cuba,35,1,0
+3334,Channel Islands,United Kingdom,32,0,0
+3335,,Congo (Kinshasa),30,1,0
+3336,,Nigeria,30,0,2
+3337,,Mauritius,28,2,0
+3338,,Bangladesh,27,2,3
+3339,,Honduras,26,0,0
+3340,,Bolivia,24,0,0
+3341,,Ghana,23,1,0
+3342,,Monaco,23,0,1
+3343,,Paraguay,22,1,0
+3344,,Montenegro,21,0,0
+3345,,Guatemala,19,1,0
+3346,,Jamaica,19,1,2
+3347,,Rwanda,19,0,0
+3348,,Guyana,18,1,0
+3349,French Guiana,France,18,0,0
+3350,,Togo,16,0,0
+3351,French Polynesia,France,15,0,0
+3352,Gibraltar,United Kingdom,15,0,2
+3353,,Kenya,15,0,0
+3354,,Barbados,14,0,0
+3355,,Cote d'Ivoire,14,0,1
+3356,,Kyrgyzstan,14,0,0
+3357,,Maldives,13,0,3
+3358,,Tanzania,12,0,0
+3359,,Ethiopia,11,0,0
+3360,Mayotte,France,11,0,0
+3361,,Mongolia,10,0,0
+3362,Aruba,Netherlands,9,0,1
+3363,,Seychelles,7,0,0
+3364,,Equatorial Guinea,6,0,0
+3365,,Gabon,5,1,0
+3366,Isle of Man,United Kingdom,5,0,0
+3367,St Martin,France,5,0,0
+3368,,Suriname,5,0,0
+3369,,Bahamas,4,0,0
+3370,Greenland,Denmark,4,0,0
+3371,New Caledonia,France,4,0,0
+3372,,Eswatini,4,0,0
+3373,Cayman Islands,United Kingdom,3,1,0
+3374,Curacao,Netherlands,3,1,0
+3375,,Cabo Verde,3,0,0
+3376,,Central African Republic,3,0,0
+3377,,Congo (Brazzaville),3,0,0
+3378,,El Salvador,3,0,0
+3379,,Liberia,3,0,0
+3380,,Madagascar,3,0,0
+3381,,Namibia,3,0,0
+3382,Saint Barthelemy,France,3,0,0
+3383,,Zambia,3,0,0
+3384,,Zimbabwe,3,0,0
+3385,,Sudan,2,1,0
+3386,,Angola,2,0,0
+3387,,Benin,2,0,0
+3388,Bermuda,United Kingdom,2,0,0
+3389,,Bhutan,2,0,0
+3390,,Fiji,2,0,0
+3391,,Guinea,2,0,0
+3392,,Haiti,2,0,0
+3393,,Mauritania,2,0,0
+3394,,Nicaragua,2,0,0
+3395,,Niger,2,0,0
+3396,,Saint Lucia,2,0,0
+3397,,Nepal,1,0,1
+3398,,Antigua and Barbuda,1,0,0
+3399,,Chad,1,0,0
+3400,,Djibouti,1,0,0
+3401,,Dominica,1,0,0
+3402,,Eritrea,1,0,0
+3403,,Gambia,1,0,0
+3404,,Grenada,1,0,0
+3405,,Holy See,1,0,0
+3406,Montserrat,United Kingdom,1,0,0
+3407,,Mozambique,1,0,0
+3408,,Papua New Guinea,1,0,0
+3409,,Saint Vincent and the Grenadines,1,0,0
+3410,Sint Maarten,Netherlands,1,0,0
+3411,,Somalia,1,0,0
+3412,,Syria,1,0,0
+3413,,Timor-Leste,1,0,0
+3414,,Uganda,1,0,0
+3415,District of Columbia,US,102,2,0
+3416,Washington,US,1,2,0

@@ -1,0 +1,55 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,3554,125.0,88.0
+1,Zhejiang,Mainland China,296,,3.0
+2,Guangdong,Mainland China,277,,5.0
+3,Hunan,Mainland China,221,,
+4,Henan,Mainland China,206,2.0,1.0
+5,Anhui,Mainland China,152,,2.0
+6,Chongqing,Mainland China,147,,1.0
+7,Shandong,Mainland China,130,,1.0
+8,Beijing,Mainland China,111,1.0,4.0
+9,Jiangxi,Mainland China,109,,3.0
+10,Sichuan,Mainland China,108,1.0,1.0
+11,Jiangsu,Mainland China,99,,1.0
+12,Shanghai,Mainland China,96,1.0,5.0
+13,Fujian,Mainland China,84,,
+14,Guangxi,Mainland China,58,,2.0
+15,Shaanxi,Mainland China,56,,
+16,Yunnan,Mainland China,55,,
+17,Hebei,Mainland China,48,1.0,
+18,Hainan,Mainland China,43,1.0,
+19,Liaoning,Mainland China,39,,1.0
+20,Heilongjiang,Mainland China,38,1.0,
+21,Tianjin,Mainland China,27,,
+22,Shanxi,Mainland China,27,,1.0
+23,Gansu,Mainland China,24,,
+24,Inner Mongolia,Mainland China,16,,
+25,Xinjiang,Mainland China,13,,
+26,Ningxia,Mainland China,12,,
+27,Hong Kong,Hong Kong,10,,
+28,Guizhou,Mainland China,9,,1.0
+29,Jilin,Mainland China,9,,
+30,Taiwan,Taiwan,8,,
+31,Macau,Macau,7,,
+32,Qinghai,Mainland China,6,,
+33,Washington,US,1,,
+34,Illinois,US,1,,
+35,California,US,2,,
+36,Arizona,US,1,,
+37,,Japan,7,,1.0
+38,,Thailand,14,,5.0
+39,,South Korea,4,,
+40,,Singapore,7,,
+41,,Vietnam,2,,
+42,,France,5,,
+43,,Nepal,1,,
+44,,Malaysia,7,,
+45,Ontario,Canada,1,,
+46,British Columbia,Canada,1,,
+47,,Cambodia,1,,
+48,,Sri Lanka,1,,
+49,New South Wales,Australia,4,,
+50,Victoria,Australia,1,,
+51,Bavaria,Germany,4,,
+52,,Finland,1,,
+53,,United Arab Emirates,4,,

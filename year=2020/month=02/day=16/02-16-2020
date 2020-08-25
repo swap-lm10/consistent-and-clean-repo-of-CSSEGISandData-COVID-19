@@ -1,0 +1,76 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,58182,1696,6639
+1,Guangdong,Mainland China,1316,2,465
+2,Henan,Mainland China,1231,13,440
+3,Zhejiang,Mainland China,1167,0,456
+4,Hunan,Mainland China,1004,3,464
+5,Anhui,Mainland China,962,6,255
+6,Jiangxi,Mainland China,925,1,240
+7,Jiangsu,Mainland China,617,0,218
+8,Chongqing,Mainland China,551,5,207
+9,Shandong,Mainland China,537,2,173
+10,Sichuan,Mainland China,481,3,131
+11,Heilongjiang,Mainland China,445,11,79
+12,Beijing,Mainland China,380,4,108
+13,Diamond Princess cruise ship,Others,355,0,0
+14,Shanghai,Mainland China,328,1,140
+15,Hebei,Mainland China,300,3,105
+16,Fujian,Mainland China,287,0,82
+17,Guangxi,Mainland China,237,2,49
+18,Shaanxi,Mainland China,236,0,71
+19,Yunnan,Mainland China,171,0,42
+20,Hainan,Mainland China,162,4,52
+21,Guizhou,Mainland China,144,1,46
+22,Shanxi,Mainland China,129,0,50
+23,Tianjin,Mainland China,124,3,45
+24,Liaoning,Mainland China,121,1,40
+25,Gansu,Mainland China,90,2,54
+26,Jilin,Mainland China,89,1,30
+27,,Singapore,75,0,18
+28,Xinjiang,Mainland China,71,1,12
+29,Inner Mongolia,Mainland China,70,0,8
+30,Ningxia,Mainland China,70,0,33
+31,,Japan,59,1,12
+32,Hong Kong,Hong Kong,57,1,2
+33,,Thailand,34,0,14
+34,,South Korea,29,0,9
+35,,Malaysia,22,0,7
+36,Taiwan,Taiwan,20,1,2
+37,Qinghai,Mainland China,18,0,13
+38,,Germany,16,0,1
+39,,Vietnam,16,0,7
+40,,France,12,1,4
+41,Macau,Macau,10,0,5
+42,,UK,9,0,8
+43,,United Arab Emirates,9,0,4
+44,Queensland,Australia,5,0,0
+45,New South Wales,Australia,4,0,4
+46,Victoria,Australia,4,0,4
+47,British Columbia,Canada,4,0,0
+48,,India,3,0,3
+49,,Italy,3,0,0
+50,,Philippines,3,1,1
+51,South Australia,Australia,2,0,0
+52,"Toronto, ON",Canada,2,0,0
+53,,Russia,2,0,2
+54,,Spain,2,0,2
+55,"Chicago, IL",US,2,0,2
+56,"San Benito, CA",US,2,0,0
+57,"San Diego County, CA",US,2,0,0
+58,"Santa Clara, CA",US,2,0,0
+59,,Belgium,1,0,0
+60,,Cambodia,1,0,1
+61,"London, ON",Canada,1,0,1
+62,,Egypt,1,0,0
+63,,Finland,1,0,1
+64,Tibet,Mainland China,1,0,1
+65,,Nepal,1,0,1
+66,,Sri Lanka,1,0,1
+67,,Sweden,1,0,0
+68,"Boston, MA",US,1,0,0
+69,"Los Angeles, CA",US,1,0,0
+70,"Madison, WI",US,1,0,0
+71,"Orange, CA",US,1,0,0
+72,"San Antonio, TX",US,1,0,0
+73,"Seattle, WA",US,1,0,1
+74,"Tempe, AZ",US,1,0,0

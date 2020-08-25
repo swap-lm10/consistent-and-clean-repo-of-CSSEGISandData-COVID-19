@@ -1,0 +1,161 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,67332,2871,38557
+1,,South Korea,5621,35,41
+2,,Italy,3089,107,276
+3,,Iran,2922,92,552
+4,Guangdong,Mainland China,1350,7,1133
+5,Henan,Mainland China,1272,22,1234
+6,Zhejiang,Mainland China,1213,1,1114
+7,Hunan,Mainland China,1018,4,916
+8,Anhui,Mainland China,990,6,956
+9,Jiangxi,Mainland China,935,1,884
+10,Shandong,Mainland China,758,6,516
+11,Diamond Princess cruise ship,Others,706,6,10
+12,Jiangsu,Mainland China,631,0,577
+13,Chongqing,Mainland China,576,6,502
+14,Sichuan,Mainland China,538,3,406
+15,Heilongjiang,Mainland China,480,13,373
+16,Beijing,Mainland China,418,8,297
+17,Shanghai,Mainland China,338,3,298
+18,,Japan,331,6,43
+19,Hebei,Mainland China,318,6,301
+20,Fujian,Mainland China,296,1,270
+21,,France,285,4,12
+22,,Germany,262,0,16
+23,Guangxi,Mainland China,252,2,210
+24,Shaanxi,Mainland China,245,1,223
+25,,Spain,222,2,2
+26,Yunnan,Mainland China,174,2,169
+27,Hainan,Mainland China,168,5,158
+28,Guizhou,Mainland China,146,2,114
+29,Tianjin,Mainland China,136,3,124
+30,Shanxi,Mainland China,133,0,124
+31,Liaoning,Mainland China,125,1,106
+32,,Singapore,110,0,78
+33,Hong Kong,Hong Kong,105,2,37
+34,Jilin,Mainland China,93,1,86
+35,Gansu,Mainland China,91,2,87
+36,,Switzerland,90,0,3
+37,,UK,85,0,8
+38,Xinjiang,Mainland China,76,3,69
+39,Inner Mongolia,Mainland China,75,1,63
+40,Ningxia,Mainland China,75,0,69
+41,,Kuwait,56,0,0
+42,,Norway,56,0,0
+43,,Bahrain,52,0,0
+44,,Malaysia,50,0,22
+45,Unassigned Location (From Diamond Princess),US,45,0,0
+46,,Thailand,43,1,31
+47,Taiwan,Taiwan,42,1,12
+48,,Netherlands,38,0,0
+49,,Iraq,35,2,0
+50,,Sweden,35,0,0
+51,"King County, WA",US,31,9,1
+52,,Austria,29,0,0
+53,,India,28,0,3
+54,,United Arab Emirates,27,0,5
+55,,Iceland,26,0,0
+56,,Belgium,23,0,1
+57,New South Wales,Australia,22,1,4
+58,"Toronto, ON",Canada,19,0,2
+59,Qinghai,Mainland China,18,0,18
+60,,San Marino,16,1,0
+61,,Vietnam,16,0,16
+62,,Israel,15,0,1
+63,,Oman,15,0,2
+64,,Lebanon,13,0,1
+65,,Algeria,12,0,0
+66,British Columbia,Canada,12,0,3
+67,Queensland,Australia,11,0,1
+68,"Santa Clara, CA",US,11,0,1
+69,Victoria,Australia,10,0,4
+70,,Croatia,10,0,0
+71,,Denmark,10,0,0
+72,,Ecuador,10,0,0
+73,Macau,Macau,10,0,9
+74,"Westchester County, NY",US,10,0,0
+75,,Greece,9,0,0
+76,,Czech Republic,8,0,0
+77,,Qatar,8,0,0
+78,"Snohomish County, WA",US,8,1,0
+79,"Los Angeles, CA",US,7,0,0
+80,,Belarus,6,0,0
+81,,Finland,6,0,1
+82,,Ireland,6,0,0
+83,South Australia,Australia,5,0,2
+84,,Mexico,5,0,1
+85,,Pakistan,5,0,0
+86,,Portugal,5,0,0
+87,,Brazil,4,0,0
+88,,Romania,4,0,1
+89,,Senegal,4,0,0
+90,"Cook County, IL",US,4,0,2
+91,,Azerbaijan,3,0,0
+92,,Georgia,3,0,0
+93,,New Zealand,3,0,0
+94,,Philippines,3,1,1
+95,,Russia,3,0,2
+96,,Saint Barthelemy,3,0,0
+97,"Orange County, CA",US,3,0,0
+98,Western Australia,Australia,2,1,0
+99,,Egypt,2,0,1
+100,,Estonia,2,0,0
+101,,Hungary,2,0,0
+102,,Indonesia,2,0,0
+103,"Fulton County, GA",US,2,0,0
+104,"Grafton County, NH",US,2,0,0
+105,"Hillsborough, FL",US,2,0,0
+106,"Placer County, CA",US,2,1,0
+107,"Providence, RI",US,2,0,0
+108,"Sacramento County, CA",US,2,0,0
+109,"San Benito, CA",US,2,0,0
+110,"San Diego County, CA",US,2,0,1
+111,"San Mateo, CA",US,2,0,0
+112,"Washington County, OR",US,2,0,0
+113,,Afghanistan,1,0,0
+114,,Andorra,1,0,0
+115,,Argentina,1,0,0
+116,,Armenia,1,0,0
+117,Northern Territory,Australia,1,0,0
+118,Tasmania,Australia,1,0,0
+119,,Cambodia,1,0,1
+120," Montreal, QC",Canada,1,0,0
+121,"London, ON",Canada,1,0,1
+122,,Chile,1,0,0
+123,,Dominican Republic,1,0,0
+124,,Faroe Islands,1,0,0
+125,,Gibraltar,1,0,0
+126,,Jordan,1,0,0
+127,,Latvia,1,0,0
+128,,Liechtenstein,1,0,0
+129,,Lithuania,1,0,0
+130,,Luxembourg,1,0,0
+131,Tibet,Mainland China,1,0,1
+132,,Monaco,1,0,0
+133,,Morocco,1,0,0
+134,,Nepal,1,0,1
+135,,Nigeria,1,0,0
+136,,North Macedonia,1,0,0
+137,,Poland,1,0,0
+138,,Saudi Arabia,1,0,0
+139,,Sri Lanka,1,0,1
+140,,Tunisia,1,0,0
+141," Norfolk County, MA",US,1,0,0
+142,"Berkeley, CA",US,1,0,0
+143,"Boston, MA",US,1,0,1
+144,"Contra Costa County, CA",US,1,0,0
+145,"Humboldt County, CA",US,1,0,0
+146,"Madison, WI",US,1,0,1
+147,"Maricopa County, AZ",US,1,0,0
+148,"New York City, NY",US,1,0,0
+149,"San Antonio, TX",US,1,0,0
+150,"Sarasota, FL",US,1,0,0
+151,"Sonoma County, CA",US,1,0,0
+152,"Tempe, AZ",US,1,0,1
+153,"Umatilla, OR",US,1,0,0
+154,"Wake County, NC",US,1,0,0
+155,,Ukraine,1,0,0
+156,From Diamond Princess,Australia,0,0,0
+157,"Lackland, TX (From Diamond Princess)",US,0,0,0
+158,"Omaha, NE (From Diamond Princess)",US,0,0,0
+159,"Travis, CA (From Diamond Princess)",US,0,0,0

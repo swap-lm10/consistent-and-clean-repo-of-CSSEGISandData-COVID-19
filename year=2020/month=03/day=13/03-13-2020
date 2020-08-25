@@ -1,0 +1,231 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,China,67786,3062,51553
+1,Guangdong,China,1356,8,1296
+2,Henan,China,1273,22,1249
+3,Zhejiang,China,1215,1,1197
+4,Hunan,China,1018,4,1005
+5,Anhui,China,990,6,984
+6,Jiangxi,China,935,1,934
+7,Shandong,China,760,7,739
+8,Jiangsu,China,631,0,630
+9,Chongqing,China,576,6,566
+10,Sichuan,China,539,3,503
+11,Heilongjiang,China,482,13,446
+12,Beijing,China,436,8,342
+13,Shanghai,China,346,3,324
+14,Hebei,China,318,6,310
+15,Fujian,China,296,1,295
+16,Guangxi,China,252,2,243
+17,Shaanxi,China,245,2,232
+18,Yunnan,China,174,2,170
+19,Hainan,China,168,6,160
+20,Guizhou,China,146,2,140
+21,Tianjin,China,136,3,132
+22,Hong Kong,China,134,4,77
+23,Shanxi,China,133,0,133
+24,Gansu,China,127,2,88
+25,Liaoning,China,125,1,112
+26,Xinjiang,China,76,3,73
+27,Inner Mongolia,China,75,1,71
+28,Ningxia,China,75,0,72
+29,Jilin,China,93,1,91
+30,Qinghai,China,18,0,18
+31,Macau,China,10,0,10
+32,Tibet,China,1,0,1
+33,,Panama,27,1,0
+34,Tasmania,Australia,5,0,0
+35,,Croatia,32,0,1
+36,,Burkina Faso,2,0,0
+37,,Albania,33,1,0
+38,British Columbia,Canada,64,1,4
+39,New South Wales,Australia,92,2,4
+40,Victoria,Australia,36,0,8
+41,Queensland,Australia,35,0,8
+42,South Australia,Australia,16,0,3
+43,Channel Islands,United Kingdom,2,0,0
+44,,Philippines,64,5,2
+45,,Nepal,1,0,1
+46,,Sri Lanka,6,0,1
+47,,United Arab Emirates,85,0,17
+48,,Thailand,75,1,35
+49,,Cambodia,5,0,1
+50,,San Marino,80,5,0
+51,Ontario,Canada,74,0,4
+52,Australian Capital Territory,Australia,1,0,0
+53,,Germany,3675,7,46
+54,,Congo (Kinshasa),2,0,0
+55,,Honduras,2,0,0
+56,Diamond Princess,US,46,0,0
+57,,Algeria,26,2,8
+58,,Reunion,5,0,0
+59,,Oman,19,0,9
+60,Diamond Princess,Cruise Ship,696,7,325
+61,New Brunswick,Canada,1,0,0
+62,,Italy,17660,1266,1439
+63,,Iraq,101,9,24
+64,,Lebanon,77,3,1
+65,From Diamond Princess,Australia,0,0,0
+66,,Ukraine,3,1,0
+67,,Austria,504,1,6
+68,,Switzerland,1139,11,4
+69,,Ireland,90,1,0
+70,,Georgia,25,0,0
+71,,Bangladesh,3,0,0
+72,,Kuwait,80,0,5
+73,,North Macedonia,14,0,1
+74,,Brazil,151,0,0
+75,,Greece,190,1,0
+76,,Sweden,814,1,1
+77,,Pakistan,28,0,2
+78,,Norway,996,0,1
+79,France,France,3661,79,12
+80,,Turkey,5,0,0
+81,,Bahrain,189,0,44
+82,,Iceland,134,0,1
+83,,Ecuador,17,0,0
+84,,Estonia,79,0,0
+85,Denmark,Denmark,801,0,1
+86,United Kingdom,United Kingdom,798,8,18
+87,,Netherlands,804,10,0
+88,,Cuba,4,0,0
+89,Quebec,Canada,17,0,0
+90,,Nigeria,2,0,0
+91,,Lithuania,6,0,0
+92,,New Zealand,5,0,0
+93,,Belarus,27,0,3
+94,,Azerbaijan,15,1,3
+95,,Armenia,8,0,0
+96,,Kazakhstan,4,0,0
+97,,Iran,11364,514,2959
+98,,Israel,161,0,4
+99,French Polynesia,France,3,0,0
+100,Western Australia,Australia,14,1,0
+101,,Cayman Islands,1,0,0
+102,,Japan,701,19,118
+103,,Czechia,141,0,0
+104,,Qatar,320,0,0
+105,,Singapore,200,0,97
+106,,Guadeloupe,1,0,0
+107,,Dominican Republic,5,0,0
+108,,Egypt,80,2,27
+109,,Bolivia,3,0,0
+110,Manitoba,Canada,4,0,0
+111,Saskatchewan,Canada,2,0,0
+112,,Indonesia,69,4,2
+113,,"Korea, South",7979,66,510
+114,,Latvia,17,0,1
+115,,Senegal,10,0,1
+116,,Ethiopia,1,0,0
+117,,Sudan,1,1,0
+118,,Portugal,112,0,1
+119,,Andorra,1,0,0
+120,,Guinea,1,0,0
+121,,Antigua and Barbuda,1,0,0
+122,,Belgium,559,3,1
+123,,Russia,45,0,3
+124,,India,82,2,4
+125,,Morocco,7,1,1
+126,,Aruba,2,0,0
+127,Grand Princess,Canada,2,0,0
+128,,Argentina,31,2,0
+129,,Chile,43,0,0
+130,,Jordan,1,0,1
+131,,Kenya,1,0,0
+132,Saint Barthelemy,France,1,0,0
+133,St Martin,France,2,0,0
+134,,Poland,68,2,0
+135,Faroe Islands,Denmark,3,0,0
+136,Gibraltar,United Kingdom,1,0,1
+137,,Hungary,19,0,0
+138,Northern Territory,Australia,1,0,0
+139,Alabama,US,5,0,0
+140,,Slovenia,141,0,0
+141,,Finland,155,0,1
+142,,South Africa,24,0,0
+143,,Bosnia and Herzegovina,13,0,0
+144,,Saudi Arabia,86,0,1
+145,,Cote d'Ivoire,1,0,0
+146,,Luxembourg,34,0,0
+147,,Costa Rica,23,0,0
+148,Alberta,Canada,29,0,0
+149,,Bhutan,1,0,0
+150,,Spain,5232,133,193
+151,,Malaysia,197,0,26
+152,,Holy See,1,0,0
+153,,Serbia,35,0,0
+154,,Cameroon,2,0,0
+155,,Slovakia,32,0,0
+156,,Togo,1,0,0
+157,,Peru,28,0,0
+158,,Romania,89,0,7
+159,,Mexico,12,0,4
+160,,Colombia,13,0,0
+161,Grand Princess,US,21,0,0
+162,,Brunei,37,0,0
+163,,Martinique,3,0,0
+164,,French Guiana,5,0,0
+165,,Malta,12,0,1
+166,,Paraguay,6,0,0
+167,,Moldova,6,0,0
+168,,Maldives,9,0,0
+169,,Bulgaria,23,1,0
+170,,Tunisia,16,0,0
+171,,Cyprus,14,0,0
+172,Alaska,US,1,0,0
+173,Arizona,US,9,0,1
+174,Arkansas,US,6,0,0
+175,California,US,282,4,6
+176,Colorado,US,49,0,0
+177,Connecticut,US,11,0,0
+178,Delaware,US,4,0,0
+179,District of Columbia,US,10,0,0
+180,Florida,US,50,2,0
+181,Georgia,US,42,1,0
+182,Hawaii,US,2,0,0
+183,Idaho,US,1,0,0
+184,Illinois,US,46,0,2
+185,Indiana,US,13,0,0
+186,Iowa,US,17,0,0
+187,Kansas,US,5,1,0
+188,Kentucky,US,14,0,0
+189,Louisiana,US,36,0,0
+190,Maine,US,1,0,0
+191,Maryland,US,18,0,0
+192,Massachusetts,US,123,0,1
+193,Michigan,US,16,0,0
+194,Minnesota,US,14,0,0
+195,Mississippi,US,1,0,0
+196,Missouri,US,2,0,0
+197,Montana,US,1,0,0
+198,Nebraska,US,13,0,0
+199,Nevada,US,17,0,0
+200,New Hampshire,US,6,0,0
+201,New Jersey,US,29,1,0
+202,New Mexico,US,10,0,0
+203,New York,US,421,0,0
+204,North Carolina,US,17,0,0
+205,North Dakota,US,1,0,0
+206,Ohio,US,13,0,0
+207,Oklahoma,US,2,0,0
+208,Oregon,US,30,0,0
+209,Pennsylvania,US,41,0,0
+210,Rhode Island,US,14,0,0
+211,South Carolina,US,13,0,0
+212,South Dakota,US,8,1,0
+213,Tennessee,US,26,0,0
+214,Texas,US,43,0,0
+215,Utah,US,9,0,0
+216,Vermont,US,2,0,0
+217,Virginia,US,30,0,0
+218,Washington,US,568,37,1
+219,West Virginia,US,0,0,0
+220,Wisconsin,US,19,0,1
+221,Wyoming,US,1,0,0
+222,,Vietnam,47,0,16
+223,,Mongolia,1,0,0
+224,,Jamaica,8,0,0
+225,,Afghanistan,7,0,0
+226,,Monaco,2,0,0
+227,,Liechtenstein,1,0,0
+228,,Guyana,1,1,0
+229,,Taiwan*,50,1,20

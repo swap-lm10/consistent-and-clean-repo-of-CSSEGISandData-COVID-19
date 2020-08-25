@@ -1,0 +1,68 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,Hubei,Mainland China,7153,249,168
+1,Zhejiang,Mainland China,599,0,21
+2,Guangdong,Mainland China,535,0,14
+3,Henan,Mainland China,422,2,3
+4,Hunan,Mainland China,389,0,8
+5,Anhui,Mainland China,297,0,5
+6,Jiangxi,Mainland China,286,0,9
+7,Chongqing,Mainland China,247,1,3
+8,Sichuan,Mainland China,207,1,3
+9,Shandong,Mainland China,206,0,3
+10,Jiangsu,Mainland China,202,0,6
+11,Shanghai,Mainland China,169,1,10
+12,Beijing,Mainland China,168,1,9
+13,Fujian,Mainland China,144,0,0
+14,Shaanxi,Mainland China,101,0,0
+15,Guangxi,Mainland China,100,0,2
+16,Hebei,Mainland China,96,1,0
+17,Yunnan,Mainland China,93,0,2
+18,Heilongjiang,Mainland China,80,2,2
+19,Liaoning,Mainland China,64,0,1
+20,Hainan,Mainland China,62,1,1
+21,Shanxi,Mainland China,47,0,1
+22,Tianjin,Mainland China,41,0,0
+23,Gansu,Mainland China,40,0,0
+24,Guizhou,Mainland China,29,0,2
+25,Ningxia,Mainland China,26,0,0
+26,Inner Mongolia,Mainland China,23,0,1
+27,,Japan,20,0,1
+28,,Thailand,19,0,5
+29,Xinjiang,Mainland China,18,0,0
+30,Jilin,Mainland China,17,0,1
+31,,Singapore,16,0,0
+32,Hong Kong,Hong Kong,13,0,0
+33,,South Korea,12,0,0
+34,Taiwan,Taiwan,10,0,0
+35,Qinghai,Mainland China,9,0,0
+36,,Malaysia,8,0,0
+37,,Germany,8,0,0
+38,Macau,Macau,7,0,0
+39,,France,6,0,0
+40,,Vietnam,6,0,1
+41,New South Wales,Australia,4,0,2
+42,Victoria,Australia,4,0,0
+43,,United Arab Emirates,4,0,0
+44,Queensland,Australia,3,0,0
+45,Ontario,Canada,3,0,0
+46,,Italy,2,0,0
+47,,Russia,2,0,0
+48,,UK,2,0,0
+49,"Chicago, IL",US,2,0,0
+50,South Australia,Australia,1,0,0
+51,,Cambodia,1,0,0
+52,British Columbia,Canada,1,0,0
+53,,Finland,1,0,0
+54,,India,1,0,0
+55,Tibet,Mainland China,1,0,0
+56,,Nepal,1,0,0
+57,,Philippines,1,0,0
+58,,Spain,1,0,0
+59,,Sri Lanka,1,0,0
+60,,Sweden,1,0,0
+61,"Boston, MA",US,1,0,0
+62,"Los Angeles, CA",US,1,0,0
+63,"Orange, CA",US,1,0,0
+64,"Santa Clara, CA",US,1,0,0
+65,"Seattle, WA",US,1,0,0
+66,"Tempe, AZ",US,1,0,0

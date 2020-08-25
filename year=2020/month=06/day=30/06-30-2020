@@ -1,0 +1,3788 @@
+,Province_State,Country_Region,Confirmed,Deaths,Recovered
+0,South Carolina,US,113,0,0
+1,Louisiana,US,878,36,0
+2,Virginia,US,1042,14,0
+3,Idaho,US,2169,23,0
+4,Iowa,US,15,0,0
+5,Kentucky,US,117,19,0
+6,Missouri,US,90,0,0
+7,Oklahoma,US,115,4,0
+8,Colorado,US,4185,155,0
+9,Idaho,US,11,0,0
+10,Illinois,US,87,1,0
+11,Indiana,US,45,1,0
+12,Iowa,US,8,0,0
+13,Mississippi,US,263,18,0
+14,Nebraska,US,294,11,0
+15,Ohio,US,21,1,0
+16,Pennsylvania,US,339,12,0
+17,Washington,US,134,0,0
+18,Wisconsin,US,19,2,0
+19,Vermont,US,68,2,0
+20,South Carolina,US,387,10,0
+21,Minnesota,US,14,0,0
+22,Florida,US,1197,12,0
+23,North Carolina,US,1146,37,0
+24,California,US,5964,135,0
+25,Colorado,US,191,3,0
+26,New York,US,2102,121,0
+27,Wyoming,US,34,0,0
+28,Virginia,US,401,8,0
+29,Michigan,US,22,1,0
+30,Mississippi,US,55,1,0
+31,Illinois,US,22,0,0
+32,North Carolina,US,91,1,0
+33,Virginia,US,2325,57,0
+34,Oklahoma,US,1,0,0
+35,Michigan,US,3,0,0
+36,Iowa,US,124,4,0
+37,Michigan,US,312,7,0
+38,Maryland,US,205,17,0
+39,New York,US,59,0,0
+40,North Carolina,US,31,0,0
+41,Virginia,US,31,2,0
+42,Pennsylvania,US,2760,183,0
+43,Indiana,US,2649,110,0
+44,Kansas,US,4,0,0
+45,Kentucky,US,166,5,0
+46,Louisiana,US,304,10,0
+47,Ohio,US,293,38,0
+48,South Carolina,US,48,3,0
+49,Michigan,US,120,11,0
+50,California,US,2,0,0
+51,California,US,22,0,0
+52,Virginia,US,44,1,0
+53,Virginia,US,36,0,0
+54,Mississippi,US,81,2,0
+55,Alaska,US,440,6,0
+56,Kansas,US,4,0,0
+57,Kentucky,US,26,1,0
+58,South Carolina,US,608,11,0
+59,Tennessee,US,102,2,0
+60,Texas,US,1032,2,0
+61,Missouri,US,49,0,0
+62,Texas,US,75,0,0
+63,Maine,US,483,4,0
+64,Texas,US,476,6,0
+65,Maryland,US,5109,207,0
+66,Minnesota,US,2097,107,0
+67,North Carolina,US,128,2,0
+68,Nebraska,US,9,1,0
+69,Michigan,US,18,0,0
+70,Arizona,US,2337,86,0
+71,Iowa,US,20,3,0
+72,Georgia,US,258,14,0
+73,Virginia,US,40,0,0
+74,Texas,US,23,0,0
+75,Colorado,US,5202,344,0
+76,Texas,US,7,0,0
+77,Colorado,US,8,0,0
+78,Michigan,US,38,2,0
+79,Arkansas,US,28,0,0
+80,Virginia,US,2479,132,0
+81,Pennsylvania,US,74,6,0
+82,Texas,US,3,0,0
+83,Maine,US,23,1,0
+84,Nebraska,US,0,0,0
+85,Louisiana,US,1171,58,0
+86,North Carolina,US,54,1,0
+87,Ohio,US,53,1,0
+88,Wisconsin,US,3,0,0
+89,Arkansas,US,71,1,0
+90,Ohio,US,420,43,0
+91,Washington,US,21,2,0
+92,Louisiana,US,352,14,0
+93,Texas,US,106,2,0
+94,Kansas,US,34,0,0
+95,Missouri,US,3,0,0
+96,Ohio,US,33,1,0
+97,Georgia,US,147,2,0
+98,New Jersey,US,2863,216,0
+99,Oklahoma,US,22,0,0
+100,Mississippi,US,350,23,0
+101,Missouri,US,138,1,0
+102,Iowa,US,17,1,0
+103,Ohio,US,99,3,0
+104,Virginia,US,185,2,0
+105,South Dakota,US,34,0,0
+106,Texas,US,71,0,0
+107,Alabama,US,530,11,0
+108,North Carolina,US,12,0,0
+109,Louisiana,US,319,13,0
+110,Colorado,US,14,0,0
+111,Georgia,US,236,4,0
+112,Texas,US,94,1,0
+113,Florida,US,63,4,0
+114,Georgia,US,43,3,0
+115,Oregon,US,1,0,0
+116,Alabama,US,663,9,0
+117,Georgia,US,499,34,0
+118,Kentucky,US,14,0,0
+119,Maryland,US,7985,473,0
+120,Maryland,US,7546,337,0
+121,South Carolina,US,113,1,0
+122,Texas,US,16,0,0
+123,Georgia,US,133,0,0
+124,Nebraska,US,1,0,0
+125,Idaho,US,102,1,0
+126,Michigan,US,5,0,0
+127,Kansas,US,1,0,0
+128,Alabama,US,322,1,0
+129,West Virginia,US,15,1,0
+130,North Dakota,US,19,0,0
+131,Massachusetts,US,1538,144,0
+132,South Carolina,US,79,1,0
+133,Kentucky,US,86,2,0
+134,Wisconsin,US,34,1,0
+135,Georgia,US,523,25,0
+136,Michigan,US,102,2,0
+137,Missouri,US,43,0,0
+138,Indiana,US,578,44,0
+139,Kansas,US,56,2,0
+140,Missouri,US,21,0,0
+141,Georgia,US,688,42,0
+142,Texas,US,442,6,0
+143,Missouri,US,12,1,0
+144,Kentucky,US,15,1,0
+145,Virginia,US,0,0,0
+146,Arkansas,US,20,0,0
+147,Florida,US,384,4,0
+148,Michigan,US,392,30,0
+149,Wisconsin,US,3,1,0
+150,Texas,US,1,0,0
+151,South Dakota,US,524,6,0
+152,Idaho,US,1,0,0
+153,Utah,US,1521,2,0
+154,North Carolina,US,83,0,0
+155,South Carolina,US,1223,18,0
+156,Louisiana,US,201,8,0
+157,Oklahoma,US,30,0,0
+158,Pennsylvania,US,669,78,0
+159,Montana,US,1,0,0
+160,Minnesota,US,54,0,0
+161,Oklahoma,US,11,0,0
+162,Pennsylvania,US,82,3,0
+163,Tennessee,US,513,5,0
+164,Virginia,US,118,3,0
+165,Texas,US,46,0,0
+166,New Hampshire,US,81,1,0
+167,Kentucky,US,8,0,0
+168,Texas,US,1187,13,0
+169,Ohio,US,528,21,0
+170,Minnesota,US,27,0,0
+171,Georgia,US,165,1,0
+172,Idaho,US,21,0,0
+173,South Dakota,US,4,0,0
+174,Vermont,US,72,1,0
+175,North Dakota,US,4,0,0
+176,Colorado,US,4,0,0
+177,Arkansas,US,2723,18,0
+178,Indiana,US,47,0,0
+179,Iowa,US,58,1,0
+180,Minnesota,US,208,3,0
+181,Mississippi,US,27,0,0
+182,Missouri,US,17,0,0
+183,Oregon,US,82,5,0
+184,Tennessee,US,12,1,0
+185,Washington,US,1731,82,0
+186,Michigan,US,12,0,0
+187,New Jersey,US,19423,1989,0
+188,South Carolina,US,1069,22,0
+189,West Virginia,US,458,10,0
+190,Pennsylvania,US,4527,351,0
+191,Massachusetts,US,594,44,0
+192,New Mexico,US,2143,85,0
+193,Georgia,US,116,0,0
+194,Michigan,US,882,60,0
+195,North Carolina,US,145,4,0
+196,Alaska,US,9,0,0
+197,Texas,US,10797,109,0
+198,Alabama,US,167,1,0
+199,Georgia,US,848,39,0
+200,Louisiana,US,227,26,0
+201,Montana,US,74,3,0
+202,Wyoming,US,20,0,0
+203,Minnesota,US,14,0,0
+204,North Dakota,US,1,0,0
+205,Idaho,US,40,0,0
+206,Iowa,US,2095,57,0
+207,Indiana,US,35,2,0
+208,North Carolina,US,371,3,0
+209,Idaho,US,535,5,0
+210,Nebraska,US,0,0,0
+211,Oklahoma,US,14,0,0
+212,Pennsylvania,US,71,1,0
+213,Texas,US,27,1,0
+214,Virginia,US,2,0,0
+215,Georgia,US,60,1,0
+216,Tennessee,US,617,1,0
+217,Alabama,US,204,1,0
+218,Tennessee,US,173,3,0
+219,Minnesota,US,403,2,0
+220,Idaho,US,4,0,0
+221,Mississippi,US,261,13,0
+222,Missouri,US,12,0,0
+223,South Dakota,US,11,0,0
+224,Illinois,US,13,1,0
+225,Idaho,US,32,0,0
+226,Idaho,US,115,1,0
+227,Arkansas,US,26,1,0
+228,Illinois,US,586,21,0
+229,Indiana,US,421,42,0
+230,Iowa,US,136,1,0
+231,Kentucky,US,597,23,0
+232,Missouri,US,313,2,0
+233,Nebraska,US,7,0,0
+234,West Virginia,US,21,0,0
+235,Texas,US,13,0,0
+236,Louisiana,US,875,30,0
+237,Virginia,US,121,4,0
+238,North Dakota,US,5,0,0
+239,Colorado,US,1384,72,0
+240,Idaho,US,1,0,0
+241,Kansas,US,28,1,0
+242,Kentucky,US,31,1,0
+243,Texas,US,427,13,0
+244,North Dakota,US,1,0,0
+245,Nebraska,US,3,0,0
+246,Kentucky,US,62,3,0
+247,Nebraska,US,1,0,0
+248,Kentucky,US,38,0,0
+249,Kentucky,US,17,0,0
+250,Florida,US,83,2,0
+251,Pennsylvania,US,57,3,0
+252,Arkansas,US,52,2,0
+253,Tennessee,US,550,3,0
+254,Michigan,US,257,2,0
+255,Georgia,US,94,2,0
+256,West Virginia,US,3,0,0
+257,Texas,US,2269,21,0
+258,Texas,US,1943,29,0
+259,Kentucky,US,8,0,0
+260,Kentucky,US,24,2,0
+261,Iowa,US,87,6,0
+262,Florida,US,1793,17,0
+263,Texas,US,130,1,0
+264,Texas,US,2,0,0
+265,Massachusetts,US,8225,574,0
+266,Rhode Island,US,253,0,0
+267,Virginia,US,4,0,0
+268,Montana,US,5,0,0
+269,West Virginia,US,9,0,0
+270,South Dakota,US,62,0,0
+271,Georgia,US,154,11,0
+272,Texas,US,3,0,0
+273,New York,US,716,58,0
+274,Colorado,US,298,30,0
+275,Florida,US,15624,383,0
+276,Illinois,US,10,0,0
+277,Indiana,US,38,1,0
+278,Kansas,US,14,0,0
+279,Minnesota,US,30,2,0
+280,Nebraska,US,0,0,0
+281,Ohio,US,52,1,0
+282,South Dakota,US,342,2,0
+283,Texas,US,77,10,0
+284,Wisconsin,US,2873,42,0
+285,South Dakota,US,23,0,0
+286,North Carolina,US,510,5,0
+287,Virginia,US,103,1,0
+288,Georgia,US,127,5,0
+289,Oklahoma,US,94,1,0
+290,Iowa,US,45,1,0
+291,Missouri,US,838,3,0
+292,Virginia,US,31,0,0
+293,Virginia,US,556,4,0
+294,Pennsylvania,US,5744,564,0
+295,Iowa,US,1695,11,0
+296,Virginia,US,15,0,0
+297,Nebraska,US,184,1,0
+298,South Dakota,US,71,1,0
+299,Wisconsin,US,7,2,0
+300,Kentucky,US,150,4,0
+301,Georgia,US,339,4,0
+302,Alabama,US,360,9,0
+303,North Carolina,US,591,40,0
+304,Illinois,US,29,2,0
+305,Georgia,US,144,7,0
+306,North Carolina,US,1033,20,0
+307,North Dakota,US,5,0,0
+308,North Dakota,US,258,0,0
+309,Texas,US,76,0,0
+310,New Jersey,US,5168,424,0
+311,Texas,US,129,3,0
+312,Wisconsin,US,3,1,0
+313,Nebraska,US,14,0,0
+314,Alabama,US,604,27,0
+315,Iowa,US,45,2,0
+316,Kansas,US,53,0,0
+317,Kentucky,US,256,14,0
+318,Missouri,US,75,0,0
+319,Nebraska,US,51,0,0
+320,Ohio,US,1405,44,0
+321,Pennsylvania,US,307,13,0
+322,California,US,168,2,0
+323,South Dakota,US,0,0,0
+324,Georgia,US,274,33,0
+325,North Carolina,US,1164,32,0
+326,West Virginia,US,124,0,0
+327,Louisiana,US,3309,235,0
+328,Oklahoma,US,186,11,0
+329,California,US,32,0,0
+330,Louisiana,US,1300,59,0
+331,Kentucky,US,15,0,0
+332,Louisiana,US,104,1,0
+333,Missouri,US,9,0,0
+334,North Carolina,US,419,4,0
+335,Texas,US,336,2,0
+336,Vermont,US,19,0,0
+337,Alabama,US,268,5,0
+338,Florida,US,76,6,0
+339,Georgia,US,162,5,0
+340,Illinois,US,1,0,0
+341,Iowa,US,44,2,0
+342,Michigan,US,536,33,0
+343,Mississippi,US,119,4,0
+344,South Carolina,US,87,1,0
+345,Texas,US,74,3,0
+346,West Virginia,US,2,0,0
+347,Texas,US,16,2,0
+348,Missouri,US,44,1,0
+349,Kentucky,US,81,1,0
+350,Wisconsin,US,108,2,0
+351,Maryland,US,414,27,0
+352,Idaho,US,1,0,0
+353,Pennsylvania,US,80,3,0
+354,Georgia,US,128,2,0
+355,Missouri,US,60,1,0
+356,New Jersey,US,7317,489,0
+357,North Carolina,US,28,0,0
+358,Louisiana,US,46,0,0
+359,Pennsylvania,US,3,0,0
+360,Texas,US,2296,55,0
+361,Texas,US,117,1,0
+362,Kentucky,US,256,13,0
+363,Tennessee,US,36,1,0
+364,Virginia,US,45,1,0
+365,Wyoming,US,56,0,0
+366,Oklahoma,US,280,3,0
+367,Georgia,US,37,0,0
+368,Tennessee,US,27,0,0
+369,Idaho,US,856,6,0
+370,Missouri,US,141,3,0
+371,New Jersey,US,740,73,0
+372,Montana,US,20,0,0
+373,Pennsylvania,US,278,26,0
+374,Wyoming,US,23,0,0
+375,Idaho,US,11,0,0
+376,Kentucky,US,5,1,0
+377,Minnesota,US,81,0,0
+378,Maryland,US,319,3,0
+379,Virginia,US,128,4,0
+380,Arkansas,US,168,5,0
+381,Georgia,US,704,39,0
+382,Illinois,US,21,2,0
+383,Indiana,US,108,2,0
+384,Iowa,US,82,1,0
+385,Kentucky,US,37,0,0
+386,Maryland,US,1117,112,0
+387,Mississippi,US,157,11,0
+388,Missouri,US,11,0,0
+389,New Hampshire,US,54,0,0
+390,Ohio,US,51,3,0
+391,Tennessee,US,39,1,0
+392,Virginia,US,214,8,0
+393,Texas,US,6,0,0
+394,Nevada,US,151,5,0
+395,Kentucky,US,23,0,0
+396,Missouri,US,6,1,0
+397,Oklahoma,US,92,1,0
+398,Tennessee,US,54,1,0
+399,North Carolina,US,94,3,0
+400,Minnesota,US,340,1,0
+401,Montana,US,29,2,0
+402,Kentucky,US,19,0,0
+403,Illinois,US,129,2,0
+404,Indiana,US,1636,9,0
+405,Iowa,US,17,0,0
+406,Michigan,US,145,5,0
+407,Minnesota,US,13,2,0
+408,Missouri,US,125,8,0
+409,Nebraska,US,66,1,0
+410,North Dakota,US,2245,66,0
+411,Texas,US,38,2,0
+412,Idaho,US,240,1,0
+413,Texas,US,75,1,0
+414,North Carolina,US,135,1,0
+415,Louisiana,US,190,3,0
+416,North Carolina,US,825,14,0
+417,Georgia,US,312,8,0
+418,New Mexico,US,2,1,0
+419,New York,US,123,6,0
+420,North Dakota,US,2,0,0
+421,New York,US,115,2,0
+422,Maryland,US,479,29,0
+423,Iowa,US,75,1,0
+424,Missouri,US,9,0,0
+425,Nebraska,US,17,0,0
+426,Utah,US,169,0,0
+427,Pennsylvania,US,201,7,0
+428,Iowa,US,99,1,0
+429,Colorado,US,77,19,0
+430,Alabama,US,576,27,0
+431,Texas,US,288,2,0
+432,Illinois,US,860,12,0
+433,Ohio,US,37,1,0
+434,Missouri,US,6,0,0
+435,Maryland,US,1393,86,0
+436,Virginia,US,39,3,0
+437,South Dakota,US,82,0,0
+438,South Carolina,US,4027,26,0
+439,Michigan,US,27,2,0
+440,Florida,US,775,76,0
+441,Virginia,US,31,0,0
+442,Virginia,US,212,3,0
+443,Georgia,US,51,2,0
+444,Kansas,US,4,0,0
+445,Nebraska,US,1,0,0
+446,Georgia,US,1321,37,0
+447,North Carolina,US,950,43,0
+448,Georgia,US,410,0,0
+449,Georgia,US,61,2,0
+450,Kansas,US,4,0,0
+451,New York,US,127,7,0
+452,New Mexico,US,94,2,0
+453,Tennessee,US,202,1,0
+454,Michigan,US,27,2,0
+455,Washington,US,330,6,0
+456,New York,US,141,2,0
+457,New York,US,146,5,0
+458,Alabama,US,71,7,0
+459,Georgia,US,1315,43,0
+460,Iowa,US,72,0,0
+461,Kansas,US,29,0,0
+462,North Carolina,US,36,1,0
+463,Oklahoma,US,77,1,0
+464,South Carolina,US,154,7,0
+465,Texas,US,148,2,0
+466,Nebraska,US,1,0,0
+467,Virginia,US,895,20,0
+468,New Hampshire,US,71,2,0
+469,Pennsylvania,US,3711,323,0
+470,South Carolina,US,185,1,0
+471,Tennessee,US,23,0,0
+472,South Carolina,US,366,14,0
+473,Virginia,US,2897,50,0
+474,Colorado,US,5,0,0
+475,Kansas,US,2,0,0
+476,Nebraska,US,19,0,0
+477,Iowa,US,25,0,0
+478,Mississippi,US,254,18,0
+479,Arkansas,US,134,3,0
+480,Texas,US,7,0,0
+481,Alabama,US,206,2,0
+482,Michigan,US,10,0,0
+483,Minnesota,US,75,1,0
+484,Wisconsin,US,84,0,0
+485,Minnesota,US,93,1,0
+486,Vermont,US,607,39,0
+487,Alabama,US,191,12,0
+488,Mississippi,US,71,4,0
+489,Oklahoma,US,112,1,0
+490,North Carolina,US,24,0,0
+491,Illinois,US,43,4,0
+492,Kentucky,US,193,4,0
+493,Missouri,US,40,0,0
+494,Nevada,US,11,1,0
+495,New Mexico,US,212,14,0
+496,Oklahoma,US,1,0,0
+497,Florida,US,291,13,0
+498,Oregon,US,733,24,0
+499,Louisiana,US,120,11,0
+500,Mississippi,US,228,10,0
+501,Tennessee,US,25,0,0
+502,Washington,US,36,0,0
+503,Michigan,US,28,3,0
+504,South Carolina,US,413,42,0
+505,Pennsylvania,US,34,2,0
+506,Arkansas,US,56,0,0
+507,Illinois,US,14,0,0
+508,Indiana,US,616,44,0
+509,Kansas,US,34,1,0
+510,Kentucky,US,98,5,0
+511,Missouri,US,2,0,0
+512,Nevada,US,15095,416,0
+513,Ohio,US,729,8,0
+514,South Dakota,US,15,0,0
+515,Washington,US,731,30,0
+516,Wisconsin,US,72,6,0
+517,Alabama,US,264,5,0
+518,Georgia,US,531,15,0
+519,Iowa,US,125,2,0
+520,Mississippi,US,198,24,0
+521,Virginia,US,49,0,0
+522,Oregon,US,48,0,0
+523,Alabama,US,53,2,0
+524,Arkansas,US,54,3,0
+525,Florida,US,713,34,0
+526,Georgia,US,57,2,0
+527,Illinois,US,2,0,0
+528,Indiana,US,59,4,0
+529,Iowa,US,121,0,0
+530,Kansas,US,6,2,0
+531,Kentucky,US,59,3,0
+532,Minnesota,US,563,37,0
+533,Mississippi,US,240,10,0
+534,Missouri,US,414,10,0
+535,Nebraska,US,27,0,0
+536,North Carolina,US,12,0,0
+537,South Dakota,US,82,0,0
+538,Tennessee,US,16,0,0
+539,Texas,US,7,0,0
+540,West Virginia,US,10,1,0
+541,Georgia,US,1939,79,0
+542,Iowa,US,39,3,0
+543,Colorado,US,19,1,0
+544,Pennsylvania,US,72,0,0
+545,Idaho,US,1,0,0
+546,Minnesota,US,7,0,0
+547,Alabama,US,29,1,0
+548,Arkansas,US,85,4,0
+549,Ohio,US,347,6,0
+550,Arkansas,US,25,0,0
+551,North Carolina,US,297,4,0
+552,Oklahoma,US,886,40,0
+553,Georgia,US,108,3,0
+554,Illinois,US,236,17,0
+555,Indiana,US,279,2,0
+556,Iowa,US,95,1,0
+557,Kentucky,US,5,0,0
+558,Michigan,US,223,12,0
+559,Missouri,US,23,0,0
+560,New York,US,101,4,0
+561,Ohio,US,61,0,0
+562,Pennsylvania,US,78,4,0
+563,Kansas,US,18,0,0
+564,Mississippi,US,183,6,0
+565,Oklahoma,US,8,0,0
+566,Georgia,US,4877,243,0
+567,Arizona,US,614,8,0
+568,Texas,US,1,0,0
+569,Tennessee,US,58,0,0
+570,Arizona,US,1885,92,0
+571,South Dakota,US,63,0,0
+572,Alabama,US,352,2,0
+573,Georgia,US,540,17,0
+574,Tennessee,US,108,0,0
+575,Kansas,US,53,8,0
+576,Texas,US,5,1,0
+577,Alabama,US,363,5,0
+578,Missouri,US,72,2,0
+579,Texas,US,3,0,0
+580,Illinois,US,164,17,0
+581,Nebraska,US,668,4,0
+582,New Mexico,US,9,1,0
+583,South Carolina,US,329,21,0
+584,Florida,US,4225,74,0
+585,Texas,US,2882,42,0
+586,Texas,US,6,0,0
+587,Virginia,US,143,17,0
+588,Texas,US,87,0,0
+589,Georgia,US,951,18,0
+590,Arkansas,US,83,3,0
+591,Florida,US,287,3,0
+592,Georgia,US,470,9,0
+593,New York,US,464,37,0
+594,Oregon,US,29,0,0
+595,Pennsylvania,US,400,34,0
+596,Washington,US,8,0,0
+597,Wisconsin,US,85,1,0
+598,Ohio,US,1205,60,0
+599,North Carolina,US,521,38,0
+600,California,US,46,0,0
+601,Texas,US,470,7,0
+602,Kansas,US,2,0,0
+603,Oklahoma,US,406,5,0
+604,Texas,US,23,1,0
+605,Texas,US,9,0,0
+606,Louisiana,US,111,6,0
+607,Alabama,US,178,6,0
+608,Colorado,US,13,0,0
+609,California,US,3132,76,0
+610,Wyoming,US,26,0,0
+611,Arkansas,US,55,3,0
+612,Georgia,US,133,1,0
+613,Illinois,US,90536,4565,0
+614,Minnesota,US,1,0,0
+615,Texas,US,43,0,0
+616,Missouri,US,14,0,0
+617,New Hampshire,US,7,0,0
+618,Oregon,US,41,0,0
+619,Alabama,US,55,1,0
+620,Mississippi,US,562,14,0
+621,South Dakota,US,18,0,0
+622,New York,US,47,0,0
+623,Texas,US,331,2,0
+624,Ohio,US,76,1,0
+625,Colorado,US,21,0,0
+626,Texas,US,4,1,0
+627,Oklahoma,US,6,2,0
+628,Minnesota,US,133,0,0
+629,Alabama,US,308,6,0
+630,Mississippi,US,290,5,0
+631,Virginia,US,5,0,0
+632,Georgia,US,667,15,0
+633,Kansas,US,71,1,0
+634,Washington,US,179,0,0
+635,Oklahoma,US,21,0,0
+636,Virginia,US,7,0,0
+637,Arkansas,US,451,6,0
+638,Texas,US,54,8,0
+639,North Carolina,US,365,6,0
+640,Arkansas,US,159,1,0
+641,Georgia,US,42,0,0
+642,Illinois,US,18,0,0
+643,Indiana,US,29,0,0
+644,Iowa,US,666,2,0
+645,Kansas,US,256,1,0
+646,Michigan,US,70,5,0
+647,Missouri,US,11,0,0
+648,Ohio,US,135,6,0
+649,Pennsylvania,US,53,0,0
+650,Wisconsin,US,33,0,0
+651,Oklahoma,US,144,7,0
+652,Alabama,US,122,3,0
+653,Georgia,US,273,12,0
+654,Arkansas,US,746,12,0
+655,Kentucky,US,9,1,0
+656,Tennessee,US,31,3,0
+657,Texas,US,9,0,0
+658,Oregon,US,10,0,0
+659,Wyoming,US,7,0,0
+660,Texas,US,21,1,0
+661,Arkansas,US,85,1,0
+662,Minnesota,US,102,12,0
+663,Colorado,US,70,1,0
+664,Texas,US,3,0,0
+665,Alabama,US,398,3,0
+666,Virginia,US,808,10,0
+667,Illinois,US,11,0,0
+668,Kentucky,US,6,0,0
+669,Maine,US,1715,60,0
+670,New Jersey,US,2963,143,0
+671,North Carolina,US,1180,41,0
+672,Pennsylvania,US,852,64,0
+673,Tennessee,US,168,3,0
+674,Virginia,US,51,0,0
+675,Nebraska,US,35,0,0
+676,North Carolina,US,19,0,0
+677,New Mexico,US,163,0,0
+678,Oregon,US,7,0,0
+679,Colorado,US,2,0,0
+680,Idaho,US,4,0,0
+681,Montana,US,27,0,0
+682,Nebraska,US,40,4,0
+683,Oklahoma,US,55,0,0
+684,South Dakota,US,8,0,0
+685,Ohio,US,6831,364,0
+686,Georgia,US,66,1,0
+687,Missouri,US,1,0,0
+688,Minnesota,US,2180,87,0
+689,Nebraska,US,1759,31,0
+690,Alabama,US,241,0,0
+691,Texas,US,83,1,0
+692,Alabama,US,808,8,0
+693,Arkansas,US,10,0,0
+694,Iowa,US,1175,29,0
+695,Missouri,US,12,1,0
+696,Texas,US,21338,373,0
+697,Wisconsin,US,1873,32,0
+698,Virginia,US,86,2,0
+699,North Carolina,US,59,1,0
+700,Ohio,US,234,25,0
+701,South Carolina,US,445,14,0
+702,Pennsylvania,US,2045,133,0
+703,North Carolina,US,946,15,0
+704,Tennessee,US,9237,113,0
+705,North Carolina,US,214,4,0
+706,Indiana,US,138,16,0
+707,Kentucky,US,433,8,0
+708,Missouri,US,8,0,0
+709,Iowa,US,37,1,0
+710,Utah,US,1179,5,0
+711,South Dakota,US,41,0,0
+712,Nebraska,US,3,0,0
+713,Georgia,US,141,3,0
+714,Montana,US,8,0,0
+715,Nebraska,US,857,8,0
+716,Texas,US,52,1,0
+717,South Dakota,US,16,0,0
+718,New Mexico,US,0,0,0
+719,Louisiana,US,348,18,0
+720,Illinois,US,6,0,0
+721,Alabama,US,576,5,0
+722,Georgia,US,5841,173,0
+723,Illinois,US,550,18,0
+724,Indiana,US,157,4,0
+725,Missouri,US,11,0,0
+726,Tennessee,US,52,0,0
+727,Florida,US,604,10,0
+728,Mississippi,US,1311,15,0
+729,Texas,US,56,1,0
+730,Texas,US,292,16,0
+731,Indiana,US,203,22,0
+732,Georgia,US,253,8,0
+733,Indiana,US,243,32,0
+734,Iowa,US,10,0,0
+735,Tennessee,US,21,0,0
+736,Montana,US,4,0,0
+737,Ohio,US,45,3,0
+738,California,US,50,1,0
+739,Indiana,US,425,48,0
+740,Iowa,US,41,1,0
+741,New York,US,91,4,0
+742,Ohio,US,494,15,0
+743,Oklahoma,US,152,16,0
+744,Pennsylvania,US,7201,655,0
+745,Colorado,US,83,1,0
+746,Michigan,US,23,3,0
+747,Texas,US,6,0,0
+748,Missouri,US,3,0,0
+749,Texas,US,2740,37,0
+750,Colorado,US,7091,381,0
+751,Iowa,US,84,3,0
+752,Oregon,US,181,0,0
+753,Arkansas,US,47,1,0
+754,Nebraska,US,0,0,0
+755,South Dakota,US,3,0,0
+756,Oklahoma,US,5,0,0
+757,South Dakota,US,4,0,0
+758,Texas,US,2,0,0
+759,Virginia,US,4,0,0
+760,North Dakota,US,4,0,0
+761,Iowa,US,241,2,0
+762,Kansas,US,8,1,0
+763,Michigan,US,7,2,0
+764,Tennessee,US,175,0,0
+765,South Carolina,US,304,9,0
+766,Texas,US,13,0,0
+767,Virginia,US,142,0,0
+768,District of Columbia,US,10327,551,0
+769,North Dakota,US,1,0,0
+770,Florida,US,68,4,0
+771,Nebraska,US,48,2,0
+772,Georgia,US,100,2,0
+773,Minnesota,US,81,0,0
+774,Nebraska,US,687,8,0
+775,Wisconsin,US,459,5,0
+776,New Mexico,US,949,9,0
+777,Kansas,US,25,0,0
+778,Texas,US,27,0,0
+779,Georgia,US,210,12,0
+780,Wisconsin,US,44,3,0
+781,Maryland,US,188,5,0
+782,South Carolina,US,712,3,0
+783,Georgia,US,1903,154,0
+784,Colorado,US,951,52,0
+785,Georgia,US,917,36,0
+786,Illinois,US,52,0,0
+787,Kansas,US,157,0,0
+788,Minnesota,US,61,0,0
+789,Missouri,US,3,0,0
+790,Nebraska,US,7084,93,0
+791,Nevada,US,65,0,0
+792,Oregon,US,40,0,0
+793,South Dakota,US,4,0,0
+794,Washington,US,233,3,0
+795,Wisconsin,US,25,0,0
+796,Arkansas,US,65,1,0
+797,Illinois,US,9032,470,0
+798,Indiana,US,259,6,0
+799,Iowa,US,512,22,0
+800,Massachusetts,US,64,0,0
+801,Nebraska,US,0,0,0
+802,Missouri,US,92,3,0
+803,North Dakota,US,13,0,0
+804,Wisconsin,US,37,0,0
+805,North Carolina,US,1468,28,0
+806,North Carolina,US,3679,63,0
+807,New York,US,4207,151,0
+808,Florida,US,6207,64,0
+809,Texas,US,41,0,0
+810,Tennessee,US,214,1,0
+811,Colorado,US,692,8,0
+812,Georgia,US,260,31,0
+813,Louisiana,US,5123,270,0
+814,Louisiana,US,440,1,0
+815,Louisiana,US,297,33,0
+816,Texas,US,10,0,0
+817,Michigan,US,327,7,0
+818,Wisconsin,US,229,1,0
+819,Georgia,US,184,0,0
+820,Texas,US,558,7,0
+821,New Mexico,US,80,1,0
+822,North Dakota,US,5,0,0
+823,Illinois,US,10,0,0
+824,North Carolina,US,315,9,0
+825,South Carolina,US,76,3,0
+826,Kentucky,US,75,11,0
+827,South Dakota,US,7,0,0
+828,Illinois,US,2,0,0
+829,Kansas,US,6,0,0
+830,Texas,US,2,0,0
+831,Georgia,US,141,1,0
+832,Illinois,US,12,1,0
+833,California,US,178,0,0
+834,Colorado,US,2374,120,0
+835,Texas,US,5928,130,0
+836,Colorado,US,57,2,0
+837,Georgia,US,104,0,0
+838,Kansas,US,1,0,0
+839,Pennsylvania,US,15,0,0
+840,Indiana,US,3041,43,0
+841,Nevada,US,121,1,0
+842,Kentucky,US,3,0,0
+843,Kansas,US,18,0,0
+844,Oklahoma,US,1,0,0
+845,Texas,US,820,19,0
+846,Kansas,US,3,0,0
+847,Alabama,US,806,14,0
+848,Idaho,US,60,2,0
+849,Georgia,US,116,3,0
+850,Iowa,US,75,0,0
+851,Michigan,US,27,2,0
+852,North Dakota,US,4,1,0
+853,Virginia,US,136,14,0
+854,Texas,US,149,1,0
+855,New York,US,7292,634,0
+856,Ohio,US,228,22,0
+857,Pennsylvania,US,607,12,0
+858,Alabama,US,258,6,0
+859,Florida,US,1952,45,0
+860,Nevada,US,0,0,0
+861,Massachusetts,US,16088,1104,0
+862,New Jersey,US,18758,2021,0
+863,New York,US,42,0,0
+864,Vermont,US,3,0,0
+865,Virginia,US,58,0,0
+866,Kentucky,US,4,0,0
+867,Alabama,US,606,13,0
+868,Nevada,US,1,0,0
+869,Louisiana,US,192,1,0
+870,Georgia,US,23,0,0
+871,Alaska,US,144,2,0
+872,Virginia,US,13850,488,0
+873,Virginia,US,70,7,0
+874,Connecticut,US,16703,1376,0
+875,Ohio,US,481,16,0
+876,South Carolina,US,298,21,0
+877,South Dakota,US,12,0,0
+878,Texas,US,29,0,0
+879,Virginia,US,56,8,0
+880,Georgia,US,97,1,0
+881,Texas,US,88,7,0
+882,Minnesota,US,53,0,0
+883,South Dakota,US,23,1,0
+884,Arkansas,US,477,3,0
+885,Virginia,US,420,6,0
+886,Alabama,US,66,1,0
+887,Georgia,US,341,17,0
+888,Illinois,US,23,3,0
+889,Indiana,US,95,7,0
+890,Iowa,US,33,0,0
+891,Kentucky,US,1432,26,0
+892,Ohio,US,46,0,0
+893,Pennsylvania,US,116,4,0
+894,Tennessee,US,273,2,0
+895,Texas,US,86,2,0
+896,West Virginia,US,66,4,0
+897,Michigan,US,183,5,0
+898,Tennessee,US,17,0,0
+899,Montana,US,2,0,0
+900,Washington,US,1,0,0
+901,Minnesota,US,25,0,0
+902,Nebraska,US,14,1,0
+903,Kansas,US,1570,10,0
+904,Texas,US,5,1,0
+905,Florida,US,310,5,0
+906,Montana,US,58,2,0
+907,Kentucky,US,20,0,0
+908,South Carolina,US,1199,51,0
+909,Wisconsin,US,3,0,0
+910,Georgia,US,514,15,0
+911,Indiana,US,362,44,0
+912,Iowa,US,65,2,0
+913,Kentucky,US,29,0,0
+914,Texas,US,28,1,0
+915,Virginia,US,17,1,0
+916,Virginia,US,110,7,0
+917,Wisconsin,US,311,6,0
+918,Illinois,US,31,1,0
+919,Kansas,US,1944,8,0
+920,Pennsylvania,US,7,0,0
+921,Wisconsin,US,39,3,0
+922,Mississippi,US,798,42,0
+923,Georgia,US,828,15,0
+924,North Carolina,US,2996,34,0
+925,Texas,US,3722,53,0
+926,North Dakota,US,2,0,0
+927,Indiana,US,28,2,0
+928,Alabama,US,843,13,0
+929,Arkansas,US,21,0,0
+930,Florida,US,6,0,0
+931,Georgia,US,193,1,0
+932,Idaho,US,25,0,0
+933,Illinois,US,14,0,0
+934,Indiana,US,124,8,0
+935,Iowa,US,75,0,0
+936,Kansas,US,71,0,0
+937,Kentucky,US,135,4,0
+938,Louisiana,US,467,14,0
+939,Maine,US,41,1,0
+940,Massachusetts,US,366,54,0
+941,Mississippi,US,38,2,0
+942,Missouri,US,204,18,0
+943,Nebraska,US,6,0,0
+944,New York,US,30,0,0
+945,North Carolina,US,345,21,0
+946,Ohio,US,9148,404,0
+947,Pennsylvania,US,925,43,0
+948,Tennessee,US,75,3,0
+949,Texas,US,41,0,0
+950,Vermont,US,104,6,0
+951,Virginia,US,88,1,0
+952,Washington,US,1640,33,0
+953,Virginia,US,51,2,0
+954,Maryland,US,2490,117,0
+955,Virginia,US,493,6,0
+956,Virginia,US,246,0,0
+957,Minnesota,US,281,0,0
+958,Texas,US,28,0,0
+959,Colorado,US,36,0,0
+960,Idaho,US,7,0,0
+961,Iowa,US,7,0,0
+962,Wyoming,US,355,0,0
+963,California,US,4811,72,0
+964,Texas,US,192,0,0
+965,Nebraska,US,1,0,0
+966,Arkansas,US,12,0,0
+967,Georgia,US,6965,312,0
+968,Illinois,US,15,0,0
+969,Indiana,US,66,1,0
+970,Kentucky,US,23,0,0
+971,New York,US,256,24,0
+972,Ohio,US,57,0,0
+973,Pennsylvania,US,18,1,0
+974,Nebraska,US,10,1,0
+975,Florida,US,379,7,0
+976,Nebraska,US,52,4,0
+977,Texas,US,16,0,0
+978,Virginia,US,253,13,0
+979,Illinois,US,2,0,0
+980,Kentucky,US,61,7,0
+981,Montana,US,263,1,0
+982,Ohio,US,14,1,0
+983,Texas,US,3293,40,0
+984,Nebraska,US,4,0,0
+985,Colorado,US,298,2,0
+986,Nebraska,US,1,0,0
+987,Oklahoma,US,67,2,0
+988,Washington,US,0,0,0
+989,Arkansas,US,248,1,0
+990,Kentucky,US,23,0,0
+991,Maryland,US,11,0,0
+992,Oklahoma,US,70,1,0
+993,Texas,US,12,0,0
+994,Missouri,US,11,0,0
+995,North Carolina,US,1083,12,0
+996,North Carolina,US,27,2,0
+997,Kansas,US,57,1,0
+998,Ohio,US,387,42,0
+999,Idaho,US,26,0,0
+1000,Michigan,US,2734,288,0
+1001,New York,US,238,5,0
+1002,Alabama,US,63,0,0
+1003,Missouri,US,57,9,0
+1004,Mississippi,US,73,3,0
+1005,South Carolina,US,458,3,0
+1006,Indiana,US,41,2,0
+1007,Tennessee,US,100,1,0
+1008,Arizona,US,292,5,0
+1009,Florida,US,97,0,0
+1010,Tennessee,US,50,1,0
+1011,Virginia,US,15,0,0
+1012,Texas,US,42,0,0
+1013,Oregon,US,0,0,0
+1014,Georgia,US,184,2,0
+1015,West Virginia,US,13,0,0
+1016,Colorado,US,7,0,0
+1017,Montana,US,18,0,0
+1018,Florida,US,175,1,0
+1019,Michigan,US,27,1,0
+1020,Georgia,US,7,0,0
+1021,Texas,US,5,0,0
+1022,California,US,103,0,0
+1023,New Jersey,US,2578,182,0
+1024,Virginia,US,49,1,0
+1025,Georgia,US,788,6,0
+1026,Michigan,US,7,1,0
+1027,Montana,US,3,0,0
+1028,Texas,US,14,0,0
+1029,Texas,US,260,4,0
+1030,Virginia,US,119,6,0
+1031,Minnesota,US,119,8,0
+1032,Idaho,US,65,1,0
+1033,Georgia,US,380,18,0
+1034,Wyoming,US,5,0,0
+1035,Nebraska,US,13,0,0
+1036,Kansas,US,1,0,0
+1037,Georgia,US,192,4,0
+1038,Oklahoma,US,137,5,0
+1039,New Hampshire,US,85,1,0
+1040,Arizona,US,96,1,0
+1041,North Carolina,US,9,0,0
+1042,Tennessee,US,35,0,0
+1043,Colorado,US,21,1,0
+1044,North Dakota,US,385,4,0
+1045,Vermont,US,10,0,0
+1046,Michigan,US,48,5,0
+1047,Montana,US,3,0,0
+1048,Arkansas,US,40,0,0
+1049,Indiana,US,285,26,0
+1050,Kansas,US,47,1,0
+1051,Kentucky,US,57,4,0
+1052,Louisiana,US,84,1,0
+1053,Minnesota,US,6,0,0
+1054,Nebraska,US,0,0,0
+1055,New Mexico,US,18,0,0
+1056,North Dakota,US,3,0,0
+1057,Oklahoma,US,2,0,0
+1058,Oregon,US,1,0,0
+1059,South Dakota,US,13,0,0
+1060,Washington,US,511,6,0
+1061,West Virginia,US,16,0,0
+1062,Wisconsin,US,154,13,0
+1063,North Carolina,US,813,19,0
+1064,Michigan,US,92,13,0
+1065,Kentucky,US,206,21,0
+1066,Kansas,US,29,0,0
+1067,Texas,US,114,4,0
+1068,Washington,US,27,0,0
+1069,Kentucky,US,138,10,0
+1070,Texas,US,572,5,0
+1071,Virginia,US,84,2,0
+1072,Nebraska,US,3,0,0
+1073,Kentucky,US,4,1,0
+1074,Wisconsin,US,89,1,0
+1075,Wisconsin,US,32,0,0
+1076,West Virginia,US,58,1,0
+1077,Alabama,US,164,7,0
+1078,Arkansas,US,114,0,0
+1079,Georgia,US,98,9,0
+1080,Illinois,US,9,0,0
+1081,Indiana,US,184,31,0
+1082,Iowa,US,28,0,0
+1083,Mississippi,US,91,7,0
+1084,Missouri,US,265,8,0
+1085,New York,US,260,18,0
+1086,North Carolina,US,174,2,0
+1087,Ohio,US,208,9,0
+1088,Pennsylvania,US,41,0,0
+1089,Tennessee,US,85,2,0
+1090,Virginia,US,67,1,0
+1091,Arizona,US,18,1,0
+1092,Virginia,US,359,7,0
+1093,Kentucky,US,28,0,0
+1094,South Carolina,US,5009,81,0
+1095,Kansas,US,11,0,0
+1096,South Carolina,US,493,7,0
+1097,Oklahoma,US,66,7,0
+1098,Texas,US,355,13,0
+1099,South Dakota,US,3,0,0
+1100,Mississippi,US,367,5,0
+1101,North Dakota,US,2,0,0
+1102,Texas,US,513,2,0
+1103,Illinois,US,162,4,0
+1104,Iowa,US,33,0,0
+1105,Missouri,US,18,0,0
+1106,Tennessee,US,58,1,0
+1107,New Mexico,US,20,0,0
+1108,Texas,US,698,1,0
+1109,Ohio,US,59,3,0
+1110,North Carolina,US,2812,114,0
+1111,Florida,US,23,0,0
+1112,Colorado,US,187,6,0
+1113,Iowa,US,64,4,0
+1114,Georgia,US,8082,170,0
+1115,Georgia,US,678,35,0
+1116,Alaska,US,2,0,0
+1117,Alabama,US,285,20,0
+1118,Texas,US,285,7,0
+1119,North Carolina,US,321,4,0
+1120,Virginia,US,53,1,0
+1121,Georgia,US,3187,60,0
+1122,Nebraska,US,1591,47,0
+1123,Texas,US,2,1,0
+1124,Tennessee,US,220,4,0
+1125,Florida,US,334,2,0
+1126,Illinois,US,5,0,0
+1127,Indiana,US,1463,100,0
+1128,Iowa,US,185,1,0
+1129,Kansas,US,29,0,0
+1130,Nebraska,US,64,12,0
+1131,New York,US,6,0,0
+1132,Ohio,US,5010,198,0
+1133,Tennessee,US,2466,30,0
+1134,Texas,US,20,1,0
+1135,South Dakota,US,11,0,0
+1136,Massachusetts,US,6776,655,0
+1137,Massachusetts,US,962,110,0
+1138,West Virginia,US,41,1,0
+1139,South Carolina,US,71,2,0
+1140,Virginia,US,328,5,0
+1141,Georgia,US,212,32,0
+1142,Illinois,US,18,1,0
+1143,Indiana,US,418,35,0
+1144,Iowa,US,47,0,0
+1145,Kentucky,US,18,0,0
+1146,Maine,US,16,1,0
+1147,Mississippi,US,120,13,0
+1148,Ohio,US,76,1,0
+1149,Tennessee,US,3,0,0
+1150,West Virginia,US,22,0,0
+1151,South Dakota,US,7,0,0
+1152,Virginia,US,429,26,0
+1153,Texas,US,28,2,0
+1154,South Dakota,US,7,0,0
+1155,Georgia,US,73,5,0
+1156,Florida,US,430,3,0
+1157,Tennessee,US,299,1,0
+1158,Texas,US,5,0,0
+1159,Illinois,US,1,0,0
+1160,Iowa,US,63,0,0
+1161,Kentucky,US,155,6,0
+1162,Ohio,US,111,12,0
+1163,Tennessee,US,93,5,0
+1164,Texas,US,232,5,0
+1165,New Mexico,US,1,0,0
+1166,West Virginia,US,44,0,0
+1167,Maryland,US,1116,62,0
+1168,Kentucky,US,23,2,0
+1169,Nebraska,US,1,0,0
+1170,Oklahoma,US,1,0,0
+1171,North Carolina,US,630,30,0
+1172,Oregon,US,1,0,0
+1173,Kansas,US,2,0,0
+1174,Oklahoma,US,1,0,0
+1175,Georgia,US,324,9,0
+1176,Texas,US,31422,378,0
+1177,Indiana,US,208,22,0
+1178,Iowa,US,50,0,0
+1179,Kentucky,US,70,0,0
+1180,Mississippi,US,719,8,0
+1181,Missouri,US,13,0,0
+1182,Ohio,US,12,1,0
+1183,Texas,US,308,30,0
+1184,West Virginia,US,61,1,0
+1185,Virginia,US,939,24,0
+1186,Georgia,US,59,0,0
+1187,Kentucky,US,40,0,0
+1188,Connecticut,US,11662,1370,0
+1189,Texas,US,26,2,0
+1190,Kansas,US,37,0,0
+1191,Kansas,US,23,0,0
+1192,Oklahoma,US,10,0,0
+1193,Texas,US,5,0,0
+1194,Hawaii,US,87,0,0
+1195,Tennessee,US,51,2,0
+1196,Nebraska,US,0,0,0
+1197,Texas,US,2661,6,0
+1198,North Carolina,US,90,0,0
+1199,Tennessee,US,71,2,0
+1200,Georgia,US,48,3,0
+1201,Texas,US,7,0,0
+1202,Arkansas,US,50,1,0
+1203,Illinois,US,8,0,0
+1204,Kentucky,US,156,3,0
+1205,North Carolina,US,610,50,0
+1206,Tennessee,US,32,0,0
+1207,Texas,US,128,4,0
+1208,Indiana,US,1366,99,0
+1209,Florida,US,953,25,0
+1210,Minnesota,US,11796,776,0
+1211,Virginia,US,2591,141,0
+1212,Alabama,US,129,3,0
+1213,Georgia,US,1203,33,0
+1214,Illinois,US,84,1,0
+1215,Indiana,US,235,15,0
+1216,Iowa,US,82,3,0
+1217,Kentucky,US,33,2,0
+1218,Missouri,US,19,3,0
+1219,Ohio,US,29,0,0
+1220,Tennessee,US,42,0,0
+1221,Virginia,US,260,4,0
+1222,New York,US,159,3,0
+1223,Florida,US,373,5,0
+1224,North Carolina,US,162,10,0
+1225,North Dakota,US,1,0,0
+1226,Kentucky,US,5,0,0
+1227,Tennessee,US,70,0,0
+1228,New Mexico,US,49,0,0
+1229,Texas,US,3542,32,0
+1230,Ohio,US,42,1,0
+1231,Virginia,US,3,0,0
+1232,Florida,US,350,11,0
+1233,Montana,US,1,0,0
+1234,Texas,US,66,1,0
+1235,Florida,US,10752,138,0
+1236,New Hampshire,US,3275,246,0
+1237,Michigan,US,194,25,0
+1238,Mississippi,US,2111,39,0
+1239,Colorado,US,3,0,0
+1240,Nebraska,US,1,0,0
+1241,Ohio,US,76,7,0
+1242,Texas,US,38,1,0
+1243,Kansas,US,9,0,0
+1244,North Carolina,US,371,3,0
+1245,Florida,US,177,0,0
+1246,Mississippi,US,520,40,0
+1247,Ohio,US,202,3,0
+1248,Missouri,US,1,0,0
+1249,Nebraska,US,3,0,0
+1250,Hawaii,US,652,12,0
+1251,Texas,US,61,4,0
+1252,Oregon,US,88,0,0
+1253,Nebraska,US,0,0,0
+1254,Virginia,US,174,2,0
+1255,Kentucky,US,254,32,0
+1256,Texas,US,56,1,0
+1257,South Carolina,US,3321,45,0
+1258,Arkansas,US,426,0,0
+1259,Wyoming,US,12,0,0
+1260,Michigan,US,11,0,0
+1261,Alabama,US,424,4,0
+1262,Georgia,US,629,23,0
+1263,Minnesota,US,24,0,0
+1264,Tennessee,US,12,0,0
+1265,Texas,US,160,0,0
+1266,Arkansas,US,89,1,0
+1267,Indiana,US,542,56,0
+1268,Iowa,US,22,0,0
+1269,Maryland,US,2538,84,0
+1270,Missouri,US,5,0,0
+1271,Nebraska,US,46,4,0
+1272,Texas,US,40,1,0
+1273,Missouri,US,36,0,0
+1274,Minnesota,US,5,0,0
+1275,New Jersey,US,18841,1451,0
+1276,Texas,US,15,0,0
+1277,Colorado,US,4,0,0
+1278,Oklahoma,US,10,0,0
+1279,South Dakota,US,55,0,0
+1280,California,US,133,4,0
+1281,Iowa,US,48,1,0
+1282,Nevada,US,83,4,0
+1283,Mississippi,US,120,9,0
+1284,Tennessee,US,22,1,0
+1285,Texas,US,392,6,0
+1286,New Jersey,US,1080,124,0
+1287,Pennsylvania,US,252,4,0
+1288,Indiana,US,70,2,0
+1289,Michigan,US,65,3,0
+1290,Ohio,US,170,1,0
+1291,South Dakota,US,12,0,0
+1292,Texas,US,62,0,0
+1293,North Carolina,US,11,0,0
+1294,South Dakota,US,3,0,0
+1295,Louisiana,US,697,44,0
+1296,Louisiana,US,711,43,0
+1297,Iowa,US,22,0,0
+1298,Idaho,US,4,0,0
+1299,California,US,6242,93,0
+1300,Arkansas,US,55,0,0
+1301,Florida,US,697,16,0
+1302,Pennsylvania,US,108,6,0
+1303,Michigan,US,1019,29,0
+1304,California,US,31,1,0
+1305,Michigan,US,195,4,0
+1306,Michigan,US,113,10,0
+1307,Iowa,US,47,0,0
+1308,Wisconsin,US,31,0,0
+1309,North Carolina,US,778,9,0
+1310,Texas,US,2,0,0
+1311,Michigan,US,5,1,0
+1312,Missouri,US,3,0,0
+1313,Wisconsin,US,6,1,0
+1314,Illinois,US,157,5,0
+1315,Georgia,US,64,1,0
+1316,Michigan,US,123,8,0
+1317,Minnesota,US,61,0,0
+1318,Washington,US,192,12,0
+1319,Virginia,US,179,8,0
+1320,Mississippi,US,6,1,0
+1321,Minnesota,US,65,12,0
+1322,Mississippi,US,122,8,0
+1323,Arkansas,US,20,1,0
+1324,Texas,US,9,0,0
+1325,Alabama,US,210,2,0
+1326,Arkansas,US,27,0,0
+1327,Colorado,US,2,0,0
+1328,Florida,US,363,2,0
+1329,Georgia,US,370,10,0
+1330,Illinois,US,332,19,0
+1331,Indiana,US,454,3,0
+1332,Iowa,US,24,0,0
+1333,Kansas,US,112,1,0
+1334,Kentucky,US,108,13,0
+1335,Louisiana,US,211,16,0
+1336,Michigan,US,505,30,0
+1337,Minnesota,US,54,0,0
+1338,Mississippi,US,505,16,0
+1339,Missouri,US,1126,24,0
+1340,North Carolina,US,115,1,0
+1341,Ohio,US,17,0,0
+1342,Oklahoma,US,38,3,0
+1343,Oregon,US,114,0,0
+1344,South Dakota,US,6,1,0
+1345,Tennessee,US,26,0,0
+1346,Texas,US,41,1,0
+1347,West Virginia,US,143,18,0
+1348,Wisconsin,US,27,1,0
+1349,Virginia,US,263,15,0
+1350,Georgia,US,68,1,0
+1351,Illinois,US,46,7,0
+1352,Indiana,US,107,2,0
+1353,Iowa,US,317,17,0
+1354,Mississippi,US,245,6,0
+1355,Missouri,US,447,3,0
+1356,South Carolina,US,132,3,0
+1357,Texas,US,51,1,0
+1358,Indiana,US,67,0,0
+1359,Georgia,US,110,2,0
+1360,Texas,US,4,0,0
+1361,Alabama,US,4210,140,0
+1362,Arkansas,US,700,28,0
+1363,Colorado,US,2682,209,0
+1364,Florida,US,49,4,0
+1365,Georgia,US,98,1,0
+1366,Idaho,US,18,0,0
+1367,Illinois,US,107,17,0
+1368,Indiana,US,64,1,0
+1369,Iowa,US,53,0,0
+1370,Kansas,US,24,0,0
+1371,Kentucky,US,3901,193,0
+1372,Louisiana,US,9489,484,0
+1373,Mississippi,US,84,3,0
+1374,Missouri,US,445,19,0
+1375,Montana,US,4,0,0
+1376,Nebraska,US,9,0,0
+1377,New York,US,86,0,0
+1378,Ohio,US,76,2,0
+1379,Oklahoma,US,8,0,0
+1380,Oregon,US,112,0,0
+1381,Pennsylvania,US,22,1,0
+1382,Tennessee,US,102,0,0
+1383,Texas,US,1787,33,0
+1384,Washington,US,38,0,0
+1385,West Virginia,US,224,4,0
+1386,Wisconsin,US,236,4,0
+1387,Louisiana,US,349,9,0
+1388,Mississippi,US,103,4,0
+1389,Georgia,US,104,11,0
+1390,Indiana,US,169,10,0
+1391,South Dakota,US,39,1,0
+1392,Idaho,US,239,5,0
+1393,Illinois,US,35,1,0
+1394,Kentucky,US,104,0,0
+1395,Kansas,US,4,0,0
+1396,Texas,US,15,0,0
+1397,Texas,US,142,0,0
+1398,Illinois,US,42,1,0
+1399,Arkansas,US,227,0,0
+1400,Georgia,US,90,2,0
+1401,Illinois,US,20,0,0
+1402,Indiana,US,1232,118,0
+1403,Iowa,US,1145,8,0
+1404,Kansas,US,1692,86,0
+1405,Kentucky,US,10,0,0
+1406,Missouri,US,112,0,0
+1407,Nebraska,US,7,0,0
+1408,Tennessee,US,36,0,0
+1409,Texas,US,436,4,0
+1410,Wyoming,US,20,1,0
+1411,North Carolina,US,1541,29,0
+1412,Oklahoma,US,12,0,0
+1413,Georgia,US,73,0,0
+1414,Iowa,US,54,0,0
+1415,Mississippi,US,1061,49,0
+1416,North Carolina,US,35,3,0
+1417,Texas,US,611,0,0
+1418,Oregon,US,33,1,0
+1419,Alaska,US,44,2,0
+1420,Wisconsin,US,36,1,0
+1421,Pennsylvania,US,111,6,0
+1422,Michigan,US,1084,67,0
+1423,Michigan,US,33,2,0
+1424,Minnesota,US,14,1,0
+1425,West Virginia,US,316,20,0
+1426,Minnesota,US,565,1,0
+1427,Illinois,US,7703,268,0
+1428,Illinois,US,1272,65,0
+1429,Missouri,US,2242,31,0
+1430,Texas,US,29,0,0
+1431,Hawaii,US,38,0,0
+1432,Texas,US,586,4,0
+1433,Oklahoma,US,97,7,0
+1434,Nebraska,US,13,0,0
+1435,Kansas,US,48,1,0
+1436,Nebraska,US,4,0,0
+1437,Mississippi,US,174,13,0
+1438,Alaska,US,146,2,0
+1439,Illinois,US,956,20,0
+1440,Texas,US,66,0,0
+1441,Maine,US,146,10,0
+1442,Wisconsin,US,1503,43,0
+1443,Delaware,US,1690,89,0
+1444,Maryland,US,198,23,0
+1445,Michigan,US,4900,134,0
+1446,Rhode Island,US,1199,0,0
+1447,Kentucky,US,794,36,0
+1448,Iowa,US,19,1,0
+1449,California,US,4655,70,0
+1450,Texas,US,77,1,0
+1451,South Carolina,US,665,15,0
+1452,Alaska,US,21,0,0
+1453,Wisconsin,US,56,1,0
+1454,Michigan,US,1,0,0
+1455,Nebraska,US,0,0,0
+1456,North Dakota,US,2,0,0
+1457,Nebraska,US,10,0,0
+1458,Texas,US,5,0,0
+1459,Washington,US,10177,610,0
+1460,Virginia,US,97,4,0
+1461,Virginia,US,42,0,0
+1462,Virginia,US,23,1,0
+1463,Oklahoma,US,26,0,0
+1464,California,US,2394,29,0
+1465,South Dakota,US,6,0,0
+1466,Texas,US,2,0,0
+1467,Kansas,US,4,0,0
+1468,Oklahoma,US,10,1,0
+1469,Colorado,US,32,3,0
+1470,Washington,US,221,2,0
+1471,Washington,US,128,0,0
+1472,Minnesota,US,2,0,0
+1473,Oregon,US,119,0,0
+1474,Texas,US,66,1,0
+1475,Washington,US,59,3,0
+1476,Kentucky,US,7,0,0
+1477,Illinois,US,130,0,0
+1478,Indiana,US,62,0,0
+1479,Kentucky,US,66,0,0
+1480,Maine,US,24,1,0
+1481,Missouri,US,2,0,0
+1482,Nebraska,US,21,0,0
+1483,Ohio,US,39,1,0
+1484,Tennessee,US,967,5,0
+1485,Texas,US,3,0,0
+1486,Alaska,US,3,0,0
+1487,Minnesota,US,13,1,0
+1488,Idaho,US,261,1,0
+1489,Indiana,US,484,2,0
+1490,Iowa,US,32,0,0
+1491,Wisconsin,US,432,0,0
+1492,Arizona,US,342,5,0
+1493,Colorado,US,112,1,0
+1494,Texas,US,13,0,0
+1495,Indiana,US,456,6,0
+1496,North Dakota,US,13,0,0
+1497,Indiana,US,534,25,0
+1498,Illinois,US,216,17,0
+1499,Louisiana,US,97,0,0
+1500,Kansas,US,59,0,0
+1501,Minnesota,US,4,0,0
+1502,Pennsylvania,US,1703,203,0
+1503,Missouri,US,25,0,0
+1504,Arkansas,US,18,1,0
+1505,Florida,US,32,0,0
+1506,Louisiana,US,2158,42,0
+1507,Mississippi,US,339,4,0
+1508,Missouri,US,87,2,0
+1509,Wisconsin,US,74,0,0
+1510,Louisiana,US,1149,87,0
+1511,California,US,60,0,0
+1512,Colorado,US,51,0,0
+1513,Florida,US,1302,22,0
+1514,Illinois,US,9719,416,0
+1515,Indiana,US,4847,239,0
+1516,Michigan,US,8,0,0
+1517,Minnesota,US,7,0,0
+1518,Montana,US,17,0,0
+1519,Ohio,US,433,17,0
+1520,Oregon,US,17,0,0
+1521,South Dakota,US,21,1,0
+1522,Tennessee,US,690,0,0
+1523,Minnesota,US,0,0,0
+1524,Alabama,US,71,1,0
+1525,Georgia,US,115,6,0
+1526,Mississippi,US,407,7,0
+1527,Texas,US,283,13,0
+1528,Texas,US,37,0,0
+1529,Vermont,US,30,1,0
+1530,Texas,US,20,0,0
+1531,Nebraska,US,1723,12,0
+1532,Pennsylvania,US,4442,357,0
+1533,South Carolina,US,475,12,0
+1534,Virginia,US,11,0,0
+1535,Nevada,US,35,0,0
+1536,Kansas,US,5,0,0
+1537,Oregon,US,151,3,0
+1538,Wisconsin,US,8,0,0
+1539,Georgia,US,132,3,0
+1540,Michigan,US,292,31,0
+1541,Wyoming,US,261,0,0
+1542,Colorado,US,736,29,0
+1543,Kentucky,US,15,1,0
+1544,Colorado,US,9,0,0
+1545,California,US,229,0,0
+1546,Idaho,US,20,0,0
+1547,Oklahoma,US,11,1,0
+1548,Alabama,US,410,5,0
+1549,Mississippi,US,879,78,0
+1550,Tennessee,US,119,2,0
+1551,Kentucky,US,102,3,0
+1552,Georgia,US,167,1,0
+1553,South Carolina,US,471,5,0
+1554,Texas,US,131,1,0
+1555,Alabama,US,100,0,0
+1556,Arkansas,US,99,9,0
+1557,Illinois,US,7,0,0
+1558,Indiana,US,229,24,0
+1559,Kentucky,US,8,0,0
+1560,Mississippi,US,154,1,0
+1561,Missouri,US,30,0,0
+1562,Ohio,US,63,0,0
+1563,Pennsylvania,US,102,9,0
+1564,South Dakota,US,19,0,0
+1565,Tennessee,US,124,5,0
+1566,Oklahoma,US,32,1,0
+1567,Minnesota,US,82,1,0
+1568,New Mexico,US,132,0,0
+1569,Mississippi,US,547,19,0
+1570,Kansas,US,1162,7,0
+1571,Pennsylvania,US,1342,43,0
+1572,Alabama,US,1167,37,0
+1573,Arkansas,US,651,2,0
+1574,Florida,US,5588,158,0
+1575,Georgia,US,388,22,0
+1576,Illinois,US,97,2,0
+1577,Iowa,US,48,2,0
+1578,Kentucky,US,1,0,0
+1579,Mississippi,US,477,16,0
+1580,North Carolina,US,823,8,0
+1581,South Carolina,US,289,22,0
+1582,Texas,US,59,3,0
+1583,Virginia,US,11,0,0
+1584,Michigan,US,17,0,0
+1585,Mississippi,US,469,48,0
+1586,Pennsylvania,US,4235,297,0
+1587,Idaho,US,2,0,0
+1588,Michigan,US,220,6,0
+1589,North Carolina,US,368,11,0
+1590,Florida,US,1114,8,0
+1591,Texas,US,27,0,0
+1592,Kentucky,US,8,0,0
+1593,Kentucky,US,14,0,0
+1594,Florida,US,174,1,0
+1595,Idaho,US,0,0,0
+1596,Kentucky,US,23,0,0
+1597,Missouri,US,7,1,0
+1598,New York,US,30,0,0
+1599,Tennessee,US,6,0,0
+1600,Washington,US,65,3,0
+1601,West Virginia,US,19,2,0
+1602,Montana,US,26,0,0
+1603,South Carolina,US,2071,49,0
+1604,Virginia,US,10,0,0
+1605,Florida,US,222,1,0
+1606,Georgia,US,121,1,0
+1607,Montana,US,1,0,0
+1608,Texas,US,314,3,0
+1609,Ohio,US,404,11,0
+1610,Alabama,US,403,0,0
+1611,Texas,US,49,1,0
+1612,Arkansas,US,1038,11,0
+1613,Colorado,US,4,0,0
+1614,Georgia,US,37,1,0
+1615,Idaho,US,36,0,0
+1616,Kansas,US,1,0,0
+1617,Kentucky,US,28,1,0
+1618,Louisiana,US,323,18,0
+1619,Maine,US,23,0,0
+1620,Minnesota,US,8,0,0
+1621,Mississippi,US,434,34,0
+1622,Missouri,US,96,1,0
+1623,Montana,US,8,1,0
+1624,Nebraska,US,57,2,0
+1625,Nevada,US,2,0,0
+1626,New Mexico,US,11,0,0
+1627,North Carolina,US,252,2,0
+1628,Oklahoma,US,29,2,0
+1629,Oregon,US,312,2,0
+1630,South Dakota,US,343,1,0
+1631,Tennessee,US,56,0,0
+1632,Washington,US,4,0,0
+1633,West Virginia,US,8,0,0
+1634,Wisconsin,US,10,0,0
+1635,Wyoming,US,23,0,0
+1636,Iowa,US,1203,82,0
+1637,Kansas,US,14,0,0
+1638,Missouri,US,15,1,0
+1639,Oregon,US,144,9,0
+1640,Texas,US,9,0,0
+1641,Connecticut,US,1490,137,0
+1642,Arkansas,US,38,0,0
+1643,Texas,US,31,0,0
+1644,Illinois,US,43,2,0
+1645,Kentucky,US,10,0,0
+1646,Louisiana,US,903,37,0
+1647,Michigan,US,572,28,0
+1648,Missouri,US,11,0,0
+1649,New York,US,129,8,0
+1650,Texas,US,10,0,0
+1651,Arkansas,US,46,0,0
+1652,Colorado,US,637,5,0
+1653,Illinois,US,14,0,0
+1654,Kansas,US,1,0,0
+1655,Kentucky,US,217,11,0
+1656,Nebraska,US,0,0,0
+1657,Ohio,US,58,1,0
+1658,Oklahoma,US,49,1,0
+1659,West Virginia,US,22,1,0
+1660,Georgia,US,43,1,0
+1661,Arkansas,US,138,1,0
+1662,Ohio,US,947,67,0
+1663,New Mexico,US,8,0,0
+1664,California,US,103850,3371,0
+1665,Tennessee,US,261,1,0
+1666,Virginia,US,4000,87,0
+1667,Iowa,US,360,13,0
+1668,Virginia,US,118,1,0
+1669,Nebraska,US,0,0,0
+1670,Oklahoma,US,30,0,0
+1671,Alabama,US,457,19,0
+1672,Georgia,US,1199,11,0
+1673,Mississippi,US,444,11,0
+1674,Texas,US,2095,51,0
+1675,Iowa,US,30,4,0
+1676,Ohio,US,2600,301,0
+1677,Michigan,US,3,0,0
+1678,Georgia,US,139,3,0
+1679,New Mexico,US,79,3,0
+1680,Virginia,US,31,0,0
+1681,Pennsylvania,US,2910,177,0
+1682,Pennsylvania,US,182,19,0
+1683,South Dakota,US,62,0,0
+1684,Virginia,US,147,1,0
+1685,Texas,US,33,1,0
+1686,Iowa,US,39,0,0
+1687,Kansas,US,489,6,0
+1688,Kentucky,US,20,3,0
+1689,Minnesota,US,295,2,0
+1690,Nevada,US,115,2,0
+1691,Michigan,US,9,0,0
+1692,Michigan,US,7359,916,0
+1693,Alabama,US,166,8,0
+1694,Georgia,US,115,9,0
+1695,Illinois,US,232,22,0
+1696,Missouri,US,7,0,0
+1697,North Carolina,US,282,3,0
+1698,Tennessee,US,394,3,0
+1699,Illinois,US,51,3,0
+1700,California,US,488,5,0
+1701,Alabama,US,1021,6,0
+1702,Arkansas,US,192,0,0
+1703,Florida,US,195,3,0
+1704,Georgia,US,92,4,0
+1705,Idaho,US,35,0,0
+1706,Illinois,US,932,68,0
+1707,Indiana,US,642,63,0
+1708,Iowa,US,37,2,0
+1709,Kentucky,US,118,1,0
+1710,Louisiana,US,356,2,0
+1711,Mississippi,US,1206,34,0
+1712,Missouri,US,4,0,0
+1713,Montana,US,8,1,0
+1714,Nebraska,US,362,4,0
+1715,New York,US,357,17,0
+1716,North Carolina,US,12,0,0
+1717,Ohio,US,187,8,0
+1718,Tennessee,US,247,2,0
+1719,Texas,US,30,0,0
+1720,Virginia,US,43,1,0
+1721,Kentucky,US,5,0,0
+1722,Iowa,US,115,17,0
+1723,Minnesota,US,7,1,0
+1724,Ohio,US,1741,228,0
+1725,Oklahoma,US,8,1,0
+1726,Oregon,US,108,1,0
+1727,Virginia,US,1397,16,0
+1728,Virginia,US,431,6,0
+1729,Florida,US,2856,130,0
+1730,Michigan,US,19,0,0
+1731,Wisconsin,US,94,1,0
+1732,Wisconsin,US,168,1,0
+1733,Alabama,US,277,11,0
+1734,Arizona,US,48592,771,0
+1735,Missouri,US,4,0,0
+1736,California,US,2210,18,0
+1737,Wisconsin,US,56,3,0
+1738,Alabama,US,200,12,0
+1739,Arkansas,US,6,0,0
+1740,Florida,US,672,10,0
+1741,Georgia,US,79,2,0
+1742,Illinois,US,65,0,0
+1743,Indiana,US,11329,679,0
+1744,Iowa,US,66,0,0
+1745,Kansas,US,9,1,0
+1746,Kentucky,US,51,0,0
+1747,Mississippi,US,240,11,0
+1748,Missouri,US,15,0,0
+1749,Ohio,US,2726,38,0
+1750,Oregon,US,1514,46,0
+1751,South Carolina,US,208,7,0
+1752,Tennessee,US,64,4,0
+1753,Texas,US,26,1,0
+1754,West Virginia,US,59,2,0
+1755,California,US,26,1,0
+1756,South Carolina,US,302,4,0
+1757,Michigan,US,64,11,0
+1758,Wisconsin,US,13,1,0
+1759,Alabama,US,1495,9,0
+1760,Illinois,US,8,0,0
+1761,Indiana,US,409,3,0
+1762,Iowa,US,1012,18,0
+1763,Kansas,US,2,0,0
+1764,Kentucky,US,58,2,0
+1765,Minnesota,US,12,0,0
+1766,Mississippi,US,196,3,0
+1767,Oklahoma,US,32,0,0
+1768,South Dakota,US,5,0,0
+1769,Tennessee,US,71,1,0
+1770,West Virginia,US,40,0,0
+1771,Florida,US,2055,25,0
+1772,Indiana,US,22,0,0
+1773,Kentucky,US,5,0,0
+1774,Minnesota,US,156,5,0
+1775,North Carolina,US,133,4,0
+1776,Texas,US,16,1,0
+1777,Virginia,US,78,1,0
+1778,Illinois,US,22,0,0
+1779,Kentucky,US,31,0,0
+1780,Michigan,US,51,0,0
+1781,Texas,US,33,0,0
+1782,Washington,US,50,1,0
+1783,West Virginia,US,18,0,0
+1784,Illinois,US,11,0,0
+1785,Texas,US,172,5,0
+1786,Alaska,US,81,1,0
+1787,Virginia,US,6,0,0
+1788,Hawaii,US,123,6,0
+1789,Tennessee,US,287,3,0
+1790,Texas,US,311,2,0
+1791,Oklahoma,US,81,5,0
+1792,Oklahoma,US,159,4,0
+1793,South Dakota,US,10,1,0
+1794,South Carolina,US,17,2,0
+1795,Kentucky,US,166,3,0
+1796,Kentucky,US,18,0,0
+1797,Texas,US,12,0,0
+1798,Oklahoma,US,471,4,0
+1799,Missouri,US,498,1,0
+1800,Illinois,US,100,15,0
+1801,North Carolina,US,235,2,0
+1802,West Virginia,US,6,0,0
+1803,Georgia,US,92,6,0
+1804,Illinois,US,2032,97,0
+1805,North Dakota,US,3,1,0
+1806,Georgia,US,41,1,0
+1807,North Dakota,US,2,0,0
+1808,Oklahoma,US,57,1,0
+1809,Pennsylvania,US,17,1,0
+1810,North Dakota,US,27,0,0
+1811,New Mexico,US,3375,168,0
+1812,Illinois,US,260,13,0
+1813,Kentucky,US,24,1,0
+1814,North Dakota,US,11,0,0
+1815,Texas,US,795,8,0
+1816,Minnesota,US,81,0,0
+1817,Tennessee,US,210,17,0
+1818,Tennessee,US,58,0,0
+1819,Kansas,US,72,0,0
+1820,Nebraska,US,0,0,0
+1821,South Dakota,US,4,0,0
+1822,Kansas,US,30,0,0
+1823,Kentucky,US,26,2,0
+1824,South Dakota,US,48,1,0
+1825,Montana,US,2,0,0
+1826,North Carolina,US,11170,150,0
+1827,Virginia,US,240,26,0
+1828,Michigan,US,29,2,0
+1829,Ohio,US,480,32,0
+1830,Texas,US,255,2,0
+1831,Minnesota,US,58,1,0
+1832,Ohio,US,11,0,0
+1833,Tennessee,US,32,0,0
+1834,South Dakota,US,3,0,0
+1835,Illinois,US,25,0,0
+1836,Texas,US,6,0,0
+1837,California,US,78,0,0
+1838,Kentucky,US,13,0,0
+1839,Michigan,US,16,0,0
+1840,Wisconsin,US,7,0,0
+1841,California,US,979,11,0
+1842,Illinois,US,20,0,0
+1843,Kentucky,US,23,0,0
+1844,Missouri,US,6,0,0
+1845,New Jersey,US,7659,577,0
+1846,North Dakota,US,6,0,0
+1847,Ohio,US,270,8,0
+1848,Pennsylvania,US,140,6,0
+1849,West Virginia,US,39,0,0
+1850,Georgia,US,183,2,0
+1851,Nebraska,US,38,0,0
+1852,New Hampshire,US,410,18,0
+1853,Colorado,US,96,0,0
+1854,Kentucky,US,9,2,0
+1855,Indiana,US,180,2,0
+1856,Kansas,US,27,0,0
+1857,Ohio,US,437,31,0
+1858,Florida,US,36820,991,0
+1859,Michigan,US,4107,68,0
+1860,Connecticut,US,1305,184,0
+1861,Massachusetts,US,23962,1851,0
+1862,New Jersey,US,16816,1322,0
+1863,Virginia,US,15,0,0
+1864,Michigan,US,166,9,0
+1865,Texas,US,651,14,0
+1866,Pennsylvania,US,63,1,0
+1867,Texas,US,83,1,0
+1868,Minnesota,US,32,2,0
+1869,Arkansas,US,114,2,0
+1870,Georgia,US,47,0,0
+1871,Missouri,US,12,0,0
+1872,Iowa,US,34,0,0
+1873,Texas,US,1,0,0
+1874,Wisconsin,US,11358,390,0
+1875,South Dakota,US,9,0,0
+1876,Colorado,US,7,0,0
+1877,Nevada,US,5,0,0
+1878,West Virginia,US,56,3,0
+1879,West Virginia,US,20,2,0
+1880,Idaho,US,185,0,0
+1881,South Dakota,US,3610,57,0
+1882,Michigan,US,29,1,0
+1883,Arkansas,US,168,3,0
+1884,Missouri,US,88,0,0
+1885,Montana,US,86,1,0
+1886,Georgia,US,450,38,0
+1887,Iowa,US,23,0,0
+1888,Kansas,US,4,0,0
+1889,North Carolina,US,32,0,0
+1890,Texas,US,5,0,0
+1891,Alabama,US,3634,134,0
+1892,Colorado,US,14,0,0
+1893,Arizona,US,1071,85,0
+1894,Missouri,US,49,1,0
+1895,New Jersey,US,9140,807,0
+1896,California,US,42,1,0
+1897,Iowa,US,70,0,0
+1898,West Virginia,US,171,5,0
+1899,Alabama,US,194,2,0
+1900,Arkansas,US,12,0,0
+1901,Florida,US,259,4,0
+1902,Georgia,US,160,17,0
+1903,Illinois,US,127,13,0
+1904,Indiana,US,244,28,0
+1905,Iowa,US,50,6,0
+1906,Kentucky,US,35,1,0
+1907,Michigan,US,617,21,0
+1908,Mississippi,US,355,29,0
+1909,Missouri,US,5,0,0
+1910,New York,US,3742,266,0
+1911,Ohio,US,85,17,0
+1912,Pennsylvania,US,1421,108,0
+1913,Tennessee,US,132,4,0
+1914,West Virginia,US,12,0,0
+1915,Wisconsin,US,66,1,0
+1916,Texas,US,18,1,0
+1917,Michigan,US,88,1,0
+1918,California,US,1642,15,0
+1919,Colorado,US,72,3,0
+1920,Alabama,US,3788,94,0
+1921,Arkansas,US,4,0,0
+1922,Georgia,US,31,0,0
+1923,Illinois,US,44,1,0
+1924,Indiana,US,285,20,0
+1925,Iowa,US,10,2,0
+1926,Kansas,US,41,3,0
+1927,Kentucky,US,52,0,0
+1928,Maryland,US,14737,738,0
+1929,Mississippi,US,116,2,0
+1930,Missouri,US,16,0,0
+1931,New York,US,118,4,0
+1932,North Carolina,US,309,7,0
+1933,Ohio,US,1704,25,0
+1934,Pennsylvania,US,8448,801,0
+1935,Tennessee,US,479,7,0
+1936,Texas,US,2133,36,0
+1937,Virginia,US,145,2,0
+1938,Michigan,US,5,0,0
+1939,Pennsylvania,US,73,1,0
+1940,Colorado,US,207,12,0
+1941,South Dakota,US,22,0,0
+1942,North Carolina,US,458,14,0
+1943,Tennessee,US,7,0,0
+1944,Texas,US,889,15,0
+1945,Louisiana,US,235,8,0
+1946,Alabama,US,955,3,0
+1947,Colorado,US,652,46,0
+1948,Georgia,US,52,0,0
+1949,Illinois,US,128,3,0
+1950,Indiana,US,318,31,0
+1951,Kentucky,US,8,0,0
+1952,Missouri,US,13,0,0
+1953,Ohio,US,9,0,0
+1954,Tennessee,US,24,1,0
+1955,West Virginia,US,20,0,0
+1956,Nebraska,US,37,0,0
+1957,Kansas,US,5,0,0
+1958,New Jersey,US,6738,798,0
+1959,Texas,US,38,0,0
+1960,Minnesota,US,58,1,0
+1961,Ohio,US,114,1,0
+1962,Oregon,US,61,1,0
+1963,Kansas,US,6,1,0
+1964,North Dakota,US,91,2,0
+1965,Texas,US,1,0,0
+1966,Illinois,US,17,0,0
+1967,North Dakota,US,50,0,0
+1968,Minnesota,US,921,2,0
+1969,Kentucky,US,499,8,0
+1970,Oregon,US,2202,69,0
+1971,Georgia,US,214,2,0
+1972,Minnesota,US,51,0,0
+1973,Oklahoma,US,18,0,0
+1974,Iowa,US,615,44,0
+1975,Georgia,US,1679,47,0
+1976,Michigan,US,815,51,0
+1977,Ohio,US,73,1,0
+1978,Oklahoma,US,118,11,0
+1979,Montana,US,1,0,0
+1980,Texas,US,397,26,0
+1981,Nebraska,US,4,0,0
+1982,California,US,317,4,0
+1983,North Carolina,US,469,6,0
+1984,Florida,US,182,1,0
+1985,New York,US,41807,2182,0
+1986,Louisiana,US,280,14,0
+1987,Wyoming,US,121,0,0
+1988,Arizona,US,3625,125,0
+1989,Texas,US,230,6,0
+1990,Kentucky,US,74,1,0
+1991,North Dakota,US,1,0,0
+1992,Virginia,US,18,0,0
+1993,Kansas,US,26,0,0
+1994,Nebraska,US,5,0,0
+1995,Kansas,US,32,0,0
+1996,Mississippi,US,952,68,0
+1997,Kansas,US,4,0,0
+1998,Arkansas,US,101,3,0
+1999,California,US,113,1,0
+2000,Delaware,US,5065,244,0
+2001,North Carolina,US,1018,5,0
+2002,Connecticut,US,12359,1075,0
+2003,Virginia,US,57,1,0
+2004,Connecticut,US,1268,102,0
+2005,Missouri,US,38,1,0
+2006,New York,US,215179,23096,0
+2007,Michigan,US,167,0,0
+2008,South Carolina,US,252,4,0
+2009,Rhode Island,US,308,0,0
+2010,Virginia,US,523,10,0
+2011,Arkansas,US,5,0,0
+2012,Georgia,US,599,11,0
+2013,Indiana,US,94,10,0
+2014,Mississippi,US,328,9,0
+2015,Missouri,US,348,2,0
+2016,Texas,US,12,0,0
+2017,Idaho,US,96,19,0
+2018,New York,US,1234,88,0
+2019,Kentucky,US,5,0,0
+2020,West Virginia,US,10,1,0
+2021,Minnesota,US,144,12,0
+2022,Wyoming,US,2,0,0
+2023,Indiana,US,434,28,0
+2024,Ohio,US,9,0,0
+2025,Oklahoma,US,39,0,0
+2026,Minnesota,US,1652,6,0
+2027,Missouri,US,17,0,0
+2028,Texas,US,33,0,0
+2029,Alaska,US,7,0,0
+2030,Massachusetts,US,9166,923,0
+2031,Virginia,US,915,9,0
+2032,Minnesota,US,20,0,0
+2033,Alaska,US,4,0,0
+2034,North Carolina,US,199,15,0
+2035,Pennsylvania,US,3413,266,0
+2036,Virginia,US,269,28,0
+2037,Pennsylvania,US,304,5,0
+2038,Virginia,US,37,1,0
+2039,Alaska,US,4,0,0
+2040,Kansas,US,4,0,0
+2041,Virginia,US,4,0,0
+2042,Virginia,US,111,2,0
+2043,Oklahoma,US,34,1,0
+2044,Mississippi,US,245,8,0
+2045,Nebraska,US,1,0,0
+2046,Texas,US,2394,8,0
+2047,Nevada,US,104,3,0
+2048,Iowa,US,83,1,0
+2049,Michigan,US,12017,1090,0
+2050,Tennessee,US,94,2,0
+2051,New Jersey,US,9614,955,0
+2052,Michigan,US,287,3,0
+2053,Texas,US,53,2,0
+2054,Georgia,US,154,10,0
+2055,South Carolina,US,260,1,0
+2056,Wisconsin,US,59,0,0
+2057,Michigan,US,33,2,0
+2058,South Dakota,US,85,0,0
+2059,Illinois,US,261,4,0
+2060,Georgia,US,89,7,0
+2061,Indiana,US,14,0,0
+2062,Kentucky,US,186,0,0
+2063,West Virginia,US,91,1,0
+2064,Florida,US,666,6,0
+2065,Washington,US,77,2,0
+2066,Florida,US,377,0,0
+2067,Oklahoma,US,14,0,0
+2068,Oklahoma,US,2913,70,0
+2069,Oklahoma,US,62,0,0
+2070,Mississippi,US,483,24,0
+2071,Kentucky,US,130,6,0
+2072,Texas,US,4,1,0
+2073,North Dakota,US,2,0,0
+2074,Minnesota,US,1047,15,0
+2075,Idaho,US,2,0,0
+2076,New York,US,1627,90,0
+2077,Wisconsin,US,19,0,0
+2078,New York,US,2842,184,0
+2079,North Carolina,US,290,3,0
+2080,New York,US,259,9,0
+2081,California,US,13843,340,0
+2082,Florida,US,10314,58,0
+2083,Indiana,US,133,23,0
+2084,New York,US,10723,478,0
+2085,North Carolina,US,669,41,0
+2086,Texas,US,212,3,0
+2087,Vermont,US,9,0,0
+2088,Virginia,US,149,3,0
+2089,South Carolina,US,747,11,0
+2090,Missouri,US,7,0,0
+2091,Louisiana,US,7851,534,0
+2092,New York,US,281,51,0
+2093,Vermont,US,14,0,0
+2094,Kansas,US,13,0,0
+2095,Missouri,US,7,0,0
+2096,Oklahoma,US,165,8,0
+2097,Kansas,US,2,0,0
+2098,Florida,US,2026,24,0
+2099,Iowa,US,51,0,0
+2100,Michigan,US,29,0,0
+2101,Michigan,US,18,1,0
+2102,New York,US,197,3,0
+2103,Colorado,US,22,1,0
+2104,New Mexico,US,42,6,0
+2105,Nebraska,US,22,0,0
+2106,Michigan,US,122,10,0
+2107,New York,US,84,5,0
+2108,Kansas,US,6,0,0
+2109,Michigan,US,1036,51,0
+2110,Ohio,US,129,23,0
+2111,Oklahoma,US,70,2,0
+2112,Minnesota,US,92,1,0
+2113,Arkansas,US,20,0,0
+2114,Louisiana,US,2392,74,0
+2115,Colorado,US,11,1,0
+2116,Alabama,US,0,0,0
+2117,Georgia,US,4011,47,0
+2118,Hawaii,US,16,0,0
+2119,Illinois,US,1,0,0
+2120,Michigan,US,104,0,0
+2121,Oklahoma,US,0,0,0
+2122,Tennessee,US,952,7,0
+2123,Wisconsin,US,476,9,0
+2124,Tennessee,US,56,0,0
+2125,Indiana,US,43,1,0
+2126,Kentucky,US,6,0,0
+2127,Kentucky,US,2,0,0
+2128,Idaho,US,41,0,0
+2129,Maine,US,37,0,0
+2130,Missouri,US,1,0,0
+2131,Wisconsin,US,229,15,0
+2132,Washington,US,17,1,0
+2133,Iowa,US,20,0,0
+2134,Virginia,US,269,24,0
+2135,Florida,US,14150,510,0
+2136,Iowa,US,31,0,0
+2137,Texas,US,19,2,0
+2138,North Carolina,US,21,1,0
+2139,Mississippi,US,254,6,0
+2140,Texas,US,209,25,0
+2141,Colorado,US,27,0,0
+2142,Montana,US,11,0,0
+2143,Wyoming,US,50,0,0
+2144,Indiana,US,22,0,0
+2145,Texas,US,286,1,0
+2146,Texas,US,191,8,0
+2147,Florida,US,1992,19,0
+2148,North Carolina,US,203,15,0
+2149,New Jersey,US,16879,1186,0
+2150,Virginia,US,46,1,0
+2151,Georgia,US,583,15,0
+2152,Ohio,US,23,0,0
+2153,Kansas,US,3,0,0
+2154,Nebraska,US,0,0,0
+2155,Oklahoma,US,56,2,0
+2156,Idaho,US,102,2,0
+2157,Oklahoma,US,382,1,0
+2158,Georgia,US,103,9,0
+2159,Mississippi,US,239,32,0
+2160,Texas,US,124,0,0
+2161,North Dakota,US,9,0,0
+2162,Missouri,US,110,6,0
+2163,Washington,US,4,0,0
+2164,North Carolina,US,261,1,0
+2165,Kentucky,US,17,0,0
+2166,West Virginia,US,13,1,0
+2167,Minnesota,US,50,0,0
+2168,South Dakota,US,518,16,0
+2169,Maine,US,106,2,0
+2170,Illinois,US,487,28,0
+2171,Wisconsin,US,1,0,0
+2172,Nebraska,US,0,0,0
+2173,North Carolina,US,36,2,0
+2174,Alabama,US,135,0,0
+2175,Arkansas,US,29,0,0
+2176,Illinois,US,51,1,0
+2177,Indiana,US,118,8,0
+2178,Kentucky,US,57,1,0
+2179,Mississippi,US,59,4,0
+2180,Missouri,US,123,0,0
+2181,Ohio,US,30,1,0
+2182,Pennsylvania,US,86,5,0
+2183,Tennessee,US,31,0,0
+2184,Nevada,US,6,0,0
+2185,North Carolina,US,107,1,0
+2186,Alaska,US,4,1,0
+2187,Virginia,US,234,3,0
+2188,Missouri,US,116,1,0
+2189,Missouri,US,21,0,0
+2190,Nebraska,US,26,0,0
+2191,Pennsylvania,US,26133,1606,0
+2192,Arkansas,US,142,3,0
+2193,Colorado,US,16,0,0
+2194,Kansas,US,3,0,0
+2195,Illinois,US,19,0,0
+2196,Ohio,US,2170,41,0
+2197,Alabama,US,204,6,0
+2198,Georgia,US,93,5,0
+2199,South Carolina,US,835,5,0
+2200,Tennessee,US,6,0,0
+2201,Georgia,US,170,4,0
+2202,Nebraska,US,8,0,0
+2203,North Dakota,US,5,0,0
+2204,Washington,US,2564,101,0
+2205,Wisconsin,US,68,0,0
+2206,Alabama,US,396,5,0
+2207,Arkansas,US,8,0,0
+2208,Georgia,US,90,3,0
+2209,Illinois,US,2,0,0
+2210,Indiana,US,6,0,0
+2211,Kentucky,US,84,2,0
+2212,Mississippi,US,356,12,0
+2213,Missouri,US,36,1,0
+2214,Ohio,US,20,0,0
+2215,Pennsylvania,US,496,20,0
+2216,Arizona,US,8004,273,0
+2217,Arizona,US,3574,67,0
+2218,Minnesota,US,100,0,0
+2219,Florida,US,6487,166,0
+2220,Minnesota,US,25,1,0
+2221,Maine,US,3,0,0
+2222,Colorado,US,99,2,0
+2223,North Carolina,US,696,7,0
+2224,Oklahoma,US,58,3,0
+2225,Virginia,US,122,1,0
+2226,California,US,684,11,0
+2227,Louisiana,US,261,17,0
+2228,Missouri,US,114,6,0
+2229,Nebraska,US,664,3,0
+2230,Wyoming,US,3,0,0
+2231,West Virginia,US,5,0,0
+2232,California,US,9,0,0
+2233,Iowa,US,300,4,0
+2234,Massachusetts,US,8684,665,0
+2235,Iowa,US,75,1,0
+2236,West Virginia,US,25,0,0
+2237,Arkansas,US,58,3,0
+2238,Louisiana,US,245,27,0
+2239,Arkansas,US,74,0,0
+2240,Florida,US,3836,98,0
+2241,Georgia,US,205,2,0
+2242,Iowa,US,6037,177,0
+2243,Minnesota,US,79,2,0
+2244,Missouri,US,13,0,0
+2245,Nebraska,US,12,0,0
+2246,North Carolina,US,73,4,0
+2247,Oregon,US,141,12,0
+2248,Tennessee,US,41,0,0
+2249,Texas,US,113,0,0
+2250,Wisconsin,US,48,1,0
+2251,Montana,US,2,0,0
+2252,Mississippi,US,231,4,0
+2253,Oklahoma,US,39,2,0
+2254,Arkansas,US,433,3,0
+2255,Illinois,US,1,0,0
+2256,Minnesota,US,10,0,0
+2257,Virginia,US,19,0,0
+2258,Ohio,US,412,58,0
+2259,Wisconsin,US,142,0,0
+2260,Indiana,US,680,36,0
+2261,Virginia,US,482,16,0
+2262,Indiana,US,32,0,0
+2263,Kansas,US,65,0,0
+2264,Oklahoma,US,104,4,0
+2265,Iowa,US,692,11,0
+2266,Pennsylvania,US,15,0,0
+2267,Texas,US,2873,39,0
+2268,Kentucky,US,6,0,0
+2269,Idaho,US,17,0,0
+2270,Iowa,US,104,8,0
+2271,Virginia,US,82,2,0
+2272,Arkansas,US,20,0,0
+2273,Kansas,US,11,0,0
+2274,Ohio,US,62,1,0
+2275,Mississippi,US,97,3,0
+2276,Texas,US,19,0,0
+2277,Michigan,US,12,0,0
+2278,West Virginia,US,78,2,0
+2279,Wisconsin,US,2,0,0
+2280,Virginia,US,187,3,0
+2281,Virginia,US,238,1,0
+2282,Maryland,US,18572,682,0
+2283,Virginia,US,7285,144,0
+2284,Alaska,US,2,0,0
+2285,Rhode Island,US,12937,0,0
+2286,Colorado,US,20,0,0
+2287,Colorado,US,390,28,0
+2288,Arkansas,US,2036,58,0
+2289,Georgia,US,50,2,0
+2290,Illinois,US,74,0,0
+2291,Indiana,US,59,1,0
+2292,Kentucky,US,94,2,0
+2293,Missouri,US,120,1,0
+2294,Virginia,US,45,2,0
+2295,Oklahoma,US,11,0,0
+2296,Florida,US,339,6,0
+2297,Georgia,US,148,12,0
+2298,Illinois,US,1,0,0
+2299,Indiana,US,165,8,0
+2300,Missouri,US,2,0,0
+2301,New York,US,1326,63,0
+2302,Ohio,US,113,16,0
+2303,Tennessee,US,783,7,0
+2304,West Virginia,US,55,0,0
+2305,New Mexico,US,6,1,0
+2306,Maryland,US,230,17,0
+2307,Georgia,US,17,1,0
+2308,Mississippi,US,67,0,0
+2309,Georgia,US,42,3,0
+2310,Wisconsin,US,2171,63,0
+2311,Virginia,US,11,0,0
+2312,Texas,US,12,0,0
+2313,West Virginia,US,52,0,0
+2314,Missouri,US,9,0,0
+2315,Minnesota,US,4685,217,0
+2316,North Dakota,US,10,1,0
+2317,Texas,US,844,7,0
+2318,Alabama,US,169,9,0
+2319,Arkansas,US,48,1,0
+2320,Georgia,US,197,25,0
+2321,Illinois,US,285,7,0
+2322,Indiana,US,76,4,0
+2323,Missouri,US,12,0,0
+2324,North Carolina,US,1201,30,0
+2325,West Virginia,US,156,0,0
+2326,Mississippi,US,816,12,0
+2327,North Dakota,US,17,0,0
+2328,Louisiana,US,1536,59,0
+2329,Virginia,US,20,0,0
+2330,Montana,US,27,0,0
+2331,Missouri,US,25,0,0
+2332,Texas,US,4,0,0
+2333,Texas,US,1,0,0
+2334,Minnesota,US,3,0,0
+2335,Louisiana,US,60,8,0
+2336,Texas,US,110,10,0
+2337,Nebraska,US,6,0,0
+2338,Minnesota,US,16,0,0
+2339,Texas,US,29,0,0
+2340,Texas,US,12,0,0
+2341,Kansas,US,63,0,0
+2342,New York,US,553,28,0
+2343,Minnesota,US,24,2,0
+2344,North Dakota,US,5,0,0
+2345,Kansas,US,11,0,0
+2346,Missouri,US,2,0,0
+2347,Tennessee,US,269,0,0
+2348,Kansas,US,4,0,0
+2349,Minnesota,US,809,7,0
+2350,Nebraska,US,5,1,0
+2351,Illinois,US,4,0,0
+2352,Louisiana,US,188,4,0
+2353,Montana,US,12,0,0
+2354,North Dakota,US,41,0,0
+2355,Ohio,US,314,5,0
+2356,South Carolina,US,3518,83,0
+2357,Wisconsin,US,15,4,0
+2358,Georgia,US,952,48,0
+2359,North Carolina,US,278,6,0
+2360,Virginia,US,298,4,0
+2361,Virginia,US,2209,30,0
+2362,Kansas,US,233,3,0
+2363,Iowa,US,14,0,0
+2364,New Mexico,US,98,1,0
+2365,Colorado,US,4,0,0
+2366,Colorado,US,76,2,0
+2367,Indiana,US,112,7,0
+2368,Missouri,US,17,0,0
+2369,West Virginia,US,2,0,0
+2370,California,US,17296,457,0
+2371,Tennessee,US,44,0,0
+2372,West Virginia,US,11,1,0
+2373,Virginia,US,254,6,0
+2374,Virginia,US,439,9,0
+2375,South Dakota,US,47,0,0
+2376,Texas,US,3,0,0
+2377,Tennessee,US,776,11,0
+2378,Texas,US,42,0,0
+2379,North Carolina,US,1240,39,0
+2380,Minnesota,US,30,0,0
+2381,Nebraska,US,1,0,0
+2382,Wisconsin,US,864,24,0
+2383,Illinois,US,925,29,0
+2384,Virginia,US,30,0,0
+2385,Kentucky,US,21,0,0
+2386,Georgia,US,459,11,0
+2387,New Hampshire,US,1474,89,0
+2388,North Carolina,US,231,2,0
+2389,Virginia,US,720,10,0
+2390,New York,US,13590,667,0
+2391,Texas,US,360,16,0
+2392,Oklahoma,US,178,6,0
+2393,North Dakota,US,10,0,0
+2394,Kansas,US,7,0,0
+2395,Montana,US,7,0,0
+2396,New Mexico,US,59,1,0
+2397,Michigan,US,26,0,0
+2398,Minnesota,US,6,0,0
+2399,Montana,US,9,1,0
+2400,Ohio,US,107,2,0
+2401,Colorado,US,73,6,0
+2402,Kentucky,US,22,0,0
+2403,North Carolina,US,1205,42,0
+2404,Texas,US,7,0,0
+2405,Indiana,US,56,3,0
+2406,Kansas,US,1,0,0
+2407,Texas,US,268,3,0
+2408,Wisconsin,US,11,0,0
+2409,Alabama,US,469,0,0
+2410,Kentucky,US,45,4,0
+2411,Virginia,US,12,0,0
+2412,North Carolina,US,306,9,0
+2413,Tennessee,US,2528,34,0
+2414,Vermont,US,73,1,0
+2415,Louisiana,US,82,1,0
+2416,Texas,US,24,1,0
+2417,Iowa,US,63,0,0
+2418,California,US,3223,68,0
+2419,Maine,US,34,0,0
+2420,Michigan,US,1286,123,0
+2421,Colorado,US,102,2,0
+2422,New Jersey,US,768,75,0
+2423,Virginia,US,68,3,0
+2424,Arkansas,US,275,2,0
+2425,Illinois,US,9,0,0
+2426,Kansas,US,105,2,0
+2427,Missouri,US,282,4,0
+2428,Nebraska,US,533,2,0
+2429,Utah,US,11166,107,0
+2430,South Carolina,US,208,1,0
+2431,North Carolina,US,1040,6,0
+2432,Texas,US,105,7,0
+2433,California,US,213,2,0
+2434,California,US,12550,253,0
+2435,California,US,14149,365,0
+2436,California,US,3603,50,0
+2437,Texas,US,33,0,0
+2438,California,US,3856,52,0
+2439,Colorado,US,2,0,0
+2440,New Mexico,US,2422,163,0
+2441,Utah,US,399,9,0
+2442,Washington,US,19,0,0
+2443,California,US,611,1,0
+2444,California,US,3232,108,0
+2445,Colorado,US,37,0,0
+2446,New Mexico,US,21,0,0
+2447,Texas,US,133,0,0
+2448,Texas,US,4,0,0
+2449,South Dakota,US,12,0,0
+2450,New Mexico,US,728,29,0
+2451,Ohio,US,122,13,0
+2452,Illinois,US,426,31,0
+2453,Michigan,US,47,6,0
+2454,California,US,2896,29,0
+2455,California,US,4370,156,0
+2456,Arizona,US,1771,22,0
+2457,California,US,379,3,0
+2458,New Mexico,US,237,3,0
+2459,Florida,US,593,9,0
+2460,Florida,US,1482,97,0
+2461,New York,US,549,14,0
+2462,North Dakota,US,6,0,0
+2463,Nebraska,US,1167,8,0
+2464,Wisconsin,US,107,3,0
+2465,Nebraska,US,77,2,0
+2466,Wisconsin,US,12,0,0
+2467,New York,US,800,37,0
+2468,Texas,US,20,0,0
+2469,Georgia,US,25,1,0
+2470,New York,US,58,0,0
+2471,Michigan,US,4,0,0
+2472,Illinois,US,13,0,0
+2473,Missouri,US,5,0,0
+2474,New York,US,12,0,0
+2475,Pennsylvania,US,741,44,0
+2476,Ohio,US,35,0,0
+2477,Missouri,US,11,1,0
+2478,North Carolina,US,137,2,0
+2479,Arkansas,US,11,0,0
+2480,Illinois,US,0,0,0
+2481,Indiana,US,154,7,0
+2482,Iowa,US,631,10,0
+2483,Kansas,US,16,0,0
+2484,Kentucky,US,87,0,0
+2485,Minnesota,US,658,4,0
+2486,Mississippi,US,742,15,0
+2487,Missouri,US,161,11,0
+2488,Tennessee,US,14,0,0
+2489,Virginia,US,10,2,0
+2490,Nebraska,US,215,3,0
+2491,Georgia,US,92,6,0
+2492,Texas,US,32,0,0
+2493,Arkansas,US,7,0,0
+2494,Arkansas,US,468,5,0
+2495,Kansas,US,1208,28,0
+2496,Florida,US,2566,16,0
+2497,Georgia,US,51,2,0
+2498,Oklahoma,US,40,3,0
+2499,New York,US,69,0,0
+2500,Ohio,US,33,2,0
+2501,Tennessee,US,24,0,0
+2502,Oklahoma,US,40,3,0
+2503,Arkansas,US,700,7,0
+2504,Tennessee,US,608,3,0
+2505,Kansas,US,1011,2,0
+2506,Nebraska,US,34,1,0
+2507,Texas,US,1,0,0
+2508,Missouri,US,6,0,0
+2509,Mississippi,US,24,0,0
+2510,Arkansas,US,53,4,0
+2511,California,US,112,4,0
+2512,Wisconsin,US,78,0,0
+2513,Kansas,US,646,11,0
+2514,Wisconsin,US,208,4,0
+2515,Alabama,US,1056,23,0
+2516,Illinois,US,18,1,0
+2517,Indiana,US,414,25,0
+2518,Iowa,US,106,0,0
+2519,Kentucky,US,414,11,0
+2520,Missouri,US,3,0,0
+2521,Ohio,US,58,4,0
+2522,Tennessee,US,10028,192,0
+2523,Texas,US,277,9,0
+2524,Virginia,US,562,29,0
+2525,Minnesota,US,295,4,0
+2526,Kansas,US,4,0,0
+2527,Nebraska,US,4,0,0
+2528,North Dakota,US,1,0,0
+2529,Wyoming,US,27,0,0
+2530,Kansas,US,7,0,0
+2531,Nebraska,US,5,0,0
+2532,Oregon,US,1,0,0
+2533,Texas,US,30,0,0
+2534,Michigan,US,273,28,0
+2535,Minnesota,US,48,2,0
+2536,California,US,1,0,0
+2537,New Mexico,US,11,0,0
+2538,Montana,US,14,0,0
+2539,Kentucky,US,77,3,0
+2540,Mississippi,US,218,3,0
+2541,Iowa,US,455,0,0
+2542,Nebraska,US,6,0,0
+2543,North Dakota,US,24,0,0
+2544,California,US,28,0,0
+2545,Alaska,US,12,0,0
+2546,Washington,US,519,15,0
+2547,Washington,US,5,0,0
+2548,North Dakota,US,3,0,0
+2549,Kansas,US,3,0,0
+2550,Mississippi,US,204,11,0
+2551,Tennessee,US,90,1,0
+2552,Texas,US,566,4,0
+2553,Virginia,US,36,1,0
+2554,Washington,US,3508,171,0
+2555,Pennsylvania,US,66,2,0
+2556,New Mexico,US,60,5,0
+2557,California,US,1126,24,0
+2558,Maine,US,28,0,0
+2559,Maryland,US,87,3,0
+2560,New Jersey,US,4869,528,0
+2561,Pennsylvania,US,61,1,0
+2562,Texas,US,6,0,0
+2563,California,US,1136,7,0
+2564,Virginia,US,156,4,0
+2565,Alaska,US,5,0,0
+2566,Utah,US,36,0,0
+2567,Utah,US,1519,11,0
+2568,Georgia,US,400,32,0
+2569,South Carolina,US,1609,48,0
+2570,Indiana,US,30,1,0
+2571,Kentucky,US,36,0,0
+2572,South Dakota,US,11,0,0
+2573,Washington,US,1344,40,0
+2574,Virginia,US,993,29,0
+2575,Louisiana,US,617,23,0
+2576,Louisiana,US,759,49,0
+2577,Missouri,US,1010,73,0
+2578,Alabama,US,292,2,0
+2579,Illinois,US,1874,135,0
+2580,Michigan,US,558,50,0
+2581,Missouri,US,2,0,0
+2582,Wisconsin,US,164,1,0
+2583,Arkansas,US,812,3,0
+2584,Missouri,US,138,2,0
+2585,Louisiana,US,97,1,0
+2586,Louisiana,US,367,29,0
+2587,Louisiana,US,970,86,0
+2588,Florida,US,948,7,0
+2589,Indiana,US,1830,65,0
+2590,Michigan,US,320,4,0
+2591,Louisiana,US,626,57,0
+2592,New York,US,219,2,0
+2593,Minnesota,US,161,14,0
+2594,Missouri,US,6582,568,0
+2595,Missouri,US,2493,156,0
+2596,Florida,US,1724,47,0
+2597,Louisiana,US,712,26,0
+2598,Louisiana,US,469,38,0
+2599,Maryland,US,637,51,0
+2600,Louisiana,US,2308,175,0
+2601,Kansas,US,1,0,0
+2602,Virginia,US,988,5,0
+2603,California,US,2165,42,0
+2604,South Dakota,US,12,0,0
+2605,North Carolina,US,378,5,0
+2606,Kansas,US,10,0,0
+2607,Nebraska,US,21,0,0
+2608,Illinois,US,3,0,0
+2609,North Dakota,US,73,2,0
+2610,Ohio,US,1042,112,0
+2611,Indiana,US,68,3,0
+2612,Texas,US,598,3,0
+2613,Virginia,US,73,0,0
+2614,Missouri,US,17,1,0
+2615,Minnesota,US,2265,19,0
+2616,Minnesota,US,215,0,0
+2617,North Dakota,US,1,0,0
+2618,Georgia,US,224,6,0
+2619,Oklahoma,US,63,1,0
+2620,Texas,US,8,0,0
+2621,Illinois,US,270,5,0
+2622,Indiana,US,123,2,0
+2623,New York,US,266,41,0
+2624,Kansas,US,31,0,0
+2625,Minnesota,US,4,0,0
+2626,Washington,US,18,1,0
+2627,Georgia,US,119,3,0
+2628,Tennessee,US,21,0,0
+2629,Montana,US,5,0,0
+2630,Missouri,US,134,8,0
+2631,North Carolina,US,125,1,0
+2632,Arkansas,US,14,0,0
+2633,Mississippi,US,51,1,0
+2634,Missouri,US,12,0,0
+2635,Nevada,US,2,0,0
+2636,Iowa,US,694,3,0
+2637,New Hampshire,US,292,13,0
+2638,North Dakota,US,63,1,0
+2639,Wyoming,US,6,0,0
+2640,Massachusetts,US,19819,1002,0
+2641,New York,US,41385,1981,0
+2642,Virginia,US,414,34,0
+2643,Indiana,US,45,1,0
+2644,Missouri,US,108,0,0
+2645,New Hampshire,US,32,1,0
+2646,New York,US,1451,45,0
+2647,Pennsylvania,US,5,0,0
+2648,Tennessee,US,89,2,0
+2649,South Dakota,US,1,0,0
+2650,West Virginia,US,2,0,0
+2651,Colorado,US,269,3,0
+2652,Ohio,US,1953,205,0
+2653,Utah,US,488,0,0
+2654,Kansas,US,11,1,0
+2655,Tennessee,US,1417,52,0
+2656,Alabama,US,275,12,0
+2657,Florida,US,345,17,0
+2658,Georgia,US,554,50,0
+2659,South Carolina,US,1059,23,0
+2660,Mississippi,US,280,6,0
+2661,North Carolina,US,470,2,0
+2662,Virginia,US,15,1,0
+2663,Pennsylvania,US,182,23,0
+2664,Delaware,US,4681,176,0
+2665,New Jersey,US,1192,191,0
+2666,Virginia,US,194,2,0
+2667,California,US,176,3,0
+2668,Texas,US,5,0,0
+2669,Florida,US,499,20,0
+2670,North Carolina,US,58,0,0
+2671,Wyoming,US,90,0,0
+2672,Minnesota,US,20,1,0
+2673,Texas,US,31,1,0
+2674,Indiana,US,24,0,0
+2675,Georgia,US,73,2,0
+2676,Maryland,US,137,4,0
+2677,Georgia,US,2,0,0
+2678,Alabama,US,257,6,0
+2679,Mississippi,US,94,3,0
+2680,Alabama,US,560,69,0
+2681,Iowa,US,445,29,0
+2682,Missouri,US,48,2,0
+2683,Louisiana,US,1304,43,0
+2684,New Mexico,US,42,1,0
+2685,Texas,US,12344,228,0
+2686,Mississippi,US,245,7,0
+2687,Georgia,US,138,0,0
+2688,Florida,US,79,0,0
+2689,Georgia,US,28,2,0
+2690,Iowa,US,78,0,0
+2691,Kentucky,US,41,1,0
+2692,Texas,US,400,5,0
+2693,West Virginia,US,16,0,0
+2694,Wisconsin,US,12,0,0
+2695,Illinois,US,127,8,0
+2696,Virginia,US,15,0,0
+2697,California,US,75,1,0
+2698,Georgia,US,118,3,0
+2699,Colorado,US,41,2,0
+2700,Louisiana,US,26,0,0
+2701,Louisiana,US,1030,61,0
+2702,Georgia,US,225,27,0
+2703,Texas,US,2,0,0
+2704,Texas,US,17,0,0
+2705,Idaho,US,17,0,0
+2706,Wyoming,US,129,0,0
+2707,Missouri,US,4,0,0
+2708,Oklahoma,US,987,6,0
+2709,Nebraska,US,1,0,0
+2710,Georgia,US,435,32,0
+2711,Kansas,US,15,0,0
+2712,Nebraska,US,1,0,0
+2713,Texas,US,1,0,0
+2714,Nebraska,US,85,1,0
+2715,Washington,US,253,7,0
+2716,Georgia,US,750,26,0
+2717,Oregon,US,9,0,0
+2718,Oklahoma,US,23,1,0
+2719,New York,US,143,24,0
+2720,Pennsylvania,US,25,2,0
+2721,Mississippi,US,121,11,0
+2722,Indiana,US,633,8,0
+2723,Indiana,US,30,1,0
+2724,Tennessee,US,607,4,0
+2725,Mississippi,US,65,1,0
+2726,Texas,US,799,5,0
+2727,Kentucky,US,25,0,0
+2728,Minnesota,US,398,2,0
+2729,South Dakota,US,57,1,0
+2730,Connecticut,US,913,64,0
+2731,Texas,US,394,2,0
+2732,New York,US,177,0,0
+2733,Utah,US,244,0,0
+2734,Montana,US,31,6,0
+2735,Georgia,US,244,5,0
+2736,New Mexico,US,43,1,0
+2737,Georgia,US,45,1,0
+2738,North Dakota,US,17,0,0
+2739,North Carolina,US,22,1,0
+2740,Minnesota,US,5,0,0
+2741,Texas,US,8969,121,0
+2742,Montana,US,2,0,0
+2743,Kansas,US,1,0,0
+2744,Wisconsin,US,116,0,0
+2745,Georgia,US,23,1,0
+2746,Utah,US,50,0,0
+2747,Kentucky,US,26,0,0
+2748,Kentucky,US,6,0,0
+2749,California,US,2,0,0
+2750,Texas,US,32,0,0
+2751,South Dakota,US,16,0,0
+2752,Georgia,US,1398,32,0
+2753,Tennessee,US,1485,5,0
+2754,Ohio,US,834,62,0
+2755,West Virginia,US,6,0,0
+2756,California,US,4156,126,0
+2757,Oklahoma,US,3424,67,0
+2758,Mississippi,US,89,3,0
+2759,California,US,28,0,0
+2760,Georgia,US,177,16,0
+2761,South Dakota,US,24,0,0
+2762,Alabama,US,1964,36,0
+2763,Ohio,US,507,10,0
+2764,Michigan,US,232,26,0
+2765,Georgia,US,27,1,0
+2766,Idaho,US,599,25,0
+2767,Texas,US,25,0,0
+2768,West Virginia,US,4,0,0
+2769,North Carolina,US,10,0,0
+2770,Wyoming,US,176,0,0
+2771,New York,US,1781,85,0
+2772,Oregon,US,492,4,0
+2773,Alabama,US,509,24,0
+2774,Alaska,US,0,0,0
+2775,Arizona,US,1,1,0
+2776,Arkansas,US,721,0,0
+2777,California,US,0,0,0
+2778,Connecticut,US,204,0,0
+2779,Delaware,US,38,0,0
+2780,Florida,US,145,0,0
+2781,Georgia,US,2699,2,0
+2782,Hawaii,US,1,0,0
+2783,Idaho,US,1,0,0
+2784,Illinois,US,48,0,0
+2785,Indiana,US,0,192,0
+2786,Iowa,US,3,0,0
+2787,Kansas,US,0,1,0
+2788,Kentucky,US,2,0,0
+2789,Louisiana,US,2,108,0
+2790,Maine,US,2,0,0
+2791,Maryland,US,0,29,0
+2792,Massachusetts,US,288,7,0
+2793,Michigan,US,3,0,0
+2794,Minnesota,US,83,35,0
+2795,Mississippi,US,0,0,0
+2796,Missouri,US,0,0,0
+2797,Montana,US,0,0,0
+2798,Nebraska,US,174,1,0
+2799,Nevada,US,0,0,0
+2800,New Hampshire,US,1,0,0
+2801,New Jersey,US,642,0,0
+2802,New Mexico,US,905,0,0
+2803,New York,US,0,0,0
+2804,North Carolina,US,0,0,0
+2805,North Dakota,US,0,0,0
+2806,Ohio,US,0,0,0
+2807,Oklahoma,US,0,0,0
+2808,Oregon,US,0,0,0
+2809,Pennsylvania,US,0,0,0
+2810,Rhode Island,US,1584,950,0
+2811,South Carolina,US,0,0,0
+2812,South Dakota,US,0,0,0
+2813,Tennessee,US,369,0,0
+2814,Texas,US,0,0,0
+2815,Utah,US,0,0,0
+2816,Vermont,US,6,0,0
+2817,Virginia,US,0,0,0
+2818,Washington,US,78,0,0
+2819,West Virginia,US,5,0,0
+2820,Wisconsin,US,0,0,0
+2821,Wyoming,US,0,19,0
+2822,Tennessee,US,54,0,0
+2823,Arkansas,US,248,13,0
+2824,Florida,US,62,2,0
+2825,Georgia,US,71,3,0
+2826,Illinois,US,188,19,0
+2827,Indiana,US,13,0,0
+2828,Iowa,US,25,0,0
+2829,Kentucky,US,29,0,0
+2830,Louisiana,US,422,24,0
+2831,Mississippi,US,172,9,0
+2832,New Jersey,US,16386,1326,0
+2833,New Mexico,US,7,0,0
+2834,North Carolina,US,1201,24,0
+2835,Ohio,US,77,1,0
+2836,Oregon,US,337,1,0
+2837,Pennsylvania,US,92,2,0
+2838,South Carolina,US,90,0,0
+2839,South Dakota,US,123,1,0
+2840,Tennessee,US,12,0,0
+2841,Texas,US,53,0,0
+2842,West Virginia,US,19,0,0
+2843,Georgia,US,355,43,0
+2844,Texas,US,3,0,0
+2845,Utah,US,4084,22,0
+2846,Texas,US,80,1,0
+2847,Texas,US,224,0,0
+2848,Alaska,US,3,0,0
+2849,New Mexico,US,121,2,0
+2850,Idaho,US,13,0,0
+2851,Montana,US,3,0,0
+2852,Nebraska,US,8,0,0
+2853,Arkansas,US,35,2,0
+2854,Iowa,US,19,0,0
+2855,Michigan,US,225,8,0
+2856,Tennessee,US,7,0,0
+2857,Ohio,US,24,0,0
+2858,Texas,US,85,3,0
+2859,North Carolina,US,502,36,0
+2860,Indiana,US,413,6,0
+2861,Pennsylvania,US,18,0,0
+2862,California,US,2740,45,0
+2863,Illinois,US,65,2,0
+2864,Louisiana,US,251,6,0
+2865,Indiana,US,13,0,0
+2866,Louisiana,US,138,8,0
+2867,Missouri,US,16,0,0
+2868,Wisconsin,US,35,0,0
+2869,Texas,US,480,8,0
+2870,Indiana,US,222,8,0
+2871,Wisconsin,US,10,0,0
+2872,Ohio,US,22,2,0
+2873,Virginia,US,1176,29,0
+2874,Florida,US,2105,57,0
+2875,Illinois,US,22,0,0
+2876,Indiana,US,107,2,0
+2877,Minnesota,US,31,0,0
+2878,Kansas,US,35,0,0
+2879,Minnesota,US,15,0,0
+2880,Oklahoma,US,266,19,0
+2881,Washington,US,5,0,0
+2882,North Carolina,US,5178,47,0
+2883,Florida,US,60,1,0
+2884,Maine,US,55,14,0
+2885,Alabama,US,843,17,0
+2886,Georgia,US,318,11,0
+2887,Texas,US,1991,28,0
+2888,Washington,US,166,3,0
+2889,Texas,US,152,0,0
+2890,Oregon,US,8,0,0
+2891,North Dakota,US,23,0,0
+2892,Mississippi,US,169,4,0
+2893,Florida,US,245,9,0
+2894,Georgia,US,399,28,0
+2895,South Dakota,US,12,0,0
+2896,Wisconsin,US,607,18,0
+2897,Iowa,US,700,30,0
+2898,North Dakota,US,60,1,0
+2899,Texas,US,19,0,0
+2900,Georgia,US,424,15,0
+2901,Georgia,US,22,0,0
+2902,Illinois,US,136,0,0
+2903,Indiana,US,14,1,0
+2904,Iowa,US,245,2,0
+2905,Kentucky,US,1533,13,0
+2906,Mississippi,US,425,17,0
+2907,Missouri,US,40,0,0
+2908,New Jersey,US,1233,158,0
+2909,New York,US,263,30,0
+2910,North Carolina,US,161,5,0
+2911,Ohio,US,738,21,0
+2912,Pennsylvania,US,6,0,0
+2913,Tennessee,US,62,0,0
+2914,Virginia,US,284,5,0
+2915,Indiana,US,196,29,0
+2916,Utah,US,408,3,0
+2917,Oregon,US,69,1,0
+2918,Minnesota,US,57,0,0
+2919,Wyoming,US,39,0,0
+2920,Wisconsin,US,4,0,0
+2921,Alabama,US,98,7,0
+2922,Arkansas,US,3578,30,0
+2923,Colorado,US,45,0,0
+2924,Florida,US,113,12,0
+2925,Georgia,US,105,1,0
+2926,Idaho,US,102,0,0
+2927,Illinois,US,19,0,0
+2928,Indiana,US,64,1,0
+2929,Iowa,US,225,9,0
+2930,Kansas,US,1,0,0
+2931,Kentucky,US,23,0,0
+2932,Louisiana,US,678,46,0
+2933,Maine,US,2,0,0
+2934,Maryland,US,698,27,0
+2935,Minnesota,US,1008,40,0
+2936,Mississippi,US,465,9,0
+2937,Missouri,US,21,1,0
+2938,Nebraska,US,50,1,0
+2939,New York,US,246,14,0
+2940,North Carolina,US,38,3,0
+2941,Ohio,US,124,20,0
+2942,Oklahoma,US,398,39,0
+2943,Oregon,US,1331,20,0
+2944,Pennsylvania,US,219,6,0
+2945,Rhode Island,US,532,0,0
+2946,Tennessee,US,131,0,0
+2947,Texas,US,267,31,0
+2948,Vermont,US,41,1,0
+2949,Virginia,US,64,4,0
+2950,Wisconsin,US,368,15,0
+2951,Oklahoma,US,3,0,0
+2952,Nevada,US,2656,75,0
+2953,Michigan,US,1699,105,0
+2954,North Carolina,US,68,0,0
+2955,Minnesota,US,203,0,0
+2956,Wisconsin,US,1175,38,0
+2957,Wisconsin,US,113,7,0
+2958,Wisconsin,US,25,0,0
+2959,Georgia,US,70,0,0
+2960,Illinois,US,14,1,0
+2961,Indiana,US,127,6,0
+2962,Iowa,US,8,0,0
+2963,Kentucky,US,15,0,0
+2964,Michigan,US,22767,2720,0
+2965,Mississippi,US,515,11,0
+2966,Missouri,US,3,0,0
+2967,Nebraska,US,28,0,0
+2968,New York,US,170,3,0
+2969,North Carolina,US,1802,26,0
+2970,Ohio,US,353,52,0
+2971,Pennsylvania,US,140,9,0
+2972,Tennessee,US,77,0,0
+2973,West Virginia,US,111,9,0
+2974,Virginia,US,82,0,0
+2975,Tennessee,US,60,1,0
+2976,Texas,US,1503,25,0
+2977,Utah,US,954,13,0
+2978,Georgia,US,22,1,0
+2979,Iowa,US,161,2,0
+2980,Kentucky,US,41,0,0
+2981,Louisiana,US,418,11,0
+2982,Mississippi,US,123,10,0
+2983,Missouri,US,27,1,0
+2984,Nebraska,US,6,0,0
+2985,West Virginia,US,1,0,0
+2986,Colorado,US,2802,137,0
+2987,Indiana,US,67,1,0
+2988,North Dakota,US,8,0,0
+2989,Louisiana,US,258,30,0
+2990,Louisiana,US,124,5,0
+2991,Louisiana,US,246,14,0
+2992,New York,US,34838,1425,0
+2993,Pennsylvania,US,646,38,0
+2994,Virginia,US,108,2,0
+2995,Wyoming,US,2,0,0
+2996,West Virginia,US,10,0,0
+2997,Michigan,US,25,4,0
+2998,Texas,US,197,1,0
+2999,Washington,US,622,40,0
+3000,Montana,US,1,0,0
+3001,Georgia,US,49,0,0
+3002,Nebraska,US,0,0,0
+3003,Oregon,US,0,0,0
+3004,Texas,US,16,0,0
+3005,Arkansas,US,86,1,0
+3006,Georgia,US,142,4,0
+3007,Illinois,US,4,0,0
+3008,Indiana,US,257,10,0
+3009,Tennessee,US,63,3,0
+3010,Nevada,US,4,0,0
+3011,Illinois,US,186,15,0
+3012,Georgia,US,1101,10,0
+3013,Indiana,US,79,4,0
+3014,Kentucky,US,28,0,0
+3015,Washington,US,38,0,0
+3016,Texas,US,318,2,0
+3017,Maryland,US,1067,41,0
+3018,Texas,US,10,0,0
+3019,Alabama,US,278,8,0
+3020,Georgia,US,126,15,0
+3021,Georgia,US,56,1,0
+3022,North Carolina,US,576,6,0
+3023,Minnesota,US,20,3,0
+3024,Georgia,US,76,8,0
+3025,Mississippi,US,89,9,0
+3026,Illinois,US,6686,319,0
+3027,Texas,US,154,3,0
+3028,North Dakota,US,32,0,0
+3029,Ohio,US,65,2,0
+3030,South Carolina,US,400,15,0
+3031,Virginia,US,60,6,0
+3032,Illinois,US,115,4,0
+3033,Tennessee,US,1013,14,0
+3034,Texas,US,2230,39,0
+3035,Kansas,US,1,0,0
+3036,North Carolina,US,735,19,0
+3037,Tennessee,US,779,17,0
+3038,Texas,US,98,5,0
+3039,Virginia,US,317,3,0
+3040,Connecticut,US,610,14,0
+3041,Vermont,US,94,3,0
+3042,Vermont,US,58,2,0
+3043,Texas,US,21,0,0
+3044,Louisiana,US,242,5,0
+3045,Illinois,US,3030,94,0
+3046,Iowa,US,24,0,0
+3047,Wisconsin,US,669,11,0
+3048,Iowa,US,29,0,0
+3049,Minnesota,US,119,15,0
+3050,Alabama,US,229,3,0
+3051,Mississippi,US,240,5,0
+3052,West Virginia,US,4,0,0
+3053,Texas,US,104,5,0
+3054,Virginia,US,28,2,0
+3055,Kentucky,US,2,0,0
+3056,Ohio,US,376,51,0
+3057,Texas,US,82,5,0
+3058,West Virginia,US,86,2,0
+3059,Wisconsin,US,51,1,0
+3060,Iowa,US,3165,44,0
+3061,Illinois,US,33,2,0
+3062,Kentucky,US,67,0,0
+3063,Arkansas,US,6,0,0
+3064,Oklahoma,US,7,0,0
+3065,Kansas,US,10,0,0
+3066,Oklahoma,US,12,0,0
+3067,Maryland,US,286,16,0
+3068,Massachusetts,US,12350,920,0
+3069,Georgia,US,315,22,0
+3070,Iowa,US,14,0,0
+3071,Missouri,US,4,0,0
+3072,Alaska,US,3,0,0
+3073,Iowa,US,370,0,0
+3074,Minnesota,US,445,5,0
+3075,Missouri,US,14,0,0
+3076,Ohio,US,58,4,0
+3077,Kansas,US,2234,82,0
+3078,New York,US,95,5,0
+3079,Pennsylvania,US,38,7,0
+3080,West Virginia,US,7,0,0
+3081,Virginia,US,50,1,0
+3082,North Carolina,US,337,4,0
+3083,Washington,US,7071,158,0
+3084,Mississippi,US,152,7,0
+3085,Oregon,US,119,8,0
+3086,North Carolina,US,44,0,0
+3087,South Dakota,US,77,0,0
+3088,New York,US,46,6,0
+3089,Arizona,US,781,9,0
+3090,Mississippi,US,467,6,0
+3091,Arkansas,US,616,3,0
+3092,Minnesota,US,29,0,0
+3093,Montana,US,174,4,0
+3094,Texas,US,24,0,0
+3095,California,US,505,24,0
+3096,Maine,US,515,11,0
+3097,Nebraska,US,41,0,0
+3098,Pennsylvania,US,1515,48,0
+3099,South Carolina,US,1204,12,0
+3100,Virginia,US,115,3,0
+3101,Texas,US,24,1,0
+3102,California,US,71,1,0
+3103,Alaska,US,3,0,0
+3104,Arizona,US,6225,94,0
+3105,Colorado,US,52,0,0
+3106,Texas,US,47,0,0
+3107,Texas,US,21,0,0
+3108,South Dakota,US,2,0,0
+3109,Abruzzo,Italy,3287,464,2626
+3110,Acre,Brazil,13253,365,6270
+3111,Adygea Republic,Russia,1898,14,1302
+3112,Aguascalientes,Mexico,2340,146,1827
+3113,Aichi,Japan,523,34,477
+3114,Akita,Japan,16,0,16
+3115,Alagoas,Brazil,35962,1052,27502
+3116,Alberta,Canada,8108,154,7407
+3117,Altai Krai,Russia,3985,33,2889
+3118,Altai Republic,Russia,650,0,285
+3119,Amapa,Brazil,28492,417,13573
+3120,Amazonas,Brazil,70823,2823,57616
+3121,Amazonas,Colombia,2276,90,1914
+3122,Amazonas,Peru,2155,69,0
+3123,Amur Oblast,Russia,1707,11,786
+3124,Ancash,Peru,7988,474,0
+3125,Andalusia,Spain,13102,1427,10671
+3126,Andaman and Nicobar Islands,India,97,0,50
+3127,Andhra Pradesh,India,14595,187,6511
+3128,Anguilla,United Kingdom,3,0,3
+3129,Anhui,China,991,6,985
+3130,Antioquia,Colombia,4232,27,1606
+3131,Antofagasta,Chile,8829,147,6907
+3132,Aomori,Japan,30,1,26
+3133,Apurimac,Peru,557,19,0
+3134,Aragon,Spain,6330,912,3772
+3135,Arauca,Colombia,76,0,4
+3136,Araucania,Chile,3231,41,2922
+3137,Arequipa,Peru,7124,253,0
+3138,Arica y Parinacota,Chile,1713,20,1340
+3139,Arkhangelsk Oblast,Russia,5556,58,2688
+3140,Aruba,Netherlands,103,3,98
+3141,Arunachal Pradesh,India,191,1,62
+3142,Assam,India,8227,12,5647
+3143,Astrakhan Oblast,Russia,3479,31,2340
+3144,Asturias,Spain,2435,334,1063
+3145,Atacama,Chile,1043,2,732
+3146,Atlantico,Colombia,22777,1162,7190
+3147,Australian Capital Territory,Australia,108,3,105
+3148,Ayacucho,Peru,1775,25,0
+3149,Aysen,Chile,42,0,29
+3150,Azad Jammu and Kashmir,Pakistan,1093,30,550
+3151,Baden-Wurttemberg,Germany,35705,1838,33300
+3152,Bahia,Brazil,73307,1853,47759
+3153,Baja California,Mexico,8923,1931,6496
+3154,Baja California Sur,Mexico,1529,71,1195
+3155,Baleares,Spain,2209,224,1533
+3156,Balochistan,Pakistan,10476,121,4484
+3157,Bashkortostan Republic,Russia,5361,18,2995
+3158,Basilicata,Italy,402,27,372
+3159,Bayern,Germany,48400,2594,45100
+3160,Beijing,China,922,9,587
+3161,Belgorod Oblast,Russia,4524,42,3453
+3162,Berlin,Germany,8242,214,7349
+3163,Bermuda,United Kingdom,146,9,135
+3164,Bihar,India,10043,67,7687
+3165,Biobio,Chile,6697,50,4760
+3166,Blekinge,Sweden,444,12,0
+3167,Bolivar,Colombia,8949,365,4396
+3168,"Bonaire, Sint Eustatius and Saba",Netherlands,7,0,7
+3169,Boyaca,Colombia,359,16,216
+3170,Brandenburg,Germany,3451,171,3200
+3171,Bremen,Germany,1670,53,1539
+3172,British Columbia,Canada,2916,174,2590
+3173,British Virgin Islands,United Kingdom,8,1,7
+3174,Bryansk Oblast,Russia,6212,34,4427
+3175,Buryatia Republic,Russia,2924,19,2001
+3176,C. Valenciana,Spain,11579,1432,9970
+3177,Cajamarca,Peru,2138,68,0
+3178,Calabria,Italy,1181,97,1057
+3179,Caldas,Colombia,258,8,173
+3180,Callao,Peru,17984,625,0
+3181,Campania,Italy,4690,432,4077
+3182,Campeche,Mexico,1916,205,1512
+3183,Canarias,Spain,2427,162,1537
+3184,Cantabria,Spain,2362,216,2287
+3185,Capital District,Colombia,29320,691,12255
+3186,Caqueta,Colombia,35,2,22
+3187,Casanare,Colombia,66,0,45
+3188,Castilla - La Mancha,Spain,18158,3026,6392
+3189,Castilla y Leon,Spain,19685,2784,8716
+3190,Catalonia,Spain,61494,5670,26203
+3191,Cauca,Colombia,359,15,147
+3192,Cayman Islands,United Kingdom,200,1,191
+3193,Ceara,Brazil,108699,6146,85938
+3194,Cesar,Colombia,994,23,410
+3195,Ceuta,Spain,163,4,163
+3196,Chandigarh,India,440,6,364
+3197,Channel Islands,United Kingdom,571,47,512
+3198,Chechen Republic,Russia,1713,22,1193
+3199,Chelyabinsk Oblast,Russia,7202,88,3700
+3200,Cherkasy Oblast,Ukraine,642,24,458
+3201,Chernihiv Oblast,Ukraine,536,10,145
+3202,Chernivtsi Oblast,Ukraine,4801,183,1900
+3203,Chhattisgarh,India,2860,13,2250
+3204,Chiapas,Mexico,4489,543,3640
+3205,Chiba,Japan,968,45,868
+3206,Chihuahua,Mexico,3062,640,2315
+3207,Choco,Colombia,1452,45,470
+3208,Chongqing,China,582,6,573
+3209,Chukotka Autonomous Okrug,Russia,138,1,129
+3210,Chuvashia Republic,Russia,5076,31,2900
+3211,Ciudad de Mexico,Mexico,48014,6560,38026
+3212,Coahuila,Mexico,4573,229,3245
+3213,Colima,Mexico,551,71,361
+3214,Coquimbo,Chile,3050,23,2343
+3215,Cordoba,Colombia,744,46,212
+3216,Crimea Republic*,Ukraine,685,10,500
+3217,Cundinamarca,Colombia,2687,61,1399
+3218,Curacao,Netherlands,23,1,19
+3219,Cusco,Peru,1796,19,0
+3220,Dadra and Nagar Haveli and Daman and Diu,India,213,0,82
+3221,Dagestan Republic,Russia,7840,374,5775
+3222,Dalarna,Sweden,1626,157,0
+3223,Delhi,India,87360,2742,58348
+3224,Diamond Princess,Canada,0,1,0
+3225,Diamond Princess,US,49,0,0
+3226,Distrito Federal,Brazil,49218,587,33970
+3227,Dnipropetrovsk Oblast,Ukraine,1087,23,913
+3228,Donetsk Oblast,Ukraine,481,9,163
+3229,Durango,Mexico,1899,142,1308
+3230,Ehime,Japan,82,4,77
+3231,Emilia-Romagna,Italy,28492,4260,23222
+3232,England,United Kingdom,160587,39187,0
+3233,Espirito Santo,Brazil,46893,1648,27580
+3234,Extremadura,Spain,3030,519,2652
+3235,Falkland Islands (Malvinas),United Kingdom,13,0,13
+3236,Faroe Islands,Denmark,187,0,187
+3237,French Guiana,France,4004,15,1508
+3238,French Polynesia,France,62,0,60
+3239,Friuli Venezia Giulia,Italy,3308,345,2918
+3240,Fujian,China,363,1,359
+3241,Fukui,Japan,122,8,114
+3242,Fukuoka,Japan,846,33,799
+3243,Fukushima,Japan,82,0,80
+3244,Galicia,Spain,9215,619,9204
+3245,Gansu,China,164,2,146
+3246,Gavleborg,Sweden,2264,131,0
+3247,Gibraltar,United Kingdom,177,0,176
+3248,Gifu,Japan,156,7,146
+3249,Gilgit-Baltistan,Pakistan,1489,26,1128
+3250,Goa,India,1315,3,596
+3251,Goias,Brazil,24381,474,0
+3252,Gotland,Sweden,160,7,0
+3253,Grand Princess,Canada,13,0,13
+3254,Grand Princess,US,103,3,0
+3255,Greenland,Denmark,13,0,13
+3256,Guadeloupe,France,182,14,157
+3257,Guainia,Colombia,15,1,2
+3258,Guam,US,257,5,0
+3259,Guanajuato,Mexico,7336,357,5567
+3260,Guangdong,China,1641,8,1627
+3261,Guangxi,China,254,2,252
+3262,Guaviare,Colombia,37,0,6
+3263,Guerrero,Mexico,5413,880,4061
+3264,Guizhou,China,147,2,145
+3265,Gujarat,India,32557,1846,23662
+3266,Gunma,Japan,153,19,131
+3267,Hainan,China,171,6,165
+3268,Halland,Sweden,1483,71,0
+3269,Hamburg,Germany,5203,259,4900
+3270,Haryana,India,14548,236,9972
+3271,Hebei,China,349,6,334
+3272,Heilongjiang,China,947,13,934
+3273,Henan,China,1276,22,1254
+3274,Hessen,Germany,10795,508,9900
+3275,Hidalgo,Mexico,3866,666,2767
+3276,Himachal Pradesh,India,953,10,580
+3277,Hiroshima,Japan,165,3,162
+3278,Hokkaido,Japan,1254,99,1054
+3279,Hong Kong,China,1205,7,1107
+3280,Huancavelica,Peru,902,11,0
+3281,Huanuco,Peru,2363,64,0
+3282,Hubei,China,68135,4512,63623
+3283,Huila,Colombia,332,14,246
+3284,Hunan,China,1019,4,1015
+3285,Hyogo,Japan,706,43,654
+3286,Ibaraki,Japan,174,10,159
+3287,Ica,Peru,7588,476,0
+3288,Ingushetia Republic,Russia,3047,68,2458
+3289,Inner Mongolia,China,238,1,237
+3290,Irkutsk Oblast,Russia,7285,59,2704
+3291,Ishikawa,Japan,300,27,256
+3292,Islamabad,Pakistan,12912,128,7261
+3293,Isle of Man,United Kingdom,336,24,312
+3294,Ivano-Frankivsk Oblast,Ukraine,2395,101,1098
+3295,Ivanovo Oblast,Russia,4691,44,2923
+3296,Jalisco,Mexico,6684,692,5038
+3297,Jammu and Kashmir,India,7497,101,4722
+3298,Jamtland Harjedalen,Sweden,1033,48,0
+3299,Jewish Autonomous Okrug,Russia,426,5,347
+3300,Jharkhand,India,2490,15,1884
+3301,Jiangsu,China,654,0,654
+3302,Jiangxi,China,932,1,931
+3303,Jilin,China,155,2,153
+3304,Jonkoping,Sweden,3977,169,0
+3305,Junin,Peru,3929,138,0
+3306,Kabardino-Balkarian Republic,Russia,5010,53,3386
+3307,Kagawa,Japan,28,0,28
+3308,Kagoshima,Japan,11,0,10
+3309,Kaliningrad Oblast,Russia,2446,37,1485
+3310,Kalmar,Sweden,626,54,0
+3311,Kalmykia Republic,Russia,1483,23,1054
+3312,Kaluga Oblast,Russia,6018,44,3590
+3313,Kamchatka Krai,Russia,2190,28,946
+3314,Kanagawa,Japan,1501,96,1306
+3315,Karachay-Cherkess Republic,Russia,3520,12,1452
+3316,Karelia Republic,Russia,1294,3,518
+3317,Karnataka,India,15242,246,7918
+3318,Kemerovo Oblast,Russia,1662,9,734
+3319,Kerala,India,4442,24,2306
+3320,Khabarovsk Krai,Russia,4221,29,2161
+3321,Khakassia Republic,Russia,1872,15,1340
+3322,Khanty-Mansi Autonomous Okrug,Russia,8958,55,4501
+3323,Kharkiv Oblast,Ukraine,2134,80,1086
+3324,Kherson Oblast,Ukraine,191,3,176
+3325,Khmelnytskyi Oblast,Ukraine,803,17,544
+3326,Khyber Pakhtunkhwa,Pakistan,26598,951,13067
+3327,Kiev,Ukraine,5037,108,1563
+3328,Kiev Oblast,Ukraine,2585,50,1332
+3329,Kirov Oblast,Russia,3214,35,2522
+3330,Kirovohrad Oblast,Ukraine,646,31,536
+3331,Kochi,Japan,74,3,71
+3332,Komi Republic,Russia,3409,30,1599
+3333,Kostroma Oblast,Russia,1583,17,906
+3334,Krasnodar Krai,Russia,5982,76,4706
+3335,Krasnoyarsk Krai,Russia,8904,120,3827
+3336,Kronoberg,Sweden,1063,94,0
+3337,Kumamoto,Japan,48,3,45
+3338,Kurgan Oblast,Russia,786,1,427
+3339,Kursk Oblast,Russia,5080,34,2975
+3340,Kyoto,Japan,381,18,344
+3341,La Guajira,Colombia,395,19,81
+3342,La Libertad,Peru,9962,585,0
+3343,La Rioja,Spain,4076,366,3107
+3344,Ladakh,India,973,1,648
+3345,Lambayeque,Peru,13657,747,0
+3346,Lazio,Italy,8110,837,6437
+3347,Leningrad Oblast,Russia,4420,32,4169
+3348,Liaoning,China,155,2,148
+3349,Liguria,Italy,9977,1558,8139
+3350,Lima,Peru,158189,4489,0
+3351,Lipetsk Oblast,Russia,3779,16,2358
+3352,Lombardia,Italy,93901,16644,67197
+3353,Loreto,Peru,9023,345,0
+3354,Los Lagos,Chile,1656,21,1338
+3355,Los Rios,Chile,701,10,594
+3356,Luhansk Oblast,Ukraine,80,0,58
+3357,Lviv Oblast,Ukraine,5435,146,747
+3358,Macau,China,46,0,45
+3359,Madhya Pradesh,India,13593,572,10395
+3360,Madre de Dios,Peru,1844,31,0
+3361,Madrid,Spain,71950,8425,40736
+3362,Magadan Oblast,Russia,764,4,361
+3363,Magallanes,Chile,1452,15,1294
+3364,Magdalena,Colombia,1774,116,747
+3365,Maharashtra,India,174761,7855,90911
+3366,Manipur,India,1234,0,553
+3367,Manitoba,Canada,325,7,300
+3368,Maranhao,Brazil,80451,2048,61093
+3369,Marche,Italy,6785,991,5528
+3370,Mari El Republic,Russia,2959,23,2824
+3371,Martinique,France,242,14,98
+3372,Mato Grosso,Brazil,15636,593,5891
+3373,Mato Grosso do Sul,Brazil,7965,76,4387
+3374,Maule,Chile,5549,48,4182
+3375,Mayotte,France,2603,35,2325
+3376,Mecklenburg-Vorpommern,Germany,803,20,767
+3377,Meghalaya,India,52,1,42
+3378,Melilla,Spain,126,2,125
+3379,Meta,Colombia,1229,14,970
+3380,Metropolitana,Chile,219151,4889,194094
+3381,Mexico,Mexico,34253,4312,27900
+3382,Michoacan,Mexico,5665,450,4746
+3383,Mie,Japan,45,1,44
+3384,Minas Gerais,Brazil,45001,965,26432
+3385,Miyagi,Japan,94,1,88
+3386,Miyazaki,Japan,17,0,17
+3387,Mizoram,India,160,0,122
+3388,Molise,Italy,445,23,397
+3389,Montserrat,United Kingdom,11,1,10
+3390,Moquegua,Peru,949,13,0
+3391,Mordovia Republic,Russia,3394,26,2200
+3392,Morelos,Mexico,2898,665,2061
+3393,Moscow,Russia,221598,3796,150397
+3394,Moscow Oblast,Russia,57570,887,35240
+3395,Murcia,Spain,1684,147,2180
+3396,Murmansk Oblast,Russia,5211,15,3529
+3397,Mykolaiv Oblast,Ukraine,444,10,281
+3398,Nagaland,India,459,0,168
+3399,Nagano,Japan,76,0,76
+3400,Nagasaki,Japan,17,1,16
+3401,Nara,Japan,92,2,90
+3402,Narino,Colombia,3307,112,1907
+3403,Navarra,Spain,5463,528,3905
+3404,Nayarit,Mexico,1723,201,1161
+3405,Nenets Autonomous Okrug,Russia,104,0,38
+3406,New Brunswick,Canada,165,2,159
+3407,New Caledonia,France,21,0,21
+3408,New South Wales,Australia,3203,49,2787
+3409,Newfoundland and Labrador,Canada,261,3,258
+3410,Niedersachsen,Germany,13535,630,12100
+3411,Niigata,Japan,83,0,82
+3412,Ningxia,China,75,0,75
+3413,Nizhny Novgorod Oblast,Russia,17481,234,11061
+3414,Nordrhein-Westfalen,Germany,43066,1680,37700
+3415,Norrbotten,Sweden,1284,66,0
+3416,Norte de Santander,Colombia,327,20,159
+3417,North Ossetia - Alania Republic,Russia,4006,67,3525
+3418,Northern Ireland,United Kingdom,4880,551,0
+3419,Northern Mariana Islands,US,30,2,0
+3420,Northern Territory,Australia,29,0,29
+3421,Northwest Territories,Canada,5,0,5
+3422,Nova Scotia,Canada,1062,63,998
+3423,Novgorod Oblast,Russia,2884,25,796
+3424,Novosibirsk Oblast,Russia,5985,96,3496
+3425,Nuble,Chile,2397,32,2021
+3426,Nuevo Leon,Mexico,5931,332,4353
+3427,OHiggins,Chile,6081,69,3973
+3428,Oaxaca,Mexico,5347,581,4155
+3429,Odessa Oblast,Ukraine,1698,23,736
+3430,Odisha,India,7065,25,5189
+3431,Oita,Japan,60,1,59
+3432,Okayama,Japan,26,0,25
+3433,Okinawa,Japan,145,7,138
+3434,Omsk Oblast,Russia,3615,30,2005
+3435,Ontario,Canada,36961,2730,31870
+3436,Orebro,Sweden,2319,162,0
+3437,Orel Oblast,Russia,4513,61,2823
+3438,Orenburg Oblast,Russia,3777,19,2672
+3439,Osaka,Japan,1833,86,1705
+3440,Ostergotland,Sweden,3212,224,0
+3441,P.A. Bolzano,Italy,2639,292,2263
+3442,P.A. Trento,Italy,4863,405,4408
+3443,Pais Vasco,Spain,13783,1558,16160
+3444,Para,Brazil,103206,4920,90860
+3445,Paraiba,Brazil,46957,977,14930
+3446,Parana,Brazil,22877,649,5230
+3447,Pasco,Peru,1104,21,0
+3448,Penza Oblast,Russia,4970,41,4661
+3449,Perm Krai,Russia,3691,78,2701
+3450,Pernambuco,Brazil,58858,4829,40347
+3451,Piaui,Brazil,20422,663,20479
+3452,Piemonte,Italy,31349,4090,25836
+3453,Piura,Peru,16923,754,0
+3454,Poltava Oblast,Ukraine,314,13,268
+3455,Port Quarantine,Japan,321,1,189
+3456,Primorsky Krai,Russia,4306,44,2745
+3457,Prince Edward Island,Canada,27,0,27
+3458,Pskov Oblast,Russia,2757,22,984
+3459,Puducherry,India,714,12,272
+3460,Puebla,Mexico,10530,1274,7649
+3461,Puerto Rico,US,7465,153,0
+3462,Puglia,Italy,4531,545,3857
+3463,Punjab,India,5568,144,3867
+3464,Punjab,Pakistan,76262,1762,27488
+3465,Puno,Peru,952,21,0
+3466,Putumayo,Colombia,26,6,9
+3467,Qinghai,China,18,0,18
+3468,Quebec,Canada,55458,5503,24798
+3469,Queensland,Australia,1067,6,1054
+3470,Queretaro,Mexico,1963,283,1455
+3471,Quindio,Colombia,161,5,115
+3472,Quintana Roo,Mexico,3619,575,2432
+3473,Rajasthan,India,18014,413,14220
+3474,Recovered,US,0,0,720631
+3475,Reunion,France,526,2,472
+3476,Rheinland-Pfalz,Germany,7001,235,6597
+3477,Rio Grande do Norte,Brazil,30287,1034,2904
+3478,Rio Grande do Sul,Brazil,26941,614,21664
+3479,Rio de Janeiro,Brazil,112611,10080,93423
+3480,Risaralda,Colombia,511,12,275
+3481,Rivne Oblast,Ukraine,3712,70,1769
+3482,Rondonia,Brazil,21251,518,9225
+3483,Roraima,Brazil,14641,283,4420
+3484,Rostov Oblast,Russia,9611,125,5744
+3485,Ryazan Oblast,Russia,5197,19,3506
+3486,Saarland,Germany,2806,173,2581
+3487,Sachsen,Germany,5448,223,5125
+3488,Sachsen-Anhalt,Germany,1875,59,1725
+3489,Saga,Japan,45,0,45
+3490,Saint Barthelemy,France,6,0,6
+3491,Saint Petersburg,Russia,24207,1136,17310
+3492,Saint Pierre and Miquelon,France,1,0,1
+3493,Saitama,Japan,1132,65,954
+3494,Sakha (Yakutiya) Republic,Russia,4223,30,2961
+3495,Sakhalin Oblast,Russia,800,0,332
+3496,Samara Oblast,Russia,4837,56,2714
+3497,San Andres y Providencia,Colombia,24,1,17
+3498,San Luis Potosi,Mexico,3113,154,2310
+3499,San Martin,Peru,4982,148,0
+3500,Santa Catarina,Brazil,26354,341,20505
+3501,Santander,Colombia,690,14,189
+3502,Sao Paulo,Brazil,281380,14763,49295
+3503,Saratov Oblast,Russia,6444,43,3344
+3504,Sardegna,Italy,1366,133,1219
+3505,Saskatchewan,Canada,785,13,684
+3506,Schleswig-Holstein,Germany,3159,152,3000
+3507,Scotland,United Kingdom,15822,2482,0
+3508,Sergipe,Brazil,25411,676,10109
+3509,Sevastopol*,Ukraine,235,4,177
+3510,Shaanxi,China,320,3,309
+3511,Shandong,China,792,7,785
+3512,Shanghai,China,712,7,675
+3513,Shanxi,China,198,0,198
+3514,Shiga,Japan,101,1,99
+3515,Shimane,Japan,24,0,23
+3516,Shizuoka,Japan,82,1,77
+3517,Sichuan,China,595,3,580
+3518,Sicilia,Italy,3080,282,2670
+3519,Sikkim,India,89,0,52
+3520,Sinaloa,Mexico,8296,1298,6584
+3521,Sindh,Pakistan,84640,1377,46824
+3522,Sint Maarten,Netherlands,77,15,62
+3523,Skane,Sweden,3051,245,0
+3524,Smolensk Oblast,Russia,4581,65,2343
+3525,Sonora,Mexico,7587,708,6309
+3526,Sormland,Sweden,2080,243,0
+3527,South Australia,Australia,443,4,436
+3528,St Martin,France,43,3,37
+3529,Stavropol Krai,Russia,5141,97,2963
+3530,Stockholm,Sweden,20171,2302,0
+3531,Sucre,Colombia,1153,63,115
+3532,Sumy Oblast,Ukraine,297,5,222
+3533,Sverdlovsk Oblast,Russia,12792,95,7459
+3534,Tabasco,Mexico,10673,1048,8528
+3535,Tacna,Peru,897,9,0
+3536,Tamaulipas,Mexico,5918,363,4610
+3537,Tambov Oblast,Russia,4727,19,2880
+3538,Tamil Nadu,India,90167,1201,50074
+3539,Tarapaca,Chile,6049,91,5193
+3540,Tasmania,Australia,228,13,215
+3541,Tatarstan Republic,Russia,4555,11,3703
+3542,Telangana,India,16339,260,7294
+3543,Ternopil Oblast,Ukraine,1919,28,1140
+3544,Thuringen,Germany,3254,181,3030
+3545,Tianjin,China,198,3,194
+3546,Tibet,China,1,0,1
+3547,Tlaxcala,Mexico,2503,335,1876
+3548,Tocantins,Brazil,10764,200,6916
+3549,Tochigi,Japan,79,0,65
+3550,Tokushima,Japan,6,1,4
+3551,Tokyo,Japan,6235,325,5395
+3552,Tolima,Colombia,934,22,319
+3553,Tomsk Oblast,Russia,2254,14,1079
+3554,Toscana,Italy,10250,1104,8817
+3555,Tottori,Japan,3,0,3
+3556,Toyama,Japan,227,22,205
+3557,Tripura,India,1388,1,1086
+3558,Tula Oblast,Russia,6686,107,5502
+3559,Tumbes,Peru,2696,121,0
+3560,Turks and Caicos Islands,United Kingdom,41,2,11
+3561,Tver Oblast,Russia,3622,69,2464
+3562,Tyumen Oblast,Russia,3087,17,1812
+3563,Tyva Republic,Russia,4486,3,1149
+3564,Ucayali,Peru,7736,152,0
+3565,Udmurt Republic,Russia,1420,16,1028
+3566,Ulyanovsk Oblast,Russia,5780,39,3003
+3567,Umbria,Italy,1441,80,1351
+3568,Unknown,Chile,0,0,98
+3569,Unknown,Colombia,113,0,0
+3570,Unknown,Germany,1005,0,187
+3571,Unknown,India,6915,0,0
+3572,Unknown,Japan,8,0,0
+3573,Unknown,Peru,0,0,174535
+3574,Unknown,Spain,0,0,0
+3575,Unknown,United Kingdom,115622,0,0
+3576,Uppsala,Sweden,3236,226,0
+3577,Uttar Pradesh,India,23492,697,16084
+3578,Uttarakhand,India,2881,41,2231
+3579,Valle d'Aosta,Italy,1195,146,1045
+3580,Valle del Cauca,Colombia,9628,406,4391
+3581,Valparaiso,Chile,11752,230,9409
+3582,Varmland,Sweden,951,68,0
+3583,Vasterbotten,Sweden,699,31,0
+3584,Vasternorrland,Sweden,1360,113,0
+3585,Vastmanland,Sweden,2239,165,0
+3586,Vastra Gotaland,Sweden,15173,745,0
+3587,Vaupes,Colombia,28,0,13
+3588,Veneto,Italy,19286,2012,16812
+3589,Veracruz,Mexico,10173,1547,7555
+3590,Vichada,Colombia,1,0,1
+3591,Victoria,Australia,2231,20,1816
+3592,Vinnytsia Oblast,Ukraine,1864,28,1179
+3593,Virgin Islands,US,81,6,0
+3594,Vladimir Oblast,Russia,4362,64,2724
+3595,Volgograd Oblast,Russia,6327,39,2905
+3596,Vologda Oblast,Russia,1607,17,1181
+3597,Volyn Oblast,Ukraine,2368,60,694
+3598,Voronezh Oblast,Russia,7588,38,4286
+3599,Wakayama,Japan,64,3,60
+3600,Wales,United Kingdom,15743,1510,0
+3601,West Bengal,India,18559,668,12130
+3602,Western Australia,Australia,611,9,598
+3603,Xinjiang,China,76,3,73
+3604,Yamagata,Japan,69,0,68
+3605,Yamaguchi,Japan,37,0,37
+3606,Yamalo-Nenets Autonomous Okrug,Russia,5580,37,2378
+3607,Yamanashi,Japan,74,1,71
+3608,Yaroslavl Oblast,Russia,4785,19,3194
+3609,Yucatan,Mexico,4394,414,2870
+3610,Yukon,Canada,11,0,11
+3611,Yunnan,China,185,2,183
+3612,Zabaykalsky Krai,Russia,3100,42,2000
+3613,Zacatecas,Mexico,908,96,626
+3614,Zakarpattia Oblast,Ukraine,2889,91,943
+3615,Zaporizhia Oblast,Ukraine,572,17,418
+3616,Zhejiang,China,1269,1,1267
+3617,Zhytomyr Oblast,Ukraine,1404,29,746
+3618,,Afghanistan,31517,746,14131
+3619,,Albania,2535,62,1459
+3620,,Algeria,13907,912,9897
+3621,,Andorra,855,52,799
+3622,,Angola,284,13,93
+3623,,Antigua and Barbuda,69,3,22
+3624,,Argentina,64530,1307,22028
+3625,,Armenia,25542,443,14048
+3626,,Austria,17766,705,16478
+3627,,Azerbaijan,17524,213,9715
+3628,,Bahamas,104,11,87
+3629,,Bahrain,26758,87,21331
+3630,,Bangladesh,145483,1847,59624
+3631,,Barbados,97,7,90
+3632,,Belarus,62118,392,46054
+3633,,Belgium,61427,9747,16984
+3634,,Belize,24,2,18
+3635,,Benin,1199,21,333
+3636,,Bhutan,77,0,48
+3637,,Bolivia,33219,1123,9340
+3638,,Bosnia and Herzegovina,4453,186,2402
+3639,,Botswana,227,1,28
+3640,,Brunei,141,3,138
+3641,,Bulgaria,4989,230,2676
+3642,,Burkina Faso,962,53,838
+3643,,Burma,299,6,222
+3644,,Burundi,170,1,115
+3645,,Cabo Verde,1227,15,629
+3646,,Cambodia,141,0,130
+3647,,Cameroon,12592,313,10100
+3648,,Central African Republic,3745,47,787
+3649,,Chad,866,74,781
+3650,,Comoros,303,7,200
+3651,,Congo (Brazzaville),1087,37,456
+3652,,Congo (Kinshasa),7039,170,1426
+3653,,Costa Rica,3459,16,1436
+3654,,Cote d'Ivoire,9499,68,4273
+3655,,Croatia,2777,107,2155
+3656,,Cuba,2341,86,2214
+3657,,Cyprus,998,19,833
+3658,,Czechia,11954,349,7771
+3659,,Denmark,12768,605,11649
+3660,,Diamond Princess,712,13,651
+3661,,Djibouti,4682,54,4524
+3662,,Dominica,18,0,18
+3663,,Dominican Republic,32568,747,17580
+3664,,Ecuador,56432,4527,27594
+3665,,Egypt,68311,2953,18460
+3666,,El Salvador,6438,174,3770
+3667,,Equatorial Guinea,2001,32,515
+3668,,Eritrea,203,0,53
+3669,,Estonia,1989,69,1829
+3670,,Eswatini,812,11,408
+3671,,Ethiopia,5846,103,2430
+3672,,Fiji,18,0,18
+3673,,Finland,7214,328,6600
+3674,,France,194373,29763,71714
+3675,,Gabon,5394,42,2420
+3676,,Gambia,49,2,27
+3677,,Georgia,928,15,794
+3678,,Ghana,17741,112,13268
+3679,,Greece,3409,192,1374
+3680,,Grenada,23,0,23
+3681,,Guatemala,18096,773,3194
+3682,,Guinea,5391,33,4326
+3683,,Guinea-Bissau,1654,24,317
+3684,,Guyana,245,12,114
+3685,,Haiti,5975,105,931
+3686,,Holy See,12,0,12
+3687,,Honduras,19558,497,2060
+3688,,Hungary,4155,585,2692
+3689,,Iceland,1842,10,1819
+3690,,Indonesia,56385,2876,24806
+3691,,Iran,227662,10817,188758
+3692,,Iraq,49109,1943,24760
+3693,,Ireland,25473,1736,23364
+3694,,Israel,25244,320,17341
+3695,,Jamaica,702,10,553
+3696,,Jordan,1132,9,882
+3697,,Kazakhstan,22308,188,13558
+3698,,Kenya,6366,148,2039
+3699,,"Korea, South",12850,282,11613
+3700,,Kosovo,2878,51,1577
+3701,,Kuwait,46195,354,37030
+3702,,Kyrgyzstan,5506,61,2443
+3703,,Laos,19,0,19
+3704,,Latvia,1118,30,974
+3705,,Lebanon,1778,34,1183
+3706,,Lesotho,27,0,4
+3707,,Liberia,780,36,324
+3708,,Libya,824,24,209
+3709,,Liechtenstein,82,1,81
+3710,,Lithuania,1817,78,1515
+3711,,Luxembourg,4299,110,3998
+3712,,MS Zaandam,9,2,0
+3713,,Madagascar,2214,20,994
+3714,,Malawi,1224,14,260
+3715,,Malaysia,8639,121,8354
+3716,,Maldives,2361,9,1944
+3717,,Mali,2181,116,1474
+3718,,Malta,670,9,640
+3719,,Mauritania,4363,129,1622
+3720,,Mauritius,341,10,326
+3721,,Moldova,16613,545,9382
+3722,,Monaco,103,4,95
+3723,,Mongolia,220,0,176
+3724,,Montenegro,548,12,315
+3725,,Morocco,12533,228,8920
+3726,,Mozambique,889,6,232
+3727,,Namibia,205,0,24
+3728,,Nepal,13564,29,3194
+3729,,Netherlands,50273,6113,0
+3730,,New Zealand,1528,22,1484
+3731,,Nicaragua,2519,83,1238
+3732,,Niger,1075,67,943
+3733,,Nigeria,25694,590,9746
+3734,,North Macedonia,6334,302,2475
+3735,,Norway,8879,250,8138
+3736,,Oman,40070,176,23425
+3737,,Panama,33550,631,15745
+3738,,Papua New Guinea,11,0,8
+3739,,Paraguay,2221,17,1089
+3740,,Philippines,37514,1266,10233
+3741,,Poland,34393,1463,21281
+3742,,Portugal,42141,1576,27505
+3743,,Qatar,96088,113,81564
+3744,,Romania,26970,1651,19050
+3745,,Rwanda,1025,2,447
+3746,,Saint Kitts and Nevis,15,0,15
+3747,,Saint Lucia,19,0,19
+3748,,Saint Vincent and the Grenadines,29,0,29
+3749,,San Marino,698,42,656
+3750,,Sao Tome and Principe,714,13,236
+3751,,Saudi Arabia,190823,1649,130766
+3752,,Senegal,6793,112,4431
+3753,,Serbia,14564,277,12662
+3754,,Seychelles,81,0,11
+3755,,Sierra Leone,1462,60,974
+3756,,Singapore,43907,26,38500
+3757,,Slovakia,1667,28,1464
+3758,,Slovenia,1600,111,1384
+3759,,Somalia,2924,90,910
+3760,,South Africa,151209,2657,73543
+3761,,South Sudan,2007,38,279
+3762,,Sri Lanka,2047,11,1711
+3763,,Sudan,9257,572,4014
+3764,,Suriname,515,13,227
+3765,,Switzerland,31714,1963,29200
+3766,,Syria,279,9,105
+3767,,Taiwan*,447,7,437
+3768,,Tajikistan,5900,52,4506
+3769,,Tanzania,509,21,183
+3770,,Thailand,3171,58,3056
+3771,,Timor-Leste,24,0,24
+3772,,Togo,650,14,402
+3773,,Trinidad and Tobago,130,8,113
+3774,,Tunisia,1174,50,1031
+3775,,Turkey,199906,5131,173111
+3776,,Uganda,889,0,819
+3777,,United Arab Emirates,48667,315,37566
+3778,,Uruguay,936,27,824
+3779,,Uzbekistan,8503,26,5682
+3780,,Venezuela,5832,51,1649
+3781,,Vietnam,355,0,335
+3782,,West Bank and Gaza,2428,8,451
+3783,,Western Sahara,10,1,8
+3784,,Yemen,1158,312,488
+3785,,Zambia,1594,24,1329
+3786,,Zimbabwe,591,7,162
